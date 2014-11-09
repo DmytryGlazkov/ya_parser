@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr" class="client-nojs">
+<head>
+<title>VeloWiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.20.0" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="VeloWiki (ru)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://velowiki.org/api.php?action=rsd" />
+<link rel="copyright" href="/wiki/VeloWiki:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE" />
+<link rel="alternate" type="application/atom+xml" title="VeloWiki — Atom-лента" href="/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom" />
+<link rel="stylesheet" href="http://velowiki.org/load.php?debug=false&amp;lang=ru&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.monobook&amp;only=styles&amp;skin=monobook&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/skins/monobook/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins/monobook/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://velowiki.org/load.php?debug=false&amp;lang=ru&amp;modules=site&amp;only=styles&amp;skin=monobook&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: velowiki-velowiki_:resourceloader:filter:minify-css:7:637d5b9f7b376bcda4b168c4324670db */</style>
+
+<script src="http://velowiki.org/load.php?debug=false&amp;lang=ru&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Российская_велосипедная_энциклопедия","wgTitle":"Российская велосипедная энциклопедия","wgCurRevisionId":3420,"wgArticleId":56,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"ru","wgSeparatorTransformTable":[",	."," 	,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgMonthNamesShort":["","янв","фев","мар","апр","мая","июн","июл","авг","сен","окт","ноя","дек"],"wgRelevantPageName":"Российская_велосипедная_энциклопедия","wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"monobook","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"ru","language":"ru","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: velowiki-velowiki_:resourceloader:filter:minify-js:7:dd97c7189f22a1b79a755e3e1cd1087a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Российская_велосипедная_энциклопедия skin-monobook action-view">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" class="mw-body-primary">
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading"><span dir="auto">Российская велосипедная энциклопедия</span></h1>
+	<div id="bodyContent" class="mw-body">
+		<div id="siteSub">Материал из VeloWiki</div>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav" class="mw-jump">Перейти к: <a href="#column-one">навигация</a>, <a href="#searchInput">поиск</a></div>
+		<!-- start content -->
+<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><table style="width:100%;">
+<tr>
+<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C" title="Категория:Велосипедная жизнь"><img alt="Bicycle-icon.png" src="/images/c/c8/Bicycle-icon.png" width="32" height="32" /></a></div></div></td>
+<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Категория:Безопасность вождения"><img alt="Helmet-icon.png" src="/images/d/d1/Helmet-icon.png" width="32" height="32" /></a></div></div></td>
+<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Категория:Техника"><img alt="Techno-icon.png" src="/images/5/51/Techno-icon.png" width="32" height="32" /></a></div></div></td>
+<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0" title="Категория:Устройство велосипеда"><img alt="Gear-icon.png" src="/images/d/de/Gear-icon.png" width="32" height="32" /></a></div></div></td>
+<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Категория:Снаряжение"><img alt="Flashlight-icon.png" src="/images/8/85/Flashlight-icon.png" width="32" height="32" /></a></div></div></td>
+<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F" title="Категория:Навигация"><img alt="Navigator-icon.png" src="/images/a/a0/Navigator-icon.png" width="32" height="32" /></a></div></div></td>
+</tr>
+<tr>
+<td style="padding-right:10px;padding-left:10px;text-align: center"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C" title="Категория:Велосипедная жизнь">Велосипедная жизнь</a></td>
+<td style="padding-right:10px;padding-left:10px;text-align: center"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Категория:Безопасность вождения">Безопасность вождения</a></td>
+<td style="padding-right:20px;padding-left:20px;text-align: center"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Категория:Техника">Техника</a></td>
+<td style="padding-right:10px;padding-left:10px;text-align: center"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0" title="Категория:Устройство велосипеда">Устройство велосипеда</a></td>
+<td style="padding-right:20px;padding-left:20px;text-align: center"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Категория:Снаряжение">Снаряжение</a></td>
+<td style="padding-right:20px;padding-left:20px;text-align: center"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F" title="Категория:Навигация">Навигация</a></td>
+</tr>
+</table>
+<ul><li> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Категория:Статьи"> Рубрикатор статей</a> - основной контент энциклопедии
+</li><li> <a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%9A%D0%B0%D0%BA_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C_%D0%B8_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Справка:Как создавать и править статьи"> Вводный курс по созданию статьи</a>
+</li><li> Быстрое создание статьи:
+</li></ul>
+<div style="text-align: center; font-size: 95%; margin-bottom:.5em;"><div align="center" style="background-color:transparent"><form name="searchbox" id="searchbox" class="searchbox" action="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA"><input class="searchboxInput" name="search" type="text" value="" size="90" /><br /><input type="submit" name="go" class="searchboxGoButton" value="Создание новой статьи или переход к существующей" />&#160;<input type="submit" name="fulltext" class="searchboxSearchButton" value="Полнотекстный поиск" /></form></div>
+</div>
+<ul><li> <a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Справка:Справка"> Справка по работе с проектом</a> (<a rel="nofollow" class="external text" href="http://meta.wikimedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5">полная инструкция по движку</a>)
+</li><li> <a rel="nofollow" class="external text" href="http://velopiter.spb.ru/forum/index.php?t=thread&amp;frm_id=67">Форум проекта</a>
+</li><li> <a href="/wiki/%D0%92%D0%92:%D0%97%D0%9A%D0%90" title="ВВ:ЗКА" class="mw-redirect"> Запросы к администраторам</a>
+</li></ul>
+<h2> <span class="mw-headline" id=".D0.9F.D0.BE.D0.BB.D0.B5.D0.B7.D0.BD.D1.8B.D0.B5_.D1.81.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"> Полезные ссылки </span></h2>
+<ul><li> Клуб <a rel="nofollow" class="external text" href="http://www.velopiter.spb.ru">Велопитер</a> и <a rel="nofollow" class="external text" href="http://www.velopiter.spb.ru/forum">форум клуба</a>;
+</li><li> <a rel="nofollow" class="external text" href="http://www.velopiter.spb.ru/review">Отзывы Пользователей</a> по велосипедам и комплектующим
+</li><li> <a rel="nofollow" class="external text" href="http://www.activeinfo.ru/review">Отзывы Пользователей</a> по туристическому снаряжению
+</li></ul>
+<h2> <span class="mw-headline" id=".D0.9E.D0.B1.D0.BB.D0.B0.D0.BA.D0.BE"> Облако </span></h2>
+<div class="tagcloud " style=""><a class="" style="font-size: 78%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:VeloWiki:%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F">VeloWiki:Документация</a>&#160; <a class="" style="font-size: 82%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D1%82%D0%B8-%D0%B2%D0%BE%D1%80">Анти-вор</a>&#160; <a class="" style="font-size: 102%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F">Безопасность вождения</a>&#160; <a class="" style="font-size: 154%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D1%80%D0%B5%D0%BD%D0%B4%D1%8B">Бренды</a>&#160; <a class="" style="font-size: 74%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8">Велогонки</a>&#160; <a class="" style="font-size: 82%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D0%B7%D0%B8%D0%BC%D0%B0">Велозима</a>&#160; <a class="" style="font-size: 82%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4_%D0%B2_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B5">Велосипед в городе</a>&#160; <a class="" style="font-size: 130%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C">Велосипедная жизнь</a>&#160; <a class="" style="font-size: 86%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BB%D1%83%D0%B1%D1%8B">Велосипедные клубы</a>&#160; <a class="" style="font-size: 106%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82">Велоспорт</a>&#160; <a class="" style="font-size: 150%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC">Велотуризм</a>&#160; <a class="" style="font-size: 90%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%B0">Велоформа</a>&#160; <a class="" style="font-size: 98%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%B1%D0%BE%D1%80_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0">Выбор велосипеда</a>&#160; <a class="" style="font-size: 74%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F">Документация</a>&#160; <a class="" style="font-size: 74%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%BD%D0%B0_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0%D1%85">Игры на велосипедах</a>&#160; <a class="" style="font-size: 74%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Игры на местности</a>&#160; <a class="" style="font-size: 114%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B">Инструменты</a>&#160; <a class="" style="font-size: 150%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BE%D0%B2">Классификация велосипедов</a>&#160; <a class="" style="font-size: 118%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BB%D0%B5%D1%81%D0%BE">Колесо</a>&#160; <a class="" style="font-size: 98%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B">Материалы</a>&#160; <a class="" style="font-size: 82%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D1%8B%D0%B5_%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B">Многозначные термины</a>&#160; <a class="" style="font-size: 90%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F">Навигация</a>&#160; <a class="" style="font-size: 86%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D0%BA%D0%B0_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0">Перевозка велосипеда</a>&#160; <a class="" style="font-size: 74%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8">Персоналии</a>&#160; <a class="" style="font-size: 114%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BA%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B8">Покатушки</a>&#160; <a class="" style="font-size: 78%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F">Производители снаряжения</a>&#160; <a class="" style="font-size: 86%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0">Светотехника</a>&#160; <a class="" style="font-size: 82%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8">Скрытые категории</a>&#160; <a class="" style="font-size: 142%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5">Снаряжение</a>&#160; <a class="" style="font-size: 102%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B">Справочные материалы</a>&#160; <a class="" style="font-size: 98%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8">Статьи</a>&#160; <a class="" style="font-size: 102%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BA_%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8E">Статьи к наполнению</a>&#160; <a class="" style="font-size: 74%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BA_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E">Статьи к обновлению</a>&#160; <a class="" style="font-size: 86%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BC_%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%B0%D0%BC">Статьи по внутренним признакам</a>&#160; <a class="" style="font-size: 82%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BF%D0%BE%D0%B4%D0%BE%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D0%BD%D0%B0_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C">Статьи с подозрением на достоверность</a>&#160; <a class="" style="font-size: 102%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0">Техника</a>&#160; <a class="" style="font-size: 74%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B5%D0%B7%D0%B4%D1%8B">Техника езды</a>&#160; <a class="" style="font-size: 106%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">Техническое обслуживание</a>&#160; <a class="" style="font-size: 86%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%B0">Тормоза</a>&#160; <a class="" style="font-size: 134%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F">Трансмиссия</a>&#160; <a class="" style="font-size: 134%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5">Туристическое снаряжение</a>&#160; <a class="" style="font-size: 74%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B8%D0%B4%D1%8B_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0">Уличные виды спорта</a>&#160; <a class="" style="font-size: 170%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0">Устройство велосипеда</a>&#160; <a class="" style="font-size: 78%;" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BA%D1%80%D0%BE%D1%81%D1%81">Циклокросс</a>&#160; </div>
+<h2> <span class="mw-headline" id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"> См. также </span></h2>
+<ul><li> <a rel="nofollow" class="external text" href="http://www.mediawiki.org/wiki/Manual:Configuration_settings">Список возможных настроек</a>;
+</li><li> <a rel="nofollow" class="external text" href="http://www.mediawiki.org/wiki/Manual:FAQ">Часто задаваемые вопросы и ответы по MediaWiki</a>;
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 39/1000000
+Preprocessor generated node count: 78/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key velowiki-velowiki_:pcache:idhash:56-0!*!0!!*!2!* and timestamp 20141108215552 -->
+</div><div class="printfooter">
+Источник — «<a href="http://velowiki.org/index.php?title=Российская_велосипедная_энциклопедия&amp;oldid=3420">http://velowiki.org/index.php?title=Российская_велосипедная_энциклопедия&amp;oldid=3420</a>»</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Просмотры</h5>
+		<div class="pBody">
+			<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" primary="1" context="subject" title="Содержание статьи [c]" accesskey="c">Статья</a></li>
+				<li id="ca-talk"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" primary="1" context="talk" title="Обсуждение содержания страницы [t]" accesskey="t">Обсуждение</a></li>
+				<li id="ca-viewsource"><a href="/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;action=edit" primary="1" title="Эта страница защищена от изменений, но вы можете посмотреть и скопировать её исходный текст [e]" accesskey="e">Просмотр</a></li>
+				<li id="ca-history"><a href="/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;action=history" rel="archives" title="Журнал изменений страницы [h]" accesskey="h">история</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Личные инструменты</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-createaccount"><a href="/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F+%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;type=signup">Зарегистрировать нового участника</a></li>
+				<li id="pt-login"><a href="/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F+%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Представиться системе</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" style="background-image: url(/velowiki_flag.jpg);" title="Заглавная страница"></a>
+	</div>
+	<div class="generated-sidebar portlet" id="p-navigation">
+		<h5>Навигация</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Перейти на заглавную страницу [z]" accesskey="z">Заглавная страница</a></li>
+				<li id="n-.D0.A3.D0.BA.D0.B0.D0.B7.D0.B0.D1.82.D0.B5.D0.BB.D1.8C-.D0.90---.D0.AF"><a href="http://velowiki.org/index.php?title=Служебная%3APrefixIndex&amp;prefix=&amp;namespace=0" rel="nofollow">Указатель А - Я</a></li>
+				<li id="n-.D0.A0.D1.83.D0.B1.D1.80.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D1.8F"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8">Рубрикация</a></li>
+				<li id="n-randompage"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайную страницу [x]" accesskey="x">Случайная статья</a></li>
+				<li id="n-.D0.92.D0.B5.D0.BB.D0.BE.D1.81.D0.B8.D0.BF.D0.B5.D0.B4.D0.BD.D1.8B.D0.B9-.D1.81.D0.BB.D0.BE.D0.B2.D0.B0.D1.80.D1.8C"><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C">Велосипедный словарь</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Поиск</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/index.php" id="searchform">
+				<input type='hidden' name="title" value="Служебная:Поиск"/>
+				<input type="search" name="search" title="Искать это слово [f]" accesskey="f" id="searchInput" />
+				<input type="submit" name="go" value="Перейти" title="Перейти к странице, имеющей в точности такое название" id="searchGoButton" class="searchButton" />&#160;
+				<input type="submit" name="fulltext" value="Найти" title="Найти страницы, содержащие указанный текст" id="mw-searchButton" class="searchButton" />
+			</form>
+		</div>
+	</div>
+	<div class="generated-sidebar portlet" id="p-.D1.83.D1.87.D0.B0.D1.81.D1.82.D0.B8.D0.B5">
+		<h5>участие</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-portal"><a href="/wiki/VeloWiki:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="О проекте, о том, что вы можете сделать, где что находится">Сообщество</a></li>
+				<li id="n-.D0.9D.D0.BE.D0.B2.D1.8B.D0.B5-.D1.81.D1.82.D0.B0.D1.82.D1.8C.D0.B8"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B">Новые статьи</a></li>
+				<li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r">Свежие правки</a></li>
+				<li id="n-.D0.9D.D1.83.D0.B6.D0.BD.D1.8B.D0.B5-.D1.81.D1.82.D0.B0.D1.82.D1.8C.D0.B8"><a href="/wiki/VeloWiki:%D0%9D%D1%83%D0%B6%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8">Нужные статьи</a></li>
+				<li id="n-help"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5" title="Справочник по проекту «VeloWiki»">Справка</a></li>
+				<li id="n-.D0.A4.D0.BE.D1.80.D1.83.D0.BC"><a href="http://velopiter.spb.ru/forum/index.php?t=thread&amp;frm_id=67" rel="nofollow">Форум</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Инструменты</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Список всех страниц, которые ссылаются на эту страницу [j]" accesskey="j">Ссылки сюда</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li>
+				<li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Спецстраницы</a></li>
+				<li id="t-print"><a href="/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;printable=yes" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li>
+				<li id="t-permalink"><a href="/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;oldid=3420" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-copyrightico">
+		<img src="" alt="Авторское право" width="88" height="31" />
+	</div>
+	<div id="f-poweredbyico">
+		<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+	</div>
+	<ul id="f-list">
+		<li id="lastmod"> Последнее изменение этой страницы: 13:09, 19 апреля 2012.</li>
+		<li id="viewcount">К этой странице обращались 358 549 раз.</li>
+		<li id="copyright"><a href="/wiki/VeloWiki:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE" title="VeloWiki:Авторское право">Авторское право</a></li>
+		<li id="privacy"><a href="/wiki/VeloWiki:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="VeloWiki:Политика конфиденциальности"> </a></li>
+		<li id="about"><a href="/wiki/VeloWiki:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="VeloWiki:Описание">Описание VeloWiki</a></li>
+		<li id="disclaimer"><a href="/wiki/VeloWiki:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="VeloWiki:Отказ от ответственности">Отказ от ответственности</a></li>
+	</ul>
+</div>
+</div>
+<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"missing","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest"], null, true);
+}</script>
+<script src="http://velowiki.org/load.php?debug=false&amp;lang=ru&amp;modules=site&amp;only=scripts&amp;skin=monobook&amp;*"></script>
+<!-- Served in 0.211 secs. --></body></html>

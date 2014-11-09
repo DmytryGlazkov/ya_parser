@@ -1,0 +1,1604 @@
+
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+    <head>
+        <title>Интернет-магазины. Каталог, рейтинг интернет-магазинов. Отзывы покупателей о работе интернет магазинов.</title>
+        <meta name="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" media="all" href="/dskat_config/themes/modern/style.css" />
+        <meta name="keywords" content="интернет магазин, интернет-магазин, интернет магазины, интернет-магазины, добавить в каталог, разместить статью, онлайн-магазин" />
+        <meta name="description" content="Каталог интернет-магазинов. Разместить ссылку на свой интернет магазин очень просто, это  увеличит число посетителей в Вашем магазине." />
+        
+            <link rel="alternate" type="application/rss+xml" title="RSS лента для &quot;%TITLE%&quot;" href="/dskat_rss.php?c=1" />
+        
+    </head>
+    <body>
+    <div id="top">
+        <div id="cnlogo" class="cnleft"><img src="/dskat_config/themes/inshop.png" alt="" hspace="10" vspace="5" align="absmiddle" /> Интернет-магазины. Каталог, рейтинг интернет-магазинов. Отзывы покупателей о работе интернет магазинов.</div>
+        
+        
+    </div>
+    
+
+    
+    
+        
+    
+
+    <div id="cncontent">
+    <div id="side_pane" class="cnleft">
+        
+    
+            <div id="search_form">
+            <form action="http://shop-top.net/search/" method="get" id="cn_search">
+            <div>
+                <input id="cn_query" type="text" name="cn_query" class="text cnleft" value="" />
+                <a class="button" href="#" onclick="submitSearchForm(2);return false;"><span>Искать</span></a>       
+            </div>
+            </form>
+            </div>
+             
+
+    <div id="main_menu">
+    <ul>
+    <li><a href="http://shop-top.net/"><strong>ГЛАВНАЯ</strong></a></li>
+    <li><a href="http://shop-top.net/add/"><strong><font color="#FF0000">Добавить ссылку</font></strong></a></li>
+    <li><a href="http://shop-top.net/add_article/"><strong><font color="#34AF00">Добавить статью</font></strong></a></li>
+    <li><a href="/dskat_admin/">Администрирование</a></li>
+    <li><a href="http://shop-top.net/map/">Карта</a></li>
+    </ul>
+    
+    </div>
+    
+
+        
+        <div class="banner"><script type="text/javascript" src="//vk.com/js/api/openapi.js?97"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "250", height: "290"}, 55469059);
+</script>
+<div id="ok_group_widget"></div>
+<script>
+!function (d, id, did, st) {
+  var js = d.createElement("script");
+  js.src = "http://connect.ok.ru/connect.js";
+  js.onload = js.onreadystatechange = function () {
+  if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
+    if (!this.executed) {
+      this.executed = true;
+      setTimeout(function () {
+        OK.CONNECT.insertGroupWidget(id,did,st);
+      }, 0);
+    }
+  }}
+  d.documentElement.appendChild(js);
+}(document,"ok_group_widget","56774130270266","{width:250,height:335}");
+</script>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : 'sergey.inshop',                        // App ID from the app dashboard
+      channelUrl : 'http://shop-top.net', // Channel file for x-domain comms
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script></div>
+        
+        
+            
+            <div id="newitems">
+                <div class="title">
+                    Новые ссылки
+                </div>
+                <div class="items">
+                <ul>
+
+                        <li><div class="link">
+                            
+                            
+                                <a  onclick="window.open(this.href);return false;"  href="/dskat_jump.php?124">
+                                <strong>интернет-магазин подарков</strong></a>
+                            
+                            
+                            </div><div class="descr">Интернет-магазин подарков, детских товаров, эротического нижнего белья, наручных часов</div>
+                        </li>
+
+                        <li><div class="link">
+                            
+                            
+                                <a  onclick="window.open(this.href);return false;"  href="/dskat_jump.php?120">
+                                <strong>Рефераты на заказ</strong></a>
+                            
+                            
+                            </div><div class="descr">Оформляя заказ у нас Вы получаете работу высокого качества, полное сопровождение до защиты, возможность воспользоваться действующей системой скидок. Все работы мы проверяем на оригинальность.</div>
+                        </li>
+
+                        <li><div class="link">
+                            
+                            
+                                <a  onclick="window.open(this.href);return false;"  href="/dskat_jump.php?119">
+                                <strong>номера в анапе</strong></a>
+                            
+                            
+                            </div><div class="descr">Отдых в частном секторе Анапы выбирают люди разных профессий и социальных слоев, семьи с детьми, молодожены и пожилые пары. Ведь соотношение «цена – качество» жилья в Анапе (частном секторе) идеально.</div>
+                        </li>
+
+                        <li><div class="link">
+                            
+                            
+                                <a  onclick="window.open(this.href);return false;"  href="/dskat_jump.php?118">
+                                <strong>экскурсии в Прагу</strong></a>
+                            
+                            
+                            </div><div class="descr">Осуществляем дневные экскурсии в Братиславу, Прагу, Будапешт, Мюнхен, Венецию. Мы предложим Вам индивидуальные экскурсионные программы, если Вы уже очарованы Веной и Австрией и приехали не в первый раз в эту популярную, туристическую страну гор и рек.</div>
+                        </li>
+
+                        <li><div class="link">
+                            
+                            
+                                <a  onclick="window.open(this.href);return false;"  href="/dskat_jump.php?117">
+                                <strong>каталог запчастей doosan</strong></a>
+                            
+                            
+                            </div><div class="descr">«Запчасть Комплект» - любые запасные части и расходные материалы для экскаваторов и погрузчиков doosan, hyundai, volvo, амкодор, hitachi, komatsu, venieri, mecalac, schwing.</div>
+                        </li>
+
+                </ul>
+                </div>
+          </div>
+
+            
+    <div id="newarticles">
+    <div class="title">
+        Новые статьи
+    </div>
+    <div class="items">
+    <ul>
+
+	            <li><div class="link">
+	                	<a href="http://shop-top.net/item123.html" style="color: #859847;"><strong>Экспертиза сметной стоимости</strong></a>
+		            </div><div class="descr">Независимая негосударственная экспертиза сметной стоимости - это наиболее действенный способ для контроля эффективности инвестированных в какой-либо строительный объект средств.</div>
+                        </li>
+
+	            <li><div class="link">
+	                	<a href="http://shop-top.net/item122.html" style="color: #859847;"><strong>Негосударственная экспертиза</strong></a>
+		            </div><div class="descr">Одно из профильных направлений профессиональной деятельности компании ООО «Строительная экспертиза» - это негосударственная экспертиза инженерных изысканий.</div>
+                        </li>
+
+	            <li><div class="link">
+	                	<a href="http://shop-top.net/item121.html" style="color: #859847;"><strong>Проведение экспертизы проектов</strong></a>
+		            </div><div class="descr">Наше бюро за немалый период своей деятельности совершало проведение экспертизы проектной документации более, чем для тысячи разнообразных проектов.</div>
+                        </li>
+
+	            <li><div class="link">
+	                	<a href="http://shop-top.net/item101.html" style="color: #859847;"><strong>Алюминиевые окна, двери, конструкции Киев</strong></a>
+		            </div><div class="descr">Алюминий - материал, который широко применяется во многих отраслях, в том числе и в строительстве. Это прекрасный конструкционный материал для изготовления окон, дверей и фасадных конструкций. Алюминиевые окна, двери и фасады отличаются легкостью и стойкостью к физическим нагрузкам.</div>
+                        </li>
+
+	            <li><div class="link">
+	                	<a href="http://shop-top.net/item100.html" style="color: #859847;"><strong>Флоренция… О чем Вы подумали? Уркашения Florenza</strong></a>
+		            </div><div class="descr">«Эпоха прошлого, теплый воздух, игра волн, яркие и красочные пейзажи, счастливые пары, красивые украшения….»</div>
+                        </li>
+
+            	</ul>
+                </div>
+          </div>
+
+        
+        
+            
+            <div id="stats">
+                <div class="title">
+                    Статистика
+                </div>
+                <div class="items">
+                <ul>
+                    
+                        <li>
+                          <div class="info">Всего категорий: 86</div>
+                        </li>
+                        <li>
+                            <div class="info">Ссылок в каталоге: 68</div>
+                        </li>
+                        <li>
+                            <div class="info">Статей в каталоге: 29</div>
+                        </li>
+                        <li>
+                            <div class="info">Дата обновления: 31-10-2014</div>
+                        </li>
+                    
+                </ul>
+               </div>
+               </div>
+
+        
+    </div>
+    <div id="cnmain">
+        
+    <div id="filters_form">
+    <form action="?" id="filters">
+    
+    <ul>
+
+
+        <li><span class="filter">Доставка товаров</span>
+
+    <input type="checkbox" name="f1" value="1" id="f1" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f1">Нет доставки</label>
+
+    <input type="checkbox" name="f2" value="1" id="f2" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f2">Платная доставка</label>
+
+    <input type="checkbox" name="f6" value="1" id="f6" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f6">Бесплатная доставка</label>
+
+              </li>
+            
+
+
+        <li><span class="filter">Оплата товаров</span>
+
+    <input type="checkbox" name="f3" value="1" id="f3" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f3">Наличными</label>
+
+    <input type="checkbox" name="f4" value="1" id="f4" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f4">Электронными деньгами</label>
+
+    <input type="checkbox" name="f5" value="1" id="f5" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f5">Все виды оплаты</label>
+
+              </li>
+            
+
+
+        <li><span class="filter">Предоплата</span>
+
+    <input type="checkbox" name="f7" value="1" id="f7" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f7">Обязательна</label>
+
+    <input type="checkbox" name="f8" value="1" id="f8" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f8">Не обязательна</label>
+
+    <input type="checkbox" name="f9" value="1" id="f9" 
+    onclick="submitFilterForm(2)"  /> 
+    <label for="f9">Отсутствует</label>
+
+              </li>
+            
+
+            
+    </ul>
+    
+        <div id="filter_param">
+        <input type="hidden" name="c" value="1" />
+        <input type="hidden" name="s" value="3" />
+        <input type="hidden" name="p" value="0" />
+        
+        </div>
+    
+    <script type="text/javascript">
+            //<![CDATA[
+              function submitFilterForm(furl)
+              {   
+                  var url = window.location.href;
+                  var filters_form = document.getElementById('filters');
+                  if(furl > 0)
+                  {
+                      for(i = 0; i < filters_form.length; i++) 
+                      { 
+                          var field = filters_form.elements[i];
+                          url = url.replace('/' + field.name + '/', '/');
+                          if (field.checked == true)
+                          {
+                              var html_doc = /([^//]+\.html)/.exec(url);
+                              if (html_doc == null || html_doc[1] == null)
+                                url += field.name + '/';
+                              else
+                                url = url.replace('/' + html_doc[1], '/' + field.name + '/' + html_doc[1]);
+                          }
+                      };
+                      filters_form.action = url;
+                      filters_form.method = "post";
+                  } 
+                  filters_form.submit();
+              }
+              //]]>
+      </script> 
+    </form>
+    </div>
+
+        
+            <div id="categories">
+                
+
+                <div class="catcol cnleft" style="width:33%">
+                    <table>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=50" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/transport/">Транспорт</a>
+                            <span class="counter">&nbsp;7</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/transport/avto/">Автомобили</a>
+  &nbsp;5
+, 
+  
+  <a href="http://shop-top.net/transport/moto/">Мототехника</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/transport/avtoaudoi/">Аудиотехника</a>
+  &nbsp;2
+, 
+  
+  <a href="http://shop-top.net/transport/velo/">Велосипеды</a>
+  &nbsp;0
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=55" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/tehnika/">Бытовая техника и электроника</a>
+                            <span class="counter">&nbsp;17</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/tehnika/audio/">Аудиотехника</a>
+  &nbsp;2
+, 
+  
+  <a href="http://shop-top.net/tehnika/video/">Видеотехника</a>
+  &nbsp;4
+, 
+  
+  <a href="http://shop-top.net/tehnika/bittehnika/">Техника для дома</a>
+  &nbsp;11
+, 
+  
+  <a href="http://shop-top.net/tehnika/klimateh/">Климатическая техника</a>
+  &nbsp;2
+, 
+  
+  <a href="http://shop-top.net/tehnika/komputer/">Компьютеры  и комплектующие</a>
+  &nbsp;1
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=61" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/foto/">Фототехника и фототовары</a>
+                            <span class="counter">&nbsp;2</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/foto/zerk/">Зеркальные фотоаппараты</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/foto/cifra/">Цифровые и компактные фотоаппараты</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/foto/material/">Фотоматериалы и фотоаксессуары</a>
+  &nbsp;0
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=65" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/telefon/">Телефоны и аксессурары к ним</a>
+                            <span class="counter">&nbsp;3</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/telefon/stacionar/">Стационарные телефоны</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/telefon/mobil/">Мобильные телефоны</a>
+  &nbsp;2
+, 
+  
+  <a href="http://shop-top.net/telefon/redio/">Радио телефоны</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/telefon/akcess/">Аксессуары для телефонов</a>
+  &nbsp;1
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=70" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/ofis/">Офисные товары</a>
+                            <span class="counter">&nbsp;3</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/ofis/orgteh/">Оргтехника</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/ofis/kancel/">Канцелярские принадлежности</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/ofis/ofisaks/">Аксессуары для офиса</a>
+  &nbsp;3
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=74" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/knigi/">Книги, подарки и сувениры</a>
+                            <span class="counter">&nbsp;7</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/knigi/podarki/">Подарки и сувениры</a>
+  &nbsp;7
+, 
+  
+  <a href="http://shop-top.net/knigi/cveti/">Цветы</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/knigi/uvelir/">Ювелирные изделия</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/knigi/knigi/">Книги</a>
+  &nbsp;0
+
+                        </td></tr>
+
+                  </table>
+                </div>
+
+                <div class="catcol cnleft" style="width:33%">
+                    <table>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=79" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/antikvar/">Искусство, Антиквариат</a>
+                            <span class="counter">&nbsp;2</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/antikvar/antkv/">Антиквариат</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/antikvar/iskyvstvo/">Произведения искусства</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/antikvar/muzinstr/">Музыкальные инструменты</a>
+  &nbsp;1
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=83" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/cifrovie/">Цифровые товары</a>
+                            <span class="counter">&nbsp;4</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/cifrovie/diski/">CD-диски, DVD, кассеты</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/cifrovie/film/">Видеофильмы</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/cifrovie/muzik/">Музыка, Аудио книги</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/cifrovie/games/">Игры</a>
+  &nbsp;2
+, 
+  
+  <a href="http://shop-top.net/cifrovie/soft/">Софт</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/cifrovie/pin/">Коды, Пин-коды</a>
+  &nbsp;2
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=89" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/zdorovie/">Красота и здоровье</a>
+                            <span class="counter">&nbsp;9</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/zdorovie/parfum/">Парфюмерия и Косметика</a>
+  &nbsp;7
+, 
+  
+  <a href="http://shop-top.net/zdorovie/med/">Здоровье и Медицина</a>
+  &nbsp;6
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=92" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/prodtovar/">Продовольственные товары</a>
+                            <span class="counter">&nbsp;2</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/prodtovar/prod/">Продукты питания</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/prodtovar/spirt/">Спиртные напитки</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/prodtovar/soki/">Безалкогольные напитки</a>
+  &nbsp;1
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=96" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/zoo/">Животные и растения</a>
+                            <span class="counter">&nbsp;2</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/zoo/zveri/">Животные</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/zoo/veterenar/">Ветеренария</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/zoo/korm/">Корма для животных</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/zoo/rastenie/">Растения</a>
+  &nbsp;0
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=101" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/baby/">Детские товары</a>
+                            <span class="counter">&nbsp;7</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/baby/clothes/">Детская одежда</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/baby/scool/">Все для школы</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/baby/toys/">Игрушки</a>
+  &nbsp;4
+, 
+  
+  <a href="http://shop-top.net/baby/food/">Детское питание</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/baby/other/">Другие детские товары</a>
+  &nbsp;6
+
+                        </td></tr>
+
+                  </table>
+                </div>
+
+                <div class="catcol cnleft" style="width:33%">
+                    <table>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=107" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/veschi/">Одежда, обувь, галантерея</a>
+                            <span class="counter">&nbsp;20</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/veschi/clothes/">Одежда</a>
+  &nbsp;10
+, 
+  
+  <a href="http://shop-top.net/veschi/footwear/">Обувь</a>
+  &nbsp;3
+, 
+  
+  <a href="http://shop-top.net/veschi/drygods/">Галантерея</a>
+  &nbsp;9
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=111" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/furniture/">Мебель, интерьер</a>
+                            <span class="counter">&nbsp;7</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/furniture/mebel/">Мебель для дома</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/furniture/ofisnaja/">Офисная мебель</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/furniture/decoration/">Предметы интерьера</a>
+  &nbsp;6
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=115" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/building/">Строительство и ремонт</a>
+                            <span class="counter">&nbsp;11</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/building/materials/">Стройматериалы</a>
+  &nbsp;8
+, 
+  
+  <a href="http://shop-top.net/building/instrument/">Инструменты</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/building/equipment/">Оборудование</a>
+  &nbsp;3
+, 
+  
+  <a href="http://shop-top.net/building/santeh/">Сантехника</a>
+  &nbsp;1
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=126" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/hoztovar/">Хозтовары</a>
+                            <span class="counter">&nbsp;6</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/hoztovar/bit/">Бытовые товары</a>
+  &nbsp;5
+, 
+  
+  <a href="http://shop-top.net/hoztovar/inventar/">Инструмент, Инвентарь</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/hoztovar/himija/">Бытовая Химия</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/hoztovar/sad/">Садово-огородный инвентарь</a>
+  &nbsp;1
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=120" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/dosug/">Спорт, охота, туризм</a>
+                            <span class="counter">&nbsp;5</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+  
+  <a href="http://shop-top.net/dosug/sporttovar/">Спортивные товары</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/dosug/sportswear/">Спортивная одежда</a>
+  &nbsp;1
+, 
+  
+  <a href="http://shop-top.net/dosug/hunting/">Товары для Охоты</a>
+  &nbsp;0
+, 
+  
+  <a href="http://shop-top.net/dosug/fishing/">Товары для Рыбалки</a>
+  &nbsp;2
+, 
+  
+  <a href="http://shop-top.net/dosug/tourism/">Товары для туризма</a>
+  &nbsp;2
+
+                        </td></tr>
+
+                        <tr><td class="image" rowspan="2">
+                            
+                            	<img src="/dskat_image.php?cat=131" alt=""/>
+                            
+                        </td><td class="title">
+                            <a href="http://shop-top.net/others/">Другие товары</a>
+                            <span class="counter">&nbsp;15</span>
+                        </td></tr>
+                        <tr><td class="subcats">
+                            
+                        </td></tr>
+
+                  </table>
+                </div>
+
+                </div>
+
+        
+         
+        <div id="catitems">
+           	<div class="caticon cnleft">                        	
+	            	
+                    <img src="/dskat_image.php?cat=1" 
+                    alt="" hspace="10" vspace="10" align="middle" />
+                            </div>
+            <div class="cat_menu">
+                
+		                
+            <div id="path">
+                <div class="title">
+
+
+                </div>
+            </div>
+
+	    	        
+                <div class="cattitle">Главная
+		                <a href="/dskat_rss.php?c=1"><img src="/dskat_config/themes/modern/images/rss.gif" alt="RSS" align="absmiddle" /></a>
+                                  </div>
+		            <div class="itemtype">
+	Отображать:
+
+        
+            <strong>Все</strong>
+        
+ | 
+        
+            <a href="http://shop-top.net/s3p0t0.html">Ссылки</a>
+        
+ | 
+        
+            <a href="http://shop-top.net/s3p0t1.html">Статьи</a>
+        
+
+</div>
+                <div class="catdescr"></div>
+                
+		        	  <div class="sort">
+		    	          
+                    Сортировать по: 
+
+                    
+                        <a href="http://shop-top.net/s0p0.html">Популярности</a>
+                    
+ | 
+                    
+                        <a href="http://shop-top.net/s1p0.html">Названию</a>
+                    
+ | 
+                    
+                        <a href="http://shop-top.net/s2p0.html">Оценке администратора</a>
+                    
+ | 
+                    
+                        <strong>Дате</strong>
+                    
+ | 
+                    
+                        <a href="http://shop-top.net/s4p0.html">Google PR</a>
+                    
+ | 
+                    
+                        <a href="http://shop-top.net/s5p0.html">Yandex CY</a>
+                    
+ | 
+                    
+                        <a href="http://shop-top.net/s10p0.html">Оценке пользователей</a>
+                    
+
+
+		    	      </div>
+          </div>
+              <div class="navbar">
+                
+	<form action="" onsubmit="
+        if ((this.elements[0].value-1) &gt; 11 || this.elements[0].value &lt; 1) 
+        {
+            alert('Неверный номер страницы');
+            return false;
+        } 
+        url='http://shop-top.net/s3p{PAGE}.html'; 
+        location.href = url.replace(new RegExp('{PAGE}', ''), this.elements[0].value-1);
+        return false;
+    " method="get">
+    <div class="pagenav">
+    <ul>
+
+        <li class="cnleft"><input name="p" type="text" size="2" value="1" /></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p1.html">2</a></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p2.html">3</a></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p3.html">4</a></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p4.html">5</a></li>
+<li class="cnleft">&nbsp;&nbsp;...&nbsp;&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p9.html">10</a></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p10.html">11</a></li>
+
+    </ul>
+    </div>
+    </form>
+
+              </div>
+              <div class="items">
+                  
+                      <div class="banner"><style type="text/css">
+<!--
+.стиль1 {color: #FF0000}
+.стиль2 {color: #009933}
+-->
+</style>
+<p><strong>Каталог интернет магазинов по  продаже всевозможных товаров и сайтов организаций предоставляющих услуги в  интернете.</strong></p>
+<p> <strong>Разместить ссылку</strong> на свой  <strong>интернет-магазин</strong> или <strong>сайт</strong> компании Вы можете в этом каталоге бесплатно.<br>
+  При  размещении ссылки на свой ресурс в этом каталоге помните о соблюдении законов  предпринимательской а также других видов деятельности того государства на территории  которого Ваша организация размещена или предоставляет услуги.</p>
+<p> <span class="стиль1"><strong>ВАЖНО</strong>. За достоверность  информации, указанной при добавлении в этот каталог ссылок на магазин или сайт,  несет ответственность владелец ресурса (магазина или сайта), изъявившего  желание участвовать в этом каталоге.</span></p>
+<p class="стиль2">  <strong>Советы клиентам</strong>. Любой сайт  или магазин, помещенный в этом каталоге, может оказаться мошенником. Перед  совершением денежных операций удостоверьтесь о порядочности выбранного Вами  магазина или сайта.</p>
+<p> Администрация каталога не  несет ответственности за достоверность информации указанной при размещении сайтов  магазинов или организаций в этом каталоге. </p></div>
+                  
+    	            
+                <div> 
+
+                        <div class="number">
+	                        
+				                
+				                	  <div class="favicon cnleft" style="background-image:url(http://favicon.yandex.ru/favicon/darom74.ru)"></div>
+				                
+	    	                    <div style="padding-top:3px" class="cnleft">1.</div>
+                        </div>
+                        <div class="item">
+                            <div class="link">
+                                
+                                    <a onclick="window.open(this.href);return false;" href="http://shop-top.net/item124.html"><strong>интернет-магазин подарков</strong></a>
+                                
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                            <div class="info">
+                                (0/23)
+    
+                                
+    
+                                 
+                                     CY: 0    
+                                
+    
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item124.html#vote">Оценить</a>
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item124.html#comments">Комментарии </a>
+                                
+                            </div>
+                            <div class="descr">
+                                Интернет-магазин подарков, детских товаров, эротического нижнего белья, наручных часов 
+                                
+                                    <a href="http://shop-top.net/item124.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" title="Описание сайта" style="vertical-align: middle;" /></a>
+                                
+                                <div class="url">
+                                
+                                    http://darom74.ru <a href="javascript:baditem('124')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+                                
+                                </div>
+                                
+    
+        
+    
+
+                                
+                            </div>
+                            
+                        </div>
+                        
+
+    <div class="number">
+		    
+		    <div class="favicon cnleft" style="background-image:url(http://expertproect.ru/favicon.ico)"></div>
+        
+	         <div style="padding-top:3px" class="cnleft">2.</div>
+    </div>
+    <div class="item">
+    <div class="link">
+        <a href="http://shop-top.net/item123.html" style="color: #859847;"><strong>Экспертиза сметной стоимости</strong></a>
+
+        
+        
+        
+        
+        
+    </div>
+    <div class="info">
+        
+
+         
+             CY: 20    
+        
+
+        
+
+        
+            | <a href="http://shop-top.net/item123.html#vote">Оценить</a>
+        
+
+        
+            | <a href="http://shop-top.net/item123.html#comments">Комментарии </a>
+        
+    </div>
+                            
+
+    
+	    <div class="descr">
+	        
+          Независимая негосударственная экспертиза сметной стоимости - это наиболее действенный способ для контроля эффективности инвестированных в какой-либо строительный объект средств. 
+	        
+	            <a href="http://shop-top.net/item123.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" /></a>
+	        
+	        
+	        
+	    <div class="url">
+	        
+	        
+	            <a onclick="window.open(this.href);return false;" href="/dskat_jump.php?123">http://expertproect.ru/</a>
+	        
+	        
+	        
+	            <a href="javascript:baditem('123')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+	        
+	    </div>
+    	
+    	
+    
+        
+    
+
+        
+	    </div>
+
+    
+    </div>
+    
+
+    <div class="number">
+		    
+		    <div class="favicon cnleft" style="background-image:url(http://expertall.ru/favicon.ico)"></div>
+        
+	         <div style="padding-top:3px" class="cnleft">3.</div>
+    </div>
+    <div class="item">
+    <div class="link">
+        <a href="http://shop-top.net/item122.html" style="color: #859847;"><strong>Негосударственная экспертиза</strong></a>
+
+        
+        
+        
+        
+        
+    </div>
+    <div class="info">
+        
+
+         
+             CY: 60    
+        
+
+        
+
+        
+            | <a href="http://shop-top.net/item122.html#vote">Оценить</a>
+        
+
+        
+            | <a href="http://shop-top.net/item122.html#comments">Комментарии </a>
+        
+    </div>
+                            
+
+    
+	    <div class="descr">
+	        
+          Одно из профильных направлений профессиональной деятельности компании ООО «Строительная экспертиза» - это негосударственная экспертиза инженерных изысканий. 
+	        
+	            <a href="http://shop-top.net/item122.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" /></a>
+	        
+	        
+	        
+	    <div class="url">
+	        
+	        
+	            <a onclick="window.open(this.href);return false;" href="/dskat_jump.php?122">http://expertall.ru/</a>
+	        
+	        
+	        
+	            <a href="javascript:baditem('122')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+	        
+	    </div>
+    	
+    	
+    
+        
+    
+
+        
+	    </div>
+
+    
+    </div>
+    
+
+    <div class="number">
+		    
+		    <div class="favicon cnleft" style="background-image:url(http://expert-all.ru/favicon.ico)"></div>
+        
+	         <div style="padding-top:3px" class="cnleft">4.</div>
+    </div>
+    <div class="item">
+    <div class="link">
+        <a href="http://shop-top.net/item121.html" style="color: #859847;"><strong>Проведение экспертизы проектов</strong></a>
+
+        
+        
+        
+        
+        
+    </div>
+    <div class="info">
+        
+
+         
+             CY: 20    
+        
+
+        
+
+        
+            | <a href="http://shop-top.net/item121.html#vote">Оценить</a>
+        
+
+        
+            | <a href="http://shop-top.net/item121.html#comments">Комментарии </a>
+        
+    </div>
+                            
+
+    
+	    <div class="descr">
+	        
+          Наше бюро за немалый период своей деятельности совершало проведение экспертизы проектной документации более, чем для тысячи разнообразных проектов. 
+	        
+	            <a href="http://shop-top.net/item121.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" /></a>
+	        
+	        
+	        
+	    <div class="url">
+	        
+	        
+	            <a onclick="window.open(this.href);return false;" href="/dskat_jump.php?121">http://expert-all.ru/</a>
+	        
+	        
+	        
+	            <a href="javascript:baditem('121')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+	        
+	    </div>
+    	
+    	
+    
+        
+    
+
+        
+	    </div>
+
+    
+    </div>
+    
+
+                        <div class="number">
+	                        
+				                
+				                	  <div class="favicon cnleft" style="background-image:url(http://favicon.yandex.ru/favicon/diplomania.org.ua)"></div>
+				                
+	    	                    <div style="padding-top:3px" class="cnleft">5.</div>
+                        </div>
+                        <div class="item">
+                            <div class="link">
+                                
+                                    <a onclick="window.open(this.href);return false;" href="http://shop-top.net/item120.html"><strong>Рефераты на заказ</strong></a>
+                                
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                            <div class="info">
+                                (0/80)
+    
+                                
+    
+                                 
+                                     CY: 0    
+                                
+    
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item120.html#vote">Оценить</a>
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item120.html#comments">Комментарии </a>
+                                
+                            </div>
+                            <div class="descr">
+                                Оформляя заказ у нас Вы получаете работу высокого качества, полное сопровождение до защиты, возможность воспользоваться действующей системой скидок. Все работы мы проверяем на оригинальность. 
+                                
+                                    <a href="http://shop-top.net/item120.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" title="Описание сайта" style="vertical-align: middle;" /></a>
+                                
+                                <div class="url">
+                                
+                                    http://diplomania.org.ua <a href="javascript:baditem('120')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+                                
+                                </div>
+                                
+    
+        
+    
+
+                                
+                            </div>
+                            
+                        </div>
+                        
+
+                        <div class="number">
+	                        
+				                
+				                	  <div class="favicon cnleft" style="background-image:url(http://favicon.yandex.ru/favicon/otdykh-v-anape.ru)"></div>
+				                
+	    	                    <div style="padding-top:3px" class="cnleft">6.</div>
+                        </div>
+                        <div class="item">
+                            <div class="link">
+                                
+                                    <a onclick="window.open(this.href);return false;" href="http://shop-top.net/item119.html"><strong>номера в анапе</strong></a>
+                                
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                            <div class="info">
+                                (0/117)
+    
+                                 
+                                     PR: 0    
+                                
+    
+                                 
+                                     CY: 0    
+                                
+    
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item119.html#vote">Оценить</a>
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item119.html#comments">Комментарии </a>
+                                
+                            </div>
+                            <div class="descr">
+                                Отдых в частном секторе Анапы выбирают люди разных профессий и социальных слоев, семьи с детьми, молодожены и пожилые пары. Ведь соотношение «цена – качество» жилья в Анапе (частном секторе) идеально. 
+                                
+                                    <a href="http://shop-top.net/item119.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" title="Описание сайта" style="vertical-align: middle;" /></a>
+                                
+                                <div class="url">
+                                
+                                    http://otdykh-v-anape.ru <a href="javascript:baditem('119')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+                                
+                                </div>
+                                
+    
+        
+    
+
+                                
+                            </div>
+                            
+                        </div>
+                        
+
+                        <div class="number">
+	                        
+				                
+				                	  <div class="favicon cnleft" style="background-image:url(http://favicon.yandex.ru/favicon/www.viennatour.info)"></div>
+				                
+	    	                    <div style="padding-top:3px" class="cnleft">7.</div>
+                        </div>
+                        <div class="item">
+                            <div class="link">
+                                
+                                    <a onclick="window.open(this.href);return false;" href="http://shop-top.net/item118.html"><strong>экскурсии в Прагу</strong></a>
+                                
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                            <div class="info">
+                                (0/114)
+    
+                                 
+                                     PR: 0    
+                                
+    
+                                 
+                                     CY: 0    
+                                
+    
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item118.html#vote">Оценить</a>
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item118.html#comments">Комментарии </a>
+                                
+                            </div>
+                            <div class="descr">
+                                Осуществляем дневные экскурсии в Братиславу, Прагу, Будапешт, Мюнхен, Венецию. Мы предложим Вам индивидуальные экскурсионные программы, если Вы уже очарованы Веной и Австрией и приехали не в первый раз в эту популярную, туристическую страну гор и рек. 
+                                
+                                    <a href="http://shop-top.net/item118.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" title="Описание сайта" style="vertical-align: middle;" /></a>
+                                
+                                <div class="url">
+                                
+                                    http://www.viennatour.info <a href="javascript:baditem('118')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+                                
+                                </div>
+                                
+    
+        
+    
+
+                                
+                            </div>
+                            
+                        </div>
+                        
+
+                        <div class="number">
+	                        
+				                
+				                	  <div class="favicon cnleft" style="background-image:url(http://favicon.yandex.ru/favicon/www.com-part.ru)"></div>
+				                
+	    	                    <div style="padding-top:3px" class="cnleft">8.</div>
+                        </div>
+                        <div class="item">
+                            <div class="link">
+                                
+                                    <a onclick="window.open(this.href);return false;" href="http://shop-top.net/item117.html"><strong>каталог запчастей doosan</strong></a>
+                                
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                            <div class="info">
+                                (0/118)
+    
+                                
+    
+                                 
+                                     CY: 30    
+                                
+    
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item117.html#vote">Оценить</a>
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item117.html#comments">Комментарии </a>
+                                
+                            </div>
+                            <div class="descr">
+                                «Запчасть Комплект» - любые запасные части и расходные материалы для экскаваторов и погрузчиков doosan, hyundai, volvo, амкодор, hitachi, komatsu, venieri, mecalac, schwing. 
+                                
+                                    <a href="http://shop-top.net/item117.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" title="Описание сайта" style="vertical-align: middle;" /></a>
+                                
+                                <div class="url">
+                                
+                                    http://www.com-part.ru/about/o_kompanii/ <a href="javascript:baditem('117')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+                                
+                                </div>
+                                
+    
+        
+    
+
+                                
+                            </div>
+                            
+                        </div>
+                        
+
+                        <div class="number">
+	                        
+				                
+				                	  <div class="favicon cnleft" style="background-image:url(http://kuhshop.ru/favicon.ico)"></div>
+				                
+	    	                    <div style="padding-top:3px" class="cnleft">9.</div>
+                        </div>
+                        <div class="item">
+                            <div class="link">
+                                
+                                    <a onclick="window.open(this.href);return false;" href="http://shop-top.net/item103.html"><strong>Кухшоп.ру</strong></a>
+                                
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                            <div class="info">
+                                (0/131)
+    
+                                
+    
+                                 
+                                     CY: 10    
+                                
+    
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item103.html#vote">Оценить</a>
+                                
+    
+                                
+                                    | <a href="http://shop-top.net/item103.html#comments">Комментарии </a>
+                                
+                            </div>
+                            <div class="descr">
+                                Мойки из нержавеющей стали и из искусственного камня, смесители кухонные и для ванной, минибары для дома и гостиниц, измельчители пищевых отходов и много другое по низким ценам с доставкой по Москве. 
+                                
+                                    <a href="http://shop-top.net/item103.html"><img src="/dskat_config/themes/modern/images/extlink.gif" alt="" title="Описание сайта" style="vertical-align: middle;" /></a>
+                                
+                                <div class="url">
+                                
+                                    http://kuhshop.ru <a href="javascript:baditem('103')" title="Ссылка не работает?"><img src="/dskat_config/themes/modern/images/badlink.gif" alt="Ссылка не работает?" /></a>
+                                
+                                </div>
+                                
+    
+        
+    
+
+                                
+                            </div>
+                            
+                        </div>
+                        
+
+                    </div>
+
+    	            
+    
+        Ссылок в категории: <strong>97</strong>
+    
+
+                  
+              </div>
+              <div class="navbar">
+                
+	<form action="" onsubmit="
+        if ((this.elements[0].value-1) &gt; 11 || this.elements[0].value &lt; 1) 
+        {
+            alert('Неверный номер страницы');
+            return false;
+        } 
+        url='http://shop-top.net/s3p{PAGE}.html'; 
+        location.href = url.replace(new RegExp('{PAGE}', ''), this.elements[0].value-1);
+        return false;
+    " method="get">
+    <div class="pagenav">
+    <ul>
+
+        <li class="cnleft"><input name="p" type="text" size="2" value="1" /></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p1.html">2</a></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p2.html">3</a></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p3.html">4</a></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p4.html">5</a></li>
+<li class="cnleft">&nbsp;&nbsp;...&nbsp;&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p9.html">10</a></li>
+<li class="cnleft">&nbsp;</li>
+        <li class="page cnleft"><a href="http://shop-top.net/s3p10.html">11</a></li>
+
+    </ul>
+    </div>
+    </form>
+
+              </div>
+        </div>
+    
+    </div>
+    </div>
+    
+      <div id="bottom" class="cnleft">
+        
+            <div class="banner"><!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=16172986&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/16172986/3_1_CCF1BDFF_ACD19DFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter16172986 = new Ya.Metrika({id:16172986, enableAll: true});
+        } catch(e) {}
+    });
+    
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/16172986" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--begin of Skidki.Com.Ru--> <noindex><a rel="nofollow" href='http://www.skidki.com.ru/rating_show.php?top_id=293049' target='_top'><img src='http://www.skidki.com.ru/top100_counter.php?top_id=293049' border='0' width='88' height='31' alt='Рейтинг TOP100'></a></noindex> <!--end of Skidki.Com.Ru--> </div>
+        
+        <div class="copyright">
+            <div style="color: gray; font-size: 90%;">shop-top.net <a onclick="window.open(this.href);return false;" href="http://shop-top.net/" style="color: gray;">DSKat 7.1.</a></div>
+        </div>
+      </div>
+    </body>
+</html>  
+

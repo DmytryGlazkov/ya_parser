@@ -1,0 +1,1105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+	<base href="http://pravdozor.net" />
+  <link rel="shortcut icon" href="http://pravdozor.net/sites/all/themes/mytheme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://pravdozor.net/node/2" />
+  <title>ПравДозор | pravdozor.net</title>
+  <style type="text/css" media="all">@import url("http://pravdozor.net/modules/system/system.base.css?nb8d7y");
+@import url("http://pravdozor.net/modules/system/system.menus.css?nb8d7y");
+@import url("http://pravdozor.net/modules/system/system.messages.css?nb8d7y");
+@import url("http://pravdozor.net/modules/system/system.theme.css?nb8d7y");</style>
+<style type="text/css" media="all">@import url("http://pravdozor.net/modules/comment/comment.css?nb8d7y");
+@import url("http://pravdozor.net/modules/field/theme/field.css?nb8d7y");
+@import url("http://pravdozor.net/modules/node/node.css?nb8d7y");
+@import url("http://pravdozor.net/modules/search/search.css?nb8d7y");
+@import url("http://pravdozor.net/modules/user/user.css?nb8d7y");
+@import url("http://pravdozor.net/sites/all/modules/views/css/views.css?nb8d7y");</style>
+<style type="text/css" media="all">@import url("http://pravdozor.net/sites/all/modules/colorbox/styles/default/colorbox_style.css?nb8d7y");
+@import url("http://pravdozor.net/sites/all/modules/ctools/css/ctools.css?nb8d7y");
+@import url("http://pravdozor.net/sites/all/modules/rate/rate.css?nb8d7y");
+@import url("http://pravdozor.net/sites/all/libraries/uniform/css/uniform.default.css?nb8d7y");
+@import url("http://pravdozor.net/sites/all/modules/uniform/uniform.css?nb8d7y");
+@import url("http://pravdozor.net/sites/all/modules/rate/templates/number-up-down/number-up-down.css?nb8d7y");</style>
+<style type="text/css" media="all">@import url("http://pravdozor.net/sites/all/themes/mytheme/style.css?nb8d7y");
+@import url("http://pravdozor.net/sites/all/themes/mytheme/libs/jquery.jscrollpane.css?nb8d7y");</style>
+<style type="text/css" media="print">@import url("http://pravdozor.net/sites/all/themes/mytheme/print.css?nb8d7y");</style>
+  <script type="text/javascript" src="http://pravdozor.net/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://pravdozor.net/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://pravdozor.net/misc/drupal.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/default/files/languages/ru_UFACSwispgJmubLGCbAuasvuU5QUU3M0aolz584IqQw.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/libraries/colorbox/jquery.colorbox-min.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/modules/colorbox/js/colorbox.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/modules/colorbox/styles/default/colorbox_style.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/libraries/uniform/jquery.uniform.min.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/modules/uniform/uniform.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/modules/devel/devel_krumo_path.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/modules/rate/rate.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/themes/mytheme/libs/jquery.min.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/themes/mytheme/libs/jquery.mousewheel.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/themes/mytheme/libs/jquery.jscrollpane.min.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/themes/mytheme/libs/jquery.color.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/themes/mytheme/libs/jquery.maskedinput.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/themes/mytheme/lib.js?nb8d7y"></script>
+<script type="text/javascript" src="http://pravdozor.net/sites/all/themes/mytheme/script.js?nb8d7y"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mytheme","theme_token":"pcsN7o5F88y2EVR7fD6BhExs9HcObcwlTdr5BJxd1sc","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/ru_UFACSwispgJmubLGCbAuasvuU5QUU3M0aolz584IqQw.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/libraries\/uniform\/jquery.uniform.min.js":1,"sites\/all\/modules\/uniform\/uniform.js":1,"sites\/all\/modules\/devel\/devel_krumo_path.js":1,"sites\/all\/modules\/rate\/rate.js":1,"sites\/all\/themes\/mytheme\/libs\/jquery.min.js":1,"sites\/all\/themes\/mytheme\/libs\/jquery.mousewheel.js":1,"sites\/all\/themes\/mytheme\/libs\/jquery.jscrollpane.min.js":1,"sites\/all\/themes\/mytheme\/libs\/jquery.color.js":1,"sites\/all\/themes\/mytheme\/libs\/jquery.maskedinput.js":1,"sites\/all\/themes\/mytheme\/lib.js":1,"sites\/all\/themes\/mytheme\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/rate\/rate.css":1,"sites\/all\/libraries\/uniform\/css\/uniform.default.css":1,"sites\/all\/modules\/uniform\/uniform.css":1,"sites\/all\/modules\/rate\/templates\/number-up-down\/number-up-down.css":1,"sites\/all\/themes\/mytheme\/style.css":1,"sites\/all\/themes\/mytheme\/libs\/jquery.jscrollpane.css":1,"sites\/all\/themes\/mytheme\/print.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} \u0438\u0437 {total}","previous":"\u00ab \u041d\u0430\u0437\u0430\u0434","next":"\u0412\u043f\u0435\u0440\u0435\u0434 \u00bb","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"uniform":{"selectors":["input:checkbox","input:file"]},"rate":{"basePath":"\/rate\/vote\/js","destination":"node\/2"}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-2 node-type-page" >
+    
+<div id="site">
+	<div id="header" class="site-region">
+		<div class="wrapper">
+			<div class="logo"><a href="/"><img src="http://pravdozor.net/sites/all/themes/mytheme/logo.png" alt="ПравДозор" title="ПравДозор" /></a></div> 			  <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+      <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <div class="element-invisible">Форма поиска</div>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Поиск </label>
+ <input title="Введите ключевые слова для поиска." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Поиск" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-NNcSdPQXIWo4OxtxeI3YdXJBvqfLB_3P9QkfU_mg4Go" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div><div id="block-block-3" class="block block-block">
+
+      <div class="content">
+    	<div class="links">
+		<a href="/user">Вход</a> | <a href="/user/register">Регистрация</a>	</div>
+  </div>
+</div><div id="block-block-4" class="block block-block">
+
+      <div class="content">
+    <a href="/dobavit-zhalobu-ili-statyu"><div>100 рублей за каждый отзыв!</div>
+<div><span></span></div></a>
+
+  </div>
+</div>  </div>
+		</div>
+	</div><!-- header -->
+	
+			<div id="logomenu" class="site-region">
+			<div class="wrapper">  <div class="region region-logomenu">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+      <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf active-trail active menu-mlid-237"><a href="/" class="active-trail active">Главная</a></li>
+<li class="leaf menu-mlid-567"><a href="/complaints">Жалобы</a></li>
+<li class="leaf menu-mlid-568"><a href="/articles">Статьи</a></li>
+<li class="last leaf menu-mlid-522"><a href="/kontakty">Контакты</a></li>
+</ul></div>
+  </div>
+</div><div id="block-menu-block-3" class="block block-menu-block">
+
+      <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-menu-vocabularies-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-570"><a href="/companies">Компании</a></li>
+<li class="leaf menu-mlid-571"><a href="/cities">Города</a></li>
+<li class="last leaf menu-mlid-572"><a href="/categories">Категории</a></li>
+</ul></div>
+  </div>
+</div>  </div>
+</div>
+		</div>
+		
+    <div id="main_body" class="site-region">
+		<div class="wrapper">
+						<div id="left" class="sidebar">  <div class="region region-left">
+    <div id="block-views-term-blocks-block" class="block block-views">
+
+    <!--noindex--><div class="block-title">
+  	<span>Список компаний</span>
+  </div>
+<!--/noindex-->
+    <div class="content">
+    <div class="view view-term-blocks view-id-term_blocks view-display-id-block view-dom-id-df6d1405c8d28dc44e0d95cb2234ea0c">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ol>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/avitoru">Avito.ru <span>(<span>1</span> / 1)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/demar">Demar <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/febest">Febest <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/deaura">Deaura <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/city-life-diapazon">CITY LIFE DIAPAZON <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/u-kuzmicha">" У Кузьмича " <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/33-pingvina">33 пингвина <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even views-row-last">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/taxonomy/term/73"> <span>(<span>0</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+      </ol></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/companies">
+    Показать еще  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div><div id="block-views-term-blocks-block-1" class="block block-views">
+
+    <!--noindex--><div class="block-title">
+  	<span>Категории</span>
+  </div>
+<!--/noindex-->
+    <div class="content">
+    <div class="view view-term-blocks view-id-term_blocks view-display-id-block_1 view-dom-id-2e8ce57c046851b0150c561feed8231d">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/drugoe">Другое <span>(<span>1</span> / 41)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/gos-uslugi">Гос. услуги <span>(<span>4</span> / 32)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/deystviya-policii">Действия Полиции <span>(<span>0</span> / 11)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/banki">Банки <span>(<span>7</span> / 3)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/avtozapchasti">Автозапчасти <span>(<span>6</span> / 1)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/avtosalony">Автосалоны <span>(<span>1</span> / 1)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/zdravoohranenie">Здравоохранение <span>(<span>1</span> / 1)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even views-row-last">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/dostavka">Доставка <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/categories">
+    Показать еще  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div><div id="block-views-term-blocks-block-2" class="block block-views">
+
+    <!--noindex--><div class="block-title">
+  	<span>Список городов</span>
+  </div>
+<!--/noindex-->
+    <div class="content">
+    <div class="view view-term-blocks view-id-term_blocks view-display-id-block_2 view-dom-id-c9f2256071bcbdc4dec9b83fbcf4d2cd">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ol>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/belgorod">Белгород <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/bratsk">Братск <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/brest">Брест <span>(<span>0</span> / 1)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/barnaul">Барнаул <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/astrahan">Астрахань <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/artem">Артем <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/astana">Астана <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even views-row-last">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/taxonomy/term/72">Архангельск <span>(<span>0</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+      </ol></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/cities">
+    Показать еще  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div><div id="block-views-users-top-block" class="block block-views">
+
+    <!--noindex--><div class="block-title">
+  	<span>Топ пользователей</span>
+  </div>
+<!--/noindex-->
+    <div class="content">
+    <div class="view view-users-top view-id-users_top view-display-id-block view-dom-id-1633de09e41a714a87e3df2cfdf0a0ee">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/users/admin">admin <span>(<span>0</span> / 104)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/users/copyman1989">copyman1989 <span>(<span>26</span> / 4)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/users/bazova">Bazova <span>(<span>1</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/users/exc">Exc <span>(<span>0</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/users/us3">us3 <span>(<span>0</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/users/anyutka">Анютка <span>(<span>0</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/users/test">test <span>(<span>0</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even views-row-last">  
+  <div class="views-field views-field-php">        <span class="field-content"><!--noindex--><a href="/users/test2">test2 <span>(<span>0</span> / 0)</span></a><!--/noindex--></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div><div id="block-block-5" class="block block-block">
+
+    <!--noindex--><div class="block-title">
+  	<span>Топы</span>
+  </div>
+<!--/noindex-->
+    <div class="content">
+    <!--noindex-->
+<div class="tabs">
+	<div class="tab first active" rel="0">Читают</div>
+	<div class="tab last" rel="1">Комментируют</div>
+</div>
+<div class="tabs-cont">
+	<div class="tab-cont active"><div class="view view-tops view-id-tops view-display-id-block view-dom-id-312ac0e338ea5a386a3778e945a722bc">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <a href="/complaints/moshennichestvo/otzyvy-o-ful-shark-razvod-i-moshennichestvo">Отзывы о фул шарк. Развод и мошенничество. </a>    
+  <span>        (4812)  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          <a href="/complaints/internet-magaziny/cifrus-internet-magazin-otzyvy">Цифрус (интернет магазин) - отзывы.</a>    
+  <span>        (2557)  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+          <a href="/complaints/avtozapchasti/pribor-ful-shark-otzyvy-lichnyy-opyt">Прибор фул шарк. Отзывы. Личный опыт. </a>    
+  <span>        (1604)  </span>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+          <a href="/complaints/strahovanie/ctrahovaya-kompaniya-antal-otzyvy">Cтраховая компания &quot;Антал&quot; Отзывы.</a>    
+  <span>        (1178)  </span>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+          <a href="/articles/drugoe/pismo-otvet-na-pretenziyu-obrazec">Письмо - ответ на претензию. Образец. </a>    
+  <span>        (1178)  </span>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+          <a href="/articles/kafe-i-restorany/kniga-zhalob-revizorro">Книга жалоб &quot;Ревизорро&quot;.</a>    
+  <span>        (1039)  </span>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+          <a href="/complaints/internet-magaziny/tehnomir-internet-magazin-otzyvy-o-servise">Техномир (интернет магазин) отзывы о сервисе...</a>    
+  <span>        (928)  </span>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+          <a href="/articles/moshennichestvo/zhidkiy-kashtan-otzyvy-tolko-otricatelnye-lichnyy-opyt">Жидкий каштан - отзывы только отрицательные. Личный опыт. </a>    
+  <span>        (807)  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+	<div class="tab-cont"><div class="view view-tops view-id-tops view-display-id-block_1 view-dom-id-43738f5db870ec9ddcbf802748f25f2f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <a href="/complaints/nekachestvennyy-tovar/kosmetika-deaura-otzyvy-i-reklama-vrut">Косметика деаура - отзывы и реклама врут... </a>    
+  <span>        (1)  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          <a href="/articles/nekachestvennaya-usluga/zhaloba-na-zhkh-obrazec">Жалоба на жкх образец </a>    
+  <span>        (1)  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+          <a href="/complaints/moshennichestvo/otzyvy-webtransfer-finance-com">Отзывы - webtransfer finance com</a>    
+  <span>        (0)  </span>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+          <a href="/complaints/banki/zaimoru-otzyvy">Zaimo.ru -  Отзывы.</a>    
+  <span>        (0)  </span>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+          <a href="/complaints/nekachestvennyy-tovar/demary-detskaya-obuv-otzyvy">Демары (детская обувь) -  отзывы.</a>    
+  <span>        (0)  </span>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+          <a href="/complaints/internet-magaziny/rosmeha-internet-magazin-otzyvy">Росмеха. (интернет магазин) Отзывы. </a>    
+  <span>        (0)  </span>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+          <a href="/complaints/internet-magaziny/vasko-ru-internet-magazin-otzyvy-o-putanice">Васко ру (интернет магазин). Отзывы о путанице.</a>    
+  <span>        (0)  </span>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+          <a href="/complaints/internet-magaziny/tehnomir-internet-magazin-otzyvy-o-servise">Техномир (интернет магазин) отзывы о сервисе...</a>    
+  <span>        (0)  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+<!--/noindex-->  </div>
+</div>  </div>
+</div>			<div id="center" class="side-left ">
+				<a id="main-content"></a>
+																								<div class="clearfix">
+					  <div class="region region-content">
+    <div id="block-views-comparts-block" class="block block-views">
+
+      <div class="content">
+    <div class="view view-comparts view-id-comparts view-display-id-block view-dom-id-80babff5d8cf936e584c2cfbeed31af3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-255" class="node complaint teaser odd">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/webtransfer-financecom" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">webtransfer-finance.com</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/moshennichestvo/otzyvy-webtransfer-finance-com" >Отзывы - webtransfer finance com</a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/moshennichestvo/otzyvy-webtransfer-finance-com">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/moshennichestvo.jpg?itok=Y6mwnqIS" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Хотелось бы рассказать печальный отзыв о личном опыте пользования системой webtransfer-finance.com - позиционирующей себя как социальная кредитная сеть. </p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/moshennichestvo/otzyvy-webtransfer-finance-com" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">08.11.2014 | 09:28</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-fec4841d3af29502d33b0a0fe2eac6ef rate-node-255-1-2" id="rate-node-255-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-1" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=SZd4IgzRxMrUlGqc0suUkAOX4vAm3z5Ht_0_qmNZJyg" title="+1">+1</a>
+<div class="rate-number-up-down-rating positive">+3</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-2" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=J1nUY9aon6ingkEn1pyUioBMDTLCeLnz1tcmvOVcDNo" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">231</div>
+			<div class="comments-count"><a href="/complaints/moshennichestvo/otzyvy-webtransfer-finance-com#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/webtransfer-financecom" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">webtransfer-finance.com</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/moskva" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Москва</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-254" class="node complaint teaser even">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/zaimoru" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">zaimo.ru</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/banki/zaimoru-otzyvy" >Zaimo.ru -  Отзывы.</a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/banki/zaimoru-otzyvy">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/banki.jpg?itok=zqwOc-8F" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Предупрежу сразу - если Вы решили связаться с zaimo.ru, и читаете данный отзыв в поисках ответа - стоит ли связываться с zaimo.ru, то остановитесь и оставьте данную затею.</p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/banki/zaimoru-otzyvy" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">08.11.2014 | 07:11</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-9797a63b9f54bd5a055d9f41b8d4b12d rate-node-254-1-2" id="rate-node-254-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-3" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=mrtovY_5xO9ueHgarUeULfVLmhMPmrfvQbuytM1tCbg" title="+1">+1</a>
+<div class="rate-number-up-down-rating positive">+1</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-4" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=iFkE0cYPj8WXeWTADIq-_Hb5L541YilKVoyHo85EQRk" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">39</div>
+			<div class="comments-count"><a href="/complaints/banki/zaimoru-otzyvy#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/zaimoru" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">zaimo.ru</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/chelyabinsk" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Челябинск</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-253" class="node complaint teaser odd">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/demar" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Demar</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/nekachestvennyy-tovar/demary-detskaya-obuv-otzyvy" >Демары (детская обувь) -  отзывы.</a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/nekachestvennyy-tovar/demary-detskaya-obuv-otzyvy">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/nekachestvennyy_tovar.jpg?itok=5OnYfGcF" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Сразу оговорюсь - обувь вообще не понравилась. (Это для тех кто не хочет читать много букв). По размерности - как то не правильно. Мерим ножку - сравниваем с таблицей. Заказываем обувь.</p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/nekachestvennyy-tovar/demary-detskaya-obuv-otzyvy" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">05.11.2014 | 17:23</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-530a7b9c9240ef479e01566f3cd8713f rate-node-253-1-2" id="rate-node-253-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-5" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=pLf_hOGNmIMgD_7CF4k4TeUB3QKfasjE0l02iN00L1Y" title="+1">+1</a>
+<div class="rate-number-up-down-rating negative">-2</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-6" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=zEDE7vPw__-CytPnc3tEsDCm89WUjCwf_p_kQMrAfXE" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">64</div>
+			<div class="comments-count"><a href="/complaints/nekachestvennyy-tovar/demary-detskaya-obuv-otzyvy#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/demar" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Demar</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/novosibirsk" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Новосибирск</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div id="node-252" class="node complaint teaser even">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/rosmeharu" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">rosmeha.ru</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/internet-magaziny/rosmeha-internet-magazin-otzyvy" >Росмеха. (интернет магазин) Отзывы. </a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/internet-magaziny/rosmeha-internet-magazin-otzyvy">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/internet-magaziny.jpg?itok=7Y9IAzvg" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Заказывала шубку в данном интернет магазине.</p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/internet-magaziny/rosmeha-internet-magazin-otzyvy" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">05.11.2014 | 06:55</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-435b816141530f957692071550af503b rate-node-252-1-2" id="rate-node-252-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-7" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=4P70QpLvFeDmY5W1xpc9k-hnh_8yEl27RhY-Po1SuEo" title="+1">+1</a>
+<div class="rate-number-up-down-rating positive">+2</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-8" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=ZIEBYhs8_mFq7wz_xSpAyjM2NwiX3kgXt_jaRZZV3nU" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">130</div>
+			<div class="comments-count"><a href="/complaints/internet-magaziny/rosmeha-internet-magazin-otzyvy#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/rosmeharu" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">rosmeha.ru</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/moskva" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Москва</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div id="node-251" class="node complaint teaser odd">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/vaskoru" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Vasko.ru</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/internet-magaziny/vasko-ru-internet-magazin-otzyvy-o-putanice" >Васко ру (интернет магазин). Отзывы о путанице.</a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/internet-magaziny/vasko-ru-internet-magazin-otzyvy-o-putanice">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/internet-magaziny.jpg?itok=7Y9IAzvg" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Здравствуйте!</p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/internet-magaziny/vasko-ru-internet-magazin-otzyvy-o-putanice" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">05.11.2014 | 06:32</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-70f871f197d357a869b7a4a4140a6a08 rate-node-251-1-2" id="rate-node-251-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-9" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=TOLz1VZpkTtKRDeY591ATUPp4fhPogyVKCIgKyOVXAk" title="+1">+1</a>
+<div class="rate-number-up-down-rating positive">+1</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-10" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=-wz9wf8u9lRepNoHM8q-1CGkMY_OR0bMVWF-FX2kPTc" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">96</div>
+			<div class="comments-count"><a href="/complaints/internet-magaziny/vasko-ru-internet-magazin-otzyvy-o-putanice#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/vaskoru" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Vasko.ru</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/voronezh" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Воронеж</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <div id="node-249" class="node complaint teaser even">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/tehnomir" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Техномир</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/internet-magaziny/tehnomir-internet-magazin-otzyvy-o-servise" >Техномир (интернет магазин) отзывы о сервисе...</a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/internet-magaziny/tehnomir-internet-magazin-otzyvy-o-servise">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/internet-magaziny.jpg?itok=7Y9IAzvg" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Обращался в Техномир ( интернет магазин который привозит автомобили из японии на заказ). Сказать что не понравилось - не сказать ничего.</p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/internet-magaziny/tehnomir-internet-magazin-otzyvy-o-servise" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">01.11.2014 | 09:34</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-ab9119f257bb63b7d1b0243efdfb333c rate-node-249-1-2" id="rate-node-249-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-11" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=br6zCMfyO8jph-EJq_JLcPIEN5Hf2b_mWmg5QD8iGj0" title="+1">+1</a>
+<div class="rate-number-up-down-rating negative">-4</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-12" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=pEbZGTjAlMcCJdYRw5eqbDIc8y-c1AAD5h3931e8IsU" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">928</div>
+			<div class="comments-count"><a href="/complaints/internet-magaziny/tehnomir-internet-magazin-otzyvy-o-servise#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/tehnomir" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Техномир</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/artem" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Артем</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <div id="node-248" class="node complaint teaser odd">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/celiton" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Целитон</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/moshennichestvo/celiton-otricatelnye-otzyvy" >Целитон - отрицательные отзывы! </a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/moshennichestvo/celiton-otricatelnye-otzyvy">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/moshennichestvo.jpg?itok=Y6mwnqIS" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Прибор целитон... Не знаю, слышали Вы о таком или нет, но данным "Устройством" сейчас зомбируют доверчивых граждан. В частности - стариков.</p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/moshennichestvo/celiton-otricatelnye-otzyvy" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">31.10.2014 | 07:57</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-1674406ad0386e615f9b5740dca21465 rate-node-248-1-2" id="rate-node-248-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-13" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=I_hGEeUycmMcbrS3tScWeM43zQ6t8JgeMwuks8KlcL4" title="+1">+1</a>
+<div class="rate-number-up-down-rating positive">+11</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-14" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=52pmBqRgt0t5i0tWGEsRsvg4BsM8vEQYdRGR8Ssm9eE" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">195</div>
+			<div class="comments-count"><a href="/complaints/moshennichestvo/celiton-otricatelnye-otzyvy#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/celiton" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Целитон</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/krasnodar" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Краснодар</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <div id="node-247" class="node complaint teaser even">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/u-kuzmicha" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">&quot; У Кузьмича &quot;</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/kafe-i-restorany/chem-kormyat-lyudey" >Чем кормят людей</a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/kafe-i-restorany/chem-kormyat-lyudey">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/kafe_i_restorany.jpg?itok=QrHshje1" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Здравствуйте! Информация 100%!!! Очень хорошая знакомая в своё время проходила там практику по профессии &quot;Пекарь-кондитер&quot;.</div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/kafe-i-restorany/chem-kormyat-lyudey" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">31.10.2014 | 00:37</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-b2ae8ec0782a97b6864915d0c2611b9a rate-node-247-1-2" id="rate-node-247-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-15" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=HhO4dxdU_SnH3-U0jbF3uvNt9R9fghfEDWXycGyWabA" title="+1">+1</a>
+<div class="rate-number-up-down-rating negative">-9</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-16" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=zRhxOe0p7u-4lQfPhVNqbgQ81Lr3_ZKqcYntXQ_UclM" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">74</div>
+			<div class="comments-count"><a href="/complaints/kafe-i-restorany/chem-kormyat-lyudey#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/u-kuzmicha" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">&quot; У Кузьмича &quot;</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/petrozavodsk" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Петрозаводск</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <div id="node-246" class="node complaint teaser odd">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/pro-invest" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Про-инвест.</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/banki/proinvest-finansovaya-kompaniya-otzyvy-o-razvodilove" >Проинвест. (финансовая компания) Отзывы о разводилове.</a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/banki/proinvest-finansovaya-kompaniya-otzyvy-o-razvodilove">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/banki.jpg?itok=zqwOc-8F" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Финансовые компании, делающие деньги на кредиторах... По всей видимости, это новый бич российского "Предпринимательства". Нет, скорее истинно Русского бизнеса.</p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/banki/proinvest-finansovaya-kompaniya-otzyvy-o-razvodilove" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">30.10.2014 | 20:28</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-76000ee524e068d1a4fea641ec41bf5f rate-node-246-1-2" id="rate-node-246-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-17" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=oYeefvX_dY56HtZNtROgGm5VRT_Yo4ig6sMs5Ch1mxM" title="+1">+1</a>
+<div class="rate-number-up-down-rating positive">+4</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-18" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=cpWp-t9yTziOoyTejNUmEHzAVM41PQ31_fm2Smgl8nI" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">128</div>
+			<div class="comments-count"><a href="/complaints/banki/proinvest-finansovaya-kompaniya-otzyvy-o-razvodilove#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/pro-invest" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Про-инвест.</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/moskva" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Москва</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    <div id="node-245" class="node complaint teaser even">
+				<div class="node-top">
+									<div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/pek" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">ПЭК</a></div>
+      </div>
+</div>
+			<div class="node-title"><a href="/complaints/dostavka/transportnaya-kompaniya-pek-otzyvy" >Транспортная компания "ПЭК" Отзывы.</a></div>
+		</div>
+		<div class="node-middle">
+						<div class="field-name-field-image"><a href="/complaints/dostavka/transportnaya-kompaniya-pek-otzyvy">
+    
+          <img typeof="foaf:Image" src="http://pravdozor.net/sites/default/files/styles/medium/public/field/image/categories/dostavka.jpg?itok=lafXsrpx" width="90" height="90" alt="" />
+      
+
+</a></div>
+			<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p>Хотелось бы оставить отзыв о транспортной компании ПЭК.</p></div>
+      </div>
+</div>
+			<!--noindex--><div class="node-view"><a href="/complaints/dostavka/transportnaya-kompaniya-pek-otzyvy" rel="nofollow">Прочитать полностью</a></div><!--/noindex-->
+		</div>
+		<div class="node-bottom">
+							<div class="created">30.10.2014 | 20:00</div>
+						<div class="rate"><div class="form-item form-type-item">
+  <label>Рейтинг </label>
+ <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-number_up_down rate-b71325573074729cf312d278bc674d59 rate-node-245-1-2" id="rate-node-245-1-2">
+
+<a class="rate-button rate-number-up-down-btn-up" id="rate-button-19" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=jJr-aNu2-GSgq9Y-wKx2szLyUlVx9-fq8XcdweXqPB8" title="+1">+1</a>
+<div class="rate-number-up-down-rating positive">+5</div>
+
+<a class="rate-button rate-number-up-down-btn-down" id="rate-button-20" rel="nofollow" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?rate=1qkaNmpE0e-TIC1hjVVY7w8AEhnPaqENmr2VMDK9zug" title="-1">-1</a>
+</div>
+</div>
+</div>
+			<div class="node-views">71</div>
+			<div class="comments-count"><a href="/complaints/dostavka/transportnaya-kompaniya-pek-otzyvy#comments">0</a></div>
+			<div class="links">
+				<!--noindex--><div class="type"><a href="complaints" rel="nofollow">Жалоба</a></div><!--/noindex-->
+				<!--noindex--><div class="field field-name-field-company field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/pek" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">ПЭК</a></div>
+      </div>
+</div>
+<!--/noindex-->
+				<!--noindex--><div class="field field-name-field-city field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/barnaul" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Барнаул</a></div>
+      </div>
+</div>
+<!--/noindex-->
+			</div>
+		</div>
+        
+    </div>  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li>
+<li class="pager-current">1 из 22</li>
+<li class="pager-next last"><a title="На следующую страницу" href="/otzyvy-zhaloby-pretenzii-zhalobnaya-kniga-zashchita-prav-potrebiteley?page=1">следующая ›</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+</div><div id="block-system-main" class="block block-system">
+
+      <div class="content">
+    <div id="node-2" class="node page full odd">
+		    
+    		        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><p> </p>
+<h1>Отзывы, жалобы, претензии.</h1>
+<p>Наш сайт создан для тех, кому не безразличны нарушения прав потребителей в нашей стране. ПравДозор.net - реальный способ борьбы с мошенниками! Посетив наш сайт, Вы сможете оставить отзыв или написать претензию на компанию которая нарушила Ваши права! Не оставайтесь равнодушными к защите прав потребителей, добавляйте Ваши жалобы, отзывы и претензии, они обязательно будут прочитаны тысячами людей! Все отзывы, что Вы можете прочесть на страницах нашего сайта - написаны непосредственными жертвами нечестных предпринимателей! Каждая претензия оставленная в интернете - это большой шаг в борьбе с мошенничеством! Оставить претензию, написать отзыв, пожаловаться на мошенничество и спросить совет - все это Вы сможете сделать на нашем сайте!</p>
+<p> <meta content="Жалобная книга. Отзывы, жалобы, советы и претензии! Защита прав потребителей!" name="description" /></p>
+</div>
+      </div>
+</div>
+			</div>  </div>
+</div>  </div>
+				</div>
+			</div> <!-- /#center -->
+					</div>
+	</div> <!-- /#main_body -->
+
+	<div id="footer" class="site-region">
+		<div class="wrapper">
+			  <div class="region region-bottommenu">
+    <div id="block-menu-block-2" class="block block-menu-block">
+
+      <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-menu-bottom-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf active-trail active menu-mlid-539"><a href="/" title="" class="active-trail active">Главная</a></li>
+<li class="leaf menu-mlid-562"><a href="/o-proekte">О проекте</a></li>
+<li class="leaf menu-mlid-563"><a href="/user/register" title="">Регистрация</a></li>
+<li class="leaf menu-mlid-564"><a href="/reklama-na-sayte">Реклама на сайте</a></li>
+<li class="leaf menu-mlid-565"><a href="/polzovatelskoe-soglashenie">Пользовательское соглашение</a></li>
+<li class="last leaf menu-mlid-566"><a href="/obratnaya-svyaz">Обратная связь</a></li>
+</ul></div>
+  </div>
+</div>  </div>
+			  <div class="region region-footer">
+    <div id="block-block-2" class="block block-block">
+
+      <div class="content">
+    <p>Все права защищены. © 2014</p>
+  </div>
+</div><div id="block-block-8" class="block block-block">
+
+      <div class="content">
+    <script>
+<!--//--><![CDATA[// ><!--
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53520730-1', 'auto');
+  ga('send', 'pageview');
+
+
+//--><!]]>
+</script>  </div>
+</div>  </div>
+			<div class="counters">
+				<a title="Дизайн и разработка FiDS" href="http://xfids.ru"></a>
+				  <div class="region region-counter">
+    <div id="block-block-1" class="block block-block">
+
+      <div class="content">
+    <noindex>
+	<!--LiveInternet counter--><script type="text/javascript"><!--
+	document.write("<a href='http://www.liveinternet.ru/click' "+
+	"target=_blank><img src='http://counter.yadro.ru/hit?t19.1;r"+
+	escape(document.referrer)+((typeof(screen)=="undefined")?"":
+	";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+	screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+	";"+Math.random()+
+	"' alt='' title='LiveInternet: показано число просмотров за 24"+
+	" часа, посетителей за 24 часа и за сегодня' "+
+	"border='0' width='88' height='31'><\/a>")
+	//--></script><!--/LiveInternet-->
+</noindex>
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=25903427&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/25903427/3_1_9746E9FF_7726C9FF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:25903427,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter25903427 = new Ya.Metrika({id:25903427,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->
+  </div>
+</div>  </div>
+			</div>
+		</div>
+	</div><!--footer-->
+</div> <!-- site -->
+
+  </body>
+</html>

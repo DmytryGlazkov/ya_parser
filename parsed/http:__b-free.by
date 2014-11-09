@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru" xml:lang="ru">
+<head>
+<title>Интернет-магазин одежды и обуви в Беларуси b-free</title>
+<meta name="description" content="Интернет-магазин модной одежды и обуви b-free.by. У нас вы можете купить мужскую одежду, женскую одежду, обувь, кеды, кроссовки, куртки, толстовки, джинсы, майки, джемпера, ремни, кошельки и многое другое!" />
+<base href="http://b-free.by/" />
+<link href="image/http://b-free.by/image/data/smile.png" rel="icon" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/cofran/stylesheet/reset.css" media="all" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/cofran/stylesheet/styles.css" media="all" />
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/styles-ie.css" media="all" />
+<![endif]-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/thickbox/thickbox-compressed.js">
+</script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/thickbox/thickbox.css" />
+<script type="text/javascript" src="catalog/view/javascript/jquery/tab.js"></script>
+
+<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?14"></script>
+<script type="text/javascript">
+VK.init({apiId: 2002697, onlyWidgets: true});
+</script>
+
+</head>
+<body>
+<div class="wrapper">
+	<div class="header-container">
+	<div class="header">
+	        <div class="page">
+            <div class="header-row">
+			<noindex>
+            	<div class="logo-block">
+				<noindex>
+                    <h1 id="logo" class="logo" style="background-image: url(http://b-free.by/image/data/8.png);" title="интернет-магазин одежды и обуви b-free">
+<a href="http://b-free.by/">интернет-магазин одежды и обуви b-free</a></h1> 
+
+                </div>
+                <div class="navigation">
+                	<div class="navigation-row">
+                    	
+                    <div class="clear-block"></div>
+                    </div>
+                    <div class="block-search">
+                       <div class="indent-search">
+                        <fieldset class="form-search">
+                                      <input type="text" onkeydown="KeyPress(event)" class="inputbox" value="Поиск..." id="filter_keyword" onclick="this.value = '';" onkeydown="this.style.color = '#000000'" style="color: #999;" />
+                                                    <button class="button" type="submit" onclick="moduleSearch();"> </button>
+                        </fieldset>
+                       </div>
+                        <p class="search-text">Поиск:</p>
+                    </div>
+                    <ul class="links">
+	                  <li class="first"><a href="http://b-free.by/index.php?route=information/contact" title="Контакты" >Контакты</a></li>
+                      <li><a href="http://b-free.by/index.php?route=information/sitemap" title="Карта сайта" >Карта сайта</a></li>
+                      <li class="last"><a href="http://b-free.by/index.php?route=product/search" title="Расширенный поиск">Расширенный поиск</a></li>
+                    </ul>
+                    <div class="clear-block"></div>
+                </div>
+                <div class="clear-block"></div>
+            </div>
+        </div>
+
+	  <div class="row-menu">
+        <div class="page">
+          <ul id="nav">
+            <li><a href="http://b-free.by/" id="tab_home"><span>Главная</span></a></li>
+			
+            <li><a href="http://b-free.by/index.php?route=product/special"><span>Акции</span></a></li>
+             <li><a href="http://b-free.by/index.php?route=account/account"><span>Кабинет</span></a></li>
+            
+            <li><a href="http://b-free.by/index.php?route=checkout/cart"><span>Мои покупки</span></a></li>
+            <li><a href="http://b-free.by/index.php?route=checkout/shipping"><span>Оформить</a></span></li>
+          </ul>
+        </div>
+      </div>
+	</div>
+</div>
+</noindex>
+<noindex>
+
+<script type="text/javascript">
+<!-- 
+function KeyPress(e) {
+if(e.keyCode == 13){
+moduleSearch();
+}
+}
+function getURLVar(urlVarName) {
+	var urlHalves = String(document.location).toLowerCase().split('?');
+	var urlVarValue = '';
+	
+	if (urlHalves[1]) {
+		var urlVars = urlHalves[1].split('&');
+
+		for (var i = 0; i <= (urlVars.length); i++) {
+			if (urlVars[i]) {
+				var urlVarPair = urlVars[i].split('=');
+				
+				if (urlVarPair[0] && urlVarPair[0] == urlVarName.toLowerCase()) {
+					urlVarValue = urlVarPair[1];
+				}
+			}
+		}
+	}
+	
+	return urlVarValue;
+} 
+//--></script>
+<script type="text/javascript"><!--
+$('#module_search input').keydown(function(e) {
+	if (e.keyCode == 13) {
+		moduleSearch();
+	}
+});
+
+function moduleSearch() {
+	url = 'index.php?route=product/search';
+	
+	var filter_keyword = $('#filter_keyword').attr('value')
+	
+	if (filter_keyword) {
+		url += '&keyword=' + encodeURIComponent(filter_keyword);
+	}
+	
+	var filter_category_id = $('#filter_category_id').attr('value');
+	
+	if (filter_category_id) {
+		url += '&category_id=' + filter_category_id;
+	}
+	
+	location = url;
+}
+//--></script>
+<script type="text/javascript"><!--
+$('.switcher').bind('click', function() {
+	$(this).find('.option').slideToggle('fast');
+});
+//--></script>
+<ul id="navigation">
+            <li class="circa"><noindex><a href="http://b-free.by/circa" rel="nofollow"></a></noindex></li>
+            <li class="element"><noindex><a href="http://b-free.by/element" rel="nofollow"></a></noindex></li>
+            <li class="emerica"><noindex><a href="http://b-free.by/emerica" rel="nofollow"></a></noindex></li>
+            <li class="etnies"><noindex><a href="http://b-free.by/etnies" rel="nofollow"></a></noindex></li>
+            <li class="fallen"><noindex><a href="http://b-free.by/fallen" rel="nofollow"></a></noindex></li>
+            <li class="ripzone"><noindex><a href="http://b-free.by/ripzone" rel="nofollow"></a></noindex></li>
+			<li class="vans"><noindex><a href="http://b-free.by/vans" rel="nofollow"></a></noindex></li>
+        </ul>
+                
+        <script type="text/javascript">
+            $(function() {
+                var d=300;
+                $('#navigation a').each(function(){
+                    $(this).stop().animate({
+                        'marginRight':'-80px'
+                    },d+=150);
+                });
+
+                $('#navigation > li').hover(
+                function () {
+                    $('a',$(this)).stop().animate({
+                        'marginRight':'-2px'
+                    },200);
+                },
+                function () {
+                    $('a',$(this)).stop().animate({
+                        'marginRight':'-80px'
+                    },200);
+                }
+            );
+            });
+        </script>
+		
+		
+<script type="text/javascript"><!--
+reformal_wdg_w    = "713";
+reformal_wdg_h    = "460";
+reformal_wdg_domain    = "b-free";
+reformal_wdg_mode    = 0;
+reformal_wdg_title   = "Отзывайтесь, советуйте, предлагайте!";
+reformal_wdg_ltitle  = "Оставьте свой отзыв";
+reformal_wdg_lfont   = "";
+reformal_wdg_lsize   = "";
+reformal_wdg_color   = "#939396";
+reformal_wdg_bcolor  = "#516683";
+reformal_wdg_tcolor  = "#FFFFFF";
+reformal_wdg_align   = "left";
+reformal_wdg_charset = "utf-8";
+reformal_wdg_waction = 0;
+reformal_wdg_vcolor  = "#9FCE54";
+reformal_wdg_cmline  = "#E0E0E0";
+reformal_wdg_glcolor  = "#105895";
+reformal_wdg_tbcolor  = "#FFFFFF";
+reformal_wdg_tcolor_aw4  = "#3F4543";
+ 
+reformal_wdg_bimage = "7688f5685f7701e97daa5497d3d9c745.png";
+ //-->
+</script>
+
+<script type="text/javascript" language="JavaScript" src="http://widget.reformal.ru/tabn2v4.js" rel='external nofollow'></script><noscript>
+<a href="http://b-free.reformal.ru" rel="nofollow">Отзывайтесь, советуйте, предлагайте! feedback</a> 
+<a href="http://reformal.ru" rel="nofollow">на платформе <img src="http://widget.reformal.ru/i/reformal_ru.png" /></a></noscript>
+
+
+<!-- Yandex.Metrika counter --><script type="text/javascript">var yaParams = {/*Здесь параметры визита*/};</script><div style="display:none;"><script type="text/javascript">(function(w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter1429575 = new Ya.Metrika({id:1429575, clickmap:true, accurateTrackBounce:true, trackHash:true,params:window.yaParams||{ }}); } catch(e) { } }); })(window, "yandex_metrika_callbacks");</script></div><script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script><noscript><div><img src="//mc.yandex.ru/watch/1429575" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+</body></html>
+</noindex><div id="banner"> </div><noindex>
+						
+						<!-- CU3ER content JavaScript part starts here -->
+<script type="text/javascript" src="js/swfobject/swfobject.js"></script>
+<script type="text/javascript">
+// add your FlashVars
+var vars = { xml_location : 'config.xml' };
+// add Flash embedding parameters, etc. wmode, bgcolor...
+var params = { wmode : 'transparent' };
+// Flash object attributes id and name
+var attributes = { id:'CU3ER', name:'CU3ER' };
+// dynamic embed of Flash, set the location of expressInstall if needed
+swfobject.embedSWF('bfree.swf', "CU3ER", 936, 400, "10.0.0", "js/expressinstall.swf", vars, params, attributes );
+</script>
+<!-- CU3ER content JavaScript part ends here -->
+
+<!-- CU3ER content HTML part starts here -->
+<div id="CU3ER">
+<!-- modify this content to provide users without Flash or enabled Javascript with alternative content information -->
+<p>Нажмите на ссылку, чтобы перейди на сайт Adobe и скачать Flashplayer <br /><a href="http://www.adobe.com/go/getflashplayer" rel="nofollow"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" rel="nofollow" /></a></p>
+<p>или включите Javascript'ы и перезагрузите страничку (F5)
+</p>
+</div>
+<!-- CU3ER content HTML part ends here -->
+		</noindex>				
+
+<div class="main col2-right-layout">
+  <div class="page">
+    <div class="indent-bg-main">
+      <div class="border-left">
+        <div class="border-right">
+          <div class="border-top">
+            <div class="border-bot">
+              <div class="left-top">
+                <div class="right-top">
+                  <div class="left-bot">
+                    <div class="right-bot">
+                      <div class="indent-binder">
+                        <div class="col-right sidebar">
+                              <!-- T�tulo del Bloque -->
+<div class="block block-cart">
+  <div class="block-title">
+    <div class="border-top-title">
+      <div class="border-bot-title">
+        <div class="left-top-title">
+          <div class="right-top-title">
+            <div class="left-bot-title">
+              <div class="right-bot-title">
+                <h2>Корзина</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- Contenido del Bloque -->
+  <div class="block-content"  id="module_cart">
+    <div class="agregar_al_carrito">
+        <p class="no-items">
+      <strong>Пока пусто</strong>
+    </p>
+        </div>
+  </div>
+
+
+
+</div><!-- Fin block block-cart -->
+
+
+
+<script type="text/javascript"><!--
+$(document).ready(function () {
+	$('#add_to_cart').replaceWith('<a onclick="" id="add_to_cart" class="button">' + $('#add_to_cart').html() + '</a>');
+
+	$('#add_to_cart').click(function () {
+		$.ajax({
+			type: 'post',
+			url: 'index.php?route=module/cart/callback',
+			dataType: 'html',
+			data: $('#product :input'),
+			success: function (html) {
+				$('#module_cart .agregar_al_carrito').html(html);
+
+			},	
+			complete: function () {
+				var image = $('#image').offset();
+				var cart  = $('#module_cart').offset();
+	
+				$('#image').before('<img src="' + $('#image').attr('src') + '" id="temp" style="position: absolute; top: ' + image.top + 'px; left: ' + image.left + 'px;" />');
+	
+				params = {
+					top : cart.top + 'px',
+					left : cart.left + 'px',
+					opacity : 0.0,
+					width : $('#module_cart').width(),  
+					heigth : $('#module_cart').height()
+				};		
+	
+				$('#temp').animate(params, 'slow', false, function () {
+					$('#temp').remove();
+				});		
+			}			
+		});			
+	});			
+});
+//--></script>
+    <!-- T�tulo del Bloque -->
+<div class="block block-categorias">
+  <div class="block-title">
+    <div class="border-top-title">
+      <div class="border-bot-title">
+        <div class="left-top-title">
+          <div class="right-top-title">
+            <div class="left-bot-title">
+              <div class="right-bot-title">
+                <h2>Категории</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- Contenido del Bloque -->
+  <div class="block-content">
+    <ul><li><a href="http://b-free.by/index.php?route=product/category&amp;path=86">МАЙКИ 2011</a></li><li><a href="http://b-free.by/obuw_2011">ОБУВЬ 2011</a></li><li><a href="http://b-free.by/muzskoj-otdiel">МУЖСКОЙ ОТДЕЛ</a></li><li><a href="http://b-free.by/zienskij-otdiel">ЖЕНСКИЙ ОТДЕЛ</a></li><li><a href="http://b-free.by/aksiessuary">АКСЕССУАРЫ</a></li><li><a href="http://b-free.by/skate-ampstuff">SKATE&amp;STUFF</a></li></ul>  </div>
+</div>
+
+    <div class="block block-categorias">
+  <div class="block-title">
+    <div class="border-top-title">
+      <div class="border-bot-title">
+        <div class="left-top-title">
+          <div class="right-top-title">
+            <div class="left-bot-title">
+              <div class="right-bot-title">
+                <h2>социальные сервисы</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-content">
+    <div>
+	<noindex>
+	<p>
+		<a href="http://vkontakte.ru/club21124396" rel="nofollow"><img src="http://b-free.by/image/data/vk.jpg" /></a></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<a href="http://twitter.com/bfreeby" rel="nofollow"><img src="http://b-free.by/image/data/twitter.jpg" /></a></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<img alt="Статус ICQ b-free.by 378-003-173" src="http://web.icq.com/whitepages/online?icq=378003173&amp;img=27" / rel="nofollow">&nbsp;<span style="color: rgb(0, 0, 0);">378003173 <span style="color: rgb(105, 105, 105);">задать вопрос</span></span></p>
+	</noindex></div>
+  </div>
+</div>
+    <div class="box">
+  <div class="top"><strong>Видео недели</strong></div>
+  <div class="middle" style="text-align: center;">
+	<object width="160" height="115"><param name="movie" value="http://www.youtube.com/v/e96n5pgayOY&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/e96n5pgayOY&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="160" height="115"></embed></object>
+  </div>
+  <div class="bottom">&nbsp;</div>
+</div>
+
+    <div class="block block-manufacturer">
+  <div class="block-title">
+    <div class="border-top-title">
+	  <div class="border-bot-title">
+		<div class="left-top-title">
+		  <div class="right-top-title">
+			<div class="left-bot-title">
+			  <div class="right-bot-title">
+                <h2>Производители</h2>
+              </div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </div>
+  <div class="block-content">
+    <select onchange="location=this.value">
+      <option value=""> --- Выберите --- </option>
+                  <option value="http://b-free.by/CIRCA">CIRCA</option>
+                        <option value="http://b-free.by/ELEMENT">ELEMENT</option>
+                        <option value="http://b-free.by/Emerica">Emerica</option>
+                        <option value="http://b-free.by/ES ">ES </option>
+                        <option value="http://b-free.by/Etnies">Etnies</option>
+                        <option value="http://b-free.by/Fallen">Fallen</option>
+                        <option value="http://b-free.by/GLOBE">GLOBE</option>
+                        <option value="http://b-free.by/RipZone">RipZone</option>
+                        <option value="http://b-free.by/Vans">Vans</option>
+                </select>
+  </div>
+</div>    <!-- T�tulo del Bloque -->
+<div class="block block-categorias">
+  <div class="block-title">
+    <div class="border-top-title">
+      <div class="border-bot-title">
+        <div class="left-top-title">
+          <div class="right-top-title">
+            <div class="left-bot-title">
+              <div class="right-bot-title">
+                <h2>Информация</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- Contenido del Bloque -->
+  <div class="block-content">
+	<ul class="list-block">
+            <li><a href="http://b-free.by/about_us">О нас</a></li>
+            <li><a href="http://b-free.by/howwedoit">Как мы работаем</a></li>
+            <li><a href="http://b-free.by/agreement">Условия соглашения</a></li>
+            <li><a href="http://b-free.by/links">Ссылки</a></li>
+            <li><a href="http://b-free.by/shoes_sizes">Размеры обуви</a></li>
+            <li><a href="http://b-free.by/female_sizes">Женские размеры одежды</a></li>
+            
+      
+    </ul>
+  </div>
+</div>  						</div>
+												
+						<div class="col-main">
+							<div><div align="center">
+	<p style="text-align: center">
+		<span style="color: rgb(0,0,0)">Добро пожаловать в</span> <span style="color: rgb(0,0,0)"><strong>интернет-магазин модной одежды</strong>, <strong>обуви</strong> и <strong>аксессуаров</strong>!</span></p>
+	<p style="text-align: center">
+		&nbsp;<span><u><br />
+		</u></span></p>
+</div>
+<div align="justify">
+	<p style="text-align: center">
+		<span _fck_bookmark="1" style="display: none">&nbsp;</span><span style="color: rgb(255,0,0)"><span style="color: rgb(0,0,0)">Если вам что-то приглянулось, <font size="2">но у вас есть вопросы</font>&nbsp;- звоните по тел.</span> &nbsp;<span style="color: rgb(128,0,0)"><span><span style="color: #000"><u><em><strong>7-364-364</strong></em></u></span>&nbsp;&nbsp;</span></span></span><span _fck_bookmark="1" style="display: none">&nbsp;</span><span style="color: rgb(0,0,0)"><strong>MTC/Velcom</strong></span><span style="color: rgb(255,0,0)"><span style="color: rgb(105,105,105)"><span><span style="color: rgb(0,0,0)">,</span><span style="color: rgb(0,0,0)"><span style="color: rgb(128,0,0)"> </span><span>либо пишите: ICQ -</span></span></span></span></span><span style="color: #000">&nbsp;</span><strong><span _fck_bookmark="1" style="display: none">&nbsp;</span><span style="color: #000"><em><u>378003173</u></em></span><span _fck_bookmark="1" style="display: none">&nbsp;</span>, </strong><span style="color: rgb(0,0,0)">где получите подробнейшую консультацию!</span></p>
+</div>
+</div>
+						</div>
+						<div style="margin: 0 0 30px 0"></div>
+																												<div class="col-main">
+	  <div class="std">
+		<div class="category-title">
+		  <h2>Последние Товары</h2>
+		</div>
+		
+		<div class="category-products">
+		<table id="products-grid-table" class="products-grid">
+		  		  <tr class="first odd">
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/Ripzone-Stripe-Ombre" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/Майки2011/37-120x120.jpg" title="Майка  RIPZONE Ripzone Stripe Ombre" alt="Майка  RIPZONE Ripzone Stripe Ombre" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/Ripzone-Stripe-Ombre">Майка  RIPZONE Ripzone Stripe Ombre</a>
+							</h3>
+							<span>Ripzone Stripe Ombre</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  134 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/RIPZONE-Pipeline-Screen" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/Майки2011/38-120x120.jpg" title="Майка  RIPZONE Pipeline Screen" alt="Майка  RIPZONE Pipeline Screen" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/RIPZONE-Pipeline-Screen">Майка  RIPZONE Pipeline Screen</a>
+							</h3>
+							<span>Pipeline Screen</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  134 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/VANS-SK8-Wht" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/AVESNA/x_e76a6aaf-120x120.jpg" title="Кеды VANS SK8-HI D-LO-Wht" alt="Кеды VANS SK8-HI D-LO-Wht" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/VANS-SK8-Wht">Кеды VANS SK8-HI D-LO-Wht</a>
+							</h3>
+							<span>SK8-HI D-LO-Wht</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  404 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+					  </tr>
+		  		  <tr class="first odd">
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/VANS-SK8-Blue" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/AVESNA/x_eaa112b0-120x120.jpg" title="Кеды VANS SK8-HI D-LO-Bl" alt="Кеды VANS SK8-HI D-LO-Bl" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/VANS-SK8-Blue">Кеды VANS SK8-HI D-LO-Bl</a>
+							</h3>
+							<span>SK8-HI D-LO-Bl</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  404 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/VANS-PRITCHARD-Blk" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/AVESNA/x_3f7ade50-120x120.jpg" title="Полуботинки VANS PRITCHARD-Blk" alt="Полуботинки VANS PRITCHARD-Blk" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/VANS-PRITCHARD-Blk">Полуботинки VANS PRITCHARD-Blk</a>
+							</h3>
+							<span>PRITCHARD-Blk</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  550 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/index.php?route=product/product&product_id=654" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/AVESNA/x_404bcde8-120x120.jpg" title="Полуботинки VANS PRITCHARD-Bl" alt="Полуботинки VANS PRITCHARD-Bl" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/index.php?route=product/product&product_id=654">Полуботинки VANS PRITCHARD-Bl</a>
+							</h3>
+							<span>PRITCHARD-Bl</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  550 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+					  </tr>
+		  		  <tr class="first odd">
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/VANS-CLASSIC-SLIP-ON-BrwnChek" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/AVESNA/x_b9348efa-120x120.jpg" title="Кеды VANS CLASSIC SLIP-ON-BrwnChek" alt="Кеды VANS CLASSIC SLIP-ON-BrwnChek" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/VANS-CLASSIC-SLIP-ON-BrwnChek">Кеды VANS CLASSIC SLIP-ON-BrwnChek</a>
+							</h3>
+							<span>CLASSIC SLIP-ON-BrwnChek</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  356 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/VANS-LPE-2-Tone-BlueYell" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/AVESNA/x_207f0265-120x120.jpg" title="Кеды VANS LPE (2 Tone)-BlueYell" alt="Кеды VANS LPE (2 Tone)-BlueYell" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/VANS-LPE-2-Tone-BlueYell">Кеды VANS LPE (2 Tone)-BlueYell</a>
+							</h3>
+							<span>LPE (2 Tone)-BlueYell</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  337 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+						<td>
+			  			  <div class="border-bot-prod">
+				<div class="left-top-prod">
+				  <div class="right-top-prod">
+					<div class="left-bot-prod">
+					  <div class="right-bot-prod">
+						<div class="inside-prod">
+						  
+						  <div class="product-image-box">
+							<a href="http://b-free.by/VANS-AUTHENTIC-LO-PRO-Orn" class="product-image">
+							  <span class="side-left-img">
+								<span class="side-right-img">
+								  <span class="side-top-img">
+									<span class="side-bot-img">
+									  <span class="left-top-img">
+										<span class="right-top-img">
+										  <span class="left-bot-img">
+											<span class="right-bot-img">
+											  <span class="inside-img">
+												<img src="http://b-free.by/image/cache/data/AVESNA/x_adf927aa-120x120.jpg" title="Кеды VANS AUTHENTIC LO PRO-Orn" alt="Кеды VANS AUTHENTIC LO PRO-Orn" />
+											  </span>
+											</span>
+										  </span>
+										</span>
+									  </span>
+									</span>
+								  </span>
+								</span>
+							  </span>
+							</a>
+						  </div>
+						  <div class="indent-product">
+							<h3 class="product-name">
+							  <a href="http://b-free.by/VANS-AUTHENTIC-LO-PRO-Orn">Кеды VANS AUTHENTIC LO PRO-Orn</a>
+							</h3>
+							<span>AUTHENTIC LO PRO-Orn</span>
+														<div class="price-box">
+														  <span class="regular-price">
+								<span class="price">
+								  337 000 б.р.								</span>
+							  </span>
+														</div>
+						  						  						  </div>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			  			</td>
+					  </tr>
+		  		</table>
+
+		</div>
+	  </div>
+	</div>
+	<div class="clear-block"></div>
+													                      </div>
+					  		  
+					  
+<div class="footer">
+    <div class="row-footer">
+    	<div class="indent-footer">
+        	<div align="center" class="block-links-footer">
+				<p class="copyright"></p>
+                <p class="store-switcher">
+				 интернет-магазин одежды и обуви b-free &copy; 2014 
+				</p>
+												
+              <div class="clear-block"></div>
+			     </div>
+					<div align="center" class="clear-block">
+					<noindex><A HREF="http://www.all.by/" rel="nofollow">
+					<IMG SRC="http://www.all.by/cgi-bin/rating.cgi?id=10079956&amp;ni=3" BORDER="0" WIDTH="88" HEIGHT="31" ALT="Rating All.BY" rel="nofollow"></A>
+										
+					<a href="http://catalog.tut.by/" rel="nofollow"> 
+					<img src="http://catalog.tut.by/images/catalog-tut2.gif" border=0 width=88 height=31 alt="Каталог TUT.BY"></a> 
+					
+					<a href="http://www.tiga.by" rel="nofollow"><img src="http://www.tiga.by/img/catalog/04.gif" alt="TIGA.BY: Каталог, новости, погода, почта, работа, фото и многое другое" width="88" height="31" border="0"></a> </noindex>
+					
+					<!--Akavita counter start-->
+					<script type="text/javascript">var AC_ID=46880;var AC_TR=false;
+					(function(){var l='http://adlik.akavita.com/acode.js'; var t='text/javascript';
+					try {var h=document.getElementsByTagName('head')[0];
+					var s=document.createElement('script'); s.src=l;s.type=t;h.appendChild(s);}catch(e){
+					document.write(unescape('%3Cscript src="'+l+'" type="'+t+'"%3E%3C/script%3E'));}})();
+					</script><span id="AC_Image"></span>
+					<noscript><a target='_top' href='http://www.akavita.by/' rel='external nofollow'>
+					<img src='http://adlik.akavita.com/bin/lik?id=46880&it=1'
+					border='0' height='1' width='1' alt='Akavita'/>
+					</a></noscript>
+					<!--Akavita counter end-->
+															</div>
+															
+															
+															<div align="center" class="clear-block"><!-- begin of Top100 code -->
+
+<a href="http://top100.rambler.ru/navi/2450781/" rel="nofollow">
+<img src="http://counter.rambler.ru/top100.cnt?2450781" alt="Rambler's Top100" border="0" />
+</a>
+
+<!-- end of Top100 code --> </div>
+															
+															<div align="center" class="clear-block"><noindex>
+															<!--LiveInternet counter--><script type="text/javascript"><!--
+					document.write("<a href='http://www.liveinternet.ru/click' rel='external nofollow' "+"target=_blank><img src='//counter.yadro.ru/hit?t44.1;r"+
+					escape(document.referrer)+((typeof(screen)=="undefined")?"":
+					";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+					screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+					";"+Math.random()+
+					"' alt='' title='LiveInternet' "+
+					"border='0' width='31' height='31'><\/a>")
+					//--></script><!--/LiveInternet--></noindex>
+																				 </div>
+															
+														</div>
+													</div>
+												</div>  
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+	</div>
+ </div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15400498-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+ 

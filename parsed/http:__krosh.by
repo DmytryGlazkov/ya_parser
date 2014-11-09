@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />                  
+<meta http-equiv="Content-Language" content="ru" />
+
+    <title>Ошибка: Доступ заблокирован (403)</title>
+    <meta name="description" content="Ошибка: Доступ заблокирован (403) description" />
+    <meta name="keywords" content="Ошибка: Доступ заблокирован (403) keywords" />
+
+<link rel="shortcut icon" href="http://cdn1.cartenergy.ru/assets/theme/2/220/favicon.ico?1414176949" type="image/x-icon" />
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<!--[if IE 7]>
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome-ie7.min.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+
+<link href="http://cdn1.cartenergy.ru/assets/theme/2/220/theme.css?1414347152" media="screen" rel="stylesheet" type="text/css" />
+<script src="http://cdn1.cartenergy.ru/assets/theme/2/220/theme.js?1411205989" type="text/javascript"></script>
+
+<script type="text/javascript">
+    jQuery(function(){
+        activateCategories(new Array(16750,0));
+    });
+</script>
+
+<!-- Google Analytics BEGIN -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-55103864-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<!-- Google Analytics END -->
+
+</head>
+<body class="action-show-error action-error layout-wide customer-anonymous">
+    <div class="wrapper">
+
+<!-- BEGIN HEADER -->
+<div class="header-container">
+    <div class="header">
+
+        <div class="logo" id="logo">
+            <a href="/" title="krosh.by">
+
+                <img src="http://cdn1.cartenergy.ru/assets/theme/2/220/logo.png?1411256241" alt="logo"/>
+
+            </a>
+        </div>
+
+        <div class="header-text">
+
+        </div>
+
+        <ul class="header-nav" >
+
+            <li class="customer-link">
+                <a href="/customer"><i class="icon-user"></i>  Личный кабинет</a>
+            </li>
+            <li class="cart-link">
+                <a href="/cart">
+                    <i class="icon-shopping-cart"></i>
+                    Корзина -
+                    <em>
+
+                        0 ед.
+
+                    </em>
+                </a>
+            </li>
+            <li class="search-bar last">
+                <form action="/search" method="get" >
+                    <div class="input-wrap">
+                        <label for="search-bar-input">Поиск:</label>
+                        <input type="text" name="query" id="search-bar-input"
+                               placeholder="Поиск..." />
+                    </div>
+                    <button><i class="icon-search"></i></button>
+                </form>                
+            </li>
+        </ul>
+
+    </div>
+</div>
+<!-- END HEADER -->
+
+<!-- BEGIN TOP NAV -->
+<div class="top-nav-container">        
+    <ul class="menu">
+
+	<li class="menu-item-2376 first">            
+		<a href="/" title="Главная">Главная</a>
+
+	</li>
+
+	<li class="menu-item-2377">            
+		<a href="/feed/742" title="Новости">Новости</a>
+
+	</li>
+
+	<li class="menu-item-2378">            
+		<a href="/page/2119" title="О нас">О нас</a>
+
+	</li>
+
+	<li class="menu-item-2379">            
+		<a href="/page/2120-sposoby_oplaty_i_dostavki" title="Способы доставки и оплаты">Способы доставки и оплаты</a>
+
+	</li>
+
+	<li class="menu-item-2380 last">            
+		<a href="/page/2121-kontaktnye_dannye_magazina" title="Контакты">Контакты</a>
+
+	</li>
+
+</ul>
+
+</div>
+<!-- END NAV -->
+
+        <!-- BEGIN COLUMNS -->
+        <div class="main-container">
+            <div class="main">
+
+<ul class="breadcrumbs">
+
+    <li>
+        <a href="/" title="Главная">Главная</a>
+        <span>&rsaquo;</span>
+    </li>
+
+    <li>
+        <strong>Ошибка: Доступ заблокирован (403)</strong>
+    </li>
+
+</ul>
+
+                <div class="column column-main last">                    
+                    <h1>Ошибка: Доступ заблокирован (403)</h1>
+
+<p>Доступ к этой странице сайта (или всему сайту) временно заблокирован.</p>
+<p>За более подробной информацией обращайтесь к администрации сайта.</p>
+
+<p>&nbsp;</p>
+
+<h2>Контактные данные администрации сайта:</h2>
+<p></p>
+                </div>
+            </div>
+        </div>
+        <!-- END COLUMNS -->
+
+<!-- BEGIN FOOTER -->
+<div class="footer-container">
+    <div class="footer">
+        <!-- shop modules -->
+
+        <!-- developer label -->
+        <div style="display: block !important;text-align: right;">
+
+            <a href="http://markets.by" id="marketsby-link" 
+               style="font-size: 11px;display: inline-block !important;"
+               title="Каталог интернет-магазинов Беларуси - markets.by">
+                <img src="http://markets.by/images/markets_by.png"
+                     alt="markets.by - интернет-магазины"
+                     title="Каталог интернет-магазинов Беларуси - markets.by"
+                     width="88" height="31" style="border: none;display: inline !important;"/>
+            </a>
+
+        </div>
+    </div>
+</div>
+<!-- END FOOTER -->
+
+    </div>
+
+<p style="text-align: justify;"><span style="font-size: large;">&nbsp;</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="https://scounter.rambler.ru/top100.jcn?3057242"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/3057242/">
+<img src="https://scounter.rambler.ru/top100.cnt?3057242" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript><!-- end of Top100 code -->
+<p><a href="http://www.myminsk.com/catalog/in.php?id=ID"><img src="http://www.myminsk.com/catalog/banners/banner.gif" alt="Белорусский рейтинг MyMinsk.com" width="90" height="33" border="0" /></a><a title="ГородМ" href="http://www.gorodm.by"><img src="http://www.gorodm.by/pic/gorogm.gif" alt="" width="88" height="31" border="0" />&nbsp;</a><a href="http://top.mail.ru/jump?from=2574876"><img src="//top-fwz1.mail.ru/counter?id=2574876;t=479;l=1" alt="Рейтинг@Mail.ru" width="88" height="31" /></a><a href="http://www.tiga.by"><img src="http://www.tiga.by/img/catalog/10.gif" alt="TIGA.BY: Каталог, новости, погода, почта, работа, фото и многое другое" width="88" height="31" border="0" /></a><a href="http://www.all.by/"><img src="http://www.all.by/cgi-bin/rating.cgi?id=10096413&amp;ni=2" alt="Rating All.BY" width="88" height="31" border="0" /></a><a href="http://belarys.info/"><img src="http://belarys.info/im/button.gif" alt="Каталог белорусских сайтов" width="88" height="31" border="0" /></a><a title="ГородМ" href="http://www.gorodm.by"><span><br /></span></a></p>
+<div class="button_brby"><a style="text-decoration: none; color: white; font: small-caps bold 9px/100% Arial, Helvetica, sans-serif;" href="http://dialog-agency.ru/">dialog</a> <a style="text-decoration: none; color: white; font: small-caps bold 9px/100% Arial, Helvetica, sans-serif;" href="http://br.by/">br.by</a> <a style="text-decoration: none; color: white; font: small-caps bold 9px/100% Arial, Helvetica, sans-serif;" href="http://mel-studio.ru/">mel</a></div>
+<script charset="utf-8" type="text/javascript" src="//yastatic.net/share/share.js"></script>
+<div class="yashare-auto-init" data-yasharel10n="ru" data-yasharetype="button" data-yasharequickservices="vkontakte,facebook,twitter,odnoklassniki,moimir,gplus">&nbsp;</div>
+
+</body>
+</html>        

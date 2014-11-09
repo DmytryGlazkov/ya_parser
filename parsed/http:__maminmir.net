@@ -1,0 +1,1029 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    	<head>
+    <title>>> ��������-������� ������� ������ � �����-���������� ����� ��� | ������ ������� ������ ������!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+    <link rel="stylesheet" href="design/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="design/js/cusel/cusel.css" type="text/css" />
+    <link rel="stylesheet" href="design/js/fancybox/fancybox.css" type="text/css" />
+    <meta name="Description" content="������� ����� ��������� � �������� ��������� �� �������� �����. ��������� ����������� ����������� ��� �������� ������.">
+<meta name="KeyWords" content="��������-������� ������� ������ � �����-����������" >
+
+    <script type="text/javascript" src="design/js/jquery.js"></script>
+    <script type="text/javascript" src="design/js/fancybox/fancybox.js"></script>
+    <script type="text/javascript" src="design/js/jquery.imgr.js"></script>
+    <script type="text/javascript" src="design/js/cusel/cusel.js"></script>
+    <script type="text/javascript" language="javascript" src="design/js/maminmir.js"></script>
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script language="javascript">
+        <!--
+        
+        
+        function open_window(link,w,h) //http://www.needit.ru
+        {
+        var win = "width="+w+",height="+h+",menubar=no,location=no,resizable=yes,scrollbars=yes";
+        newWin = window.open(link,'newWin',win);
+        newWin.focus();
+        }
+        
+        function open_printable_version(link) //http://www.needit.ru
+        {
+        var win = "menubar=no,location=no,resizable=yes,scrollbars=yes";
+        newWin = window.open(link,'perintableWin',win);
+        newWin.focus();
+        }
+        
+        function confirmDelete(id, ask, url) //http://www.needit.ru
+        {
+        temp = window.confirm(ask);
+        if (temp) //delete
+        {
+        window.location=url+id;
+        }
+        }
+        
+        
+        
+        function confirmUnsubscribe() //http://www.needit.ru
+        {
+        temp = window.confirm('�� �������, ��� ������ �������� ����������� � ��������?');
+        if (temp) //delete
+        {
+        window.location="index.php?killuser=yes";
+        }
+        }
+        
+        function validate() // http://www.needit.ru
+        {
+        if (document.subscription_form.email.value.length<1)
+        {
+        alert("����������, ������� email ���������");
+        return false;
+        }
+        if (document.subscription_form.email.value == 'Email')
+        {
+        alert("����������, ������� email ���������");
+        return false;
+        }
+        return true;
+        }
+        function validate_disc() // http://www.needit.ru
+        {
+        if (document.formD.nick.value.length<1)
+        {
+        alert("����������, ������� ��� ���������");
+        return false;
+        }
+        
+        if (document.formD.topic.value.length<1)
+        {
+        alert("����������, ������� ���� ���������");
+        return false;
+        }
+        
+        return true;
+        }
+        function validate_search()
+        {
+        
+        if (document.Sform.price1.value!="" && ((document.Sform.price1.value < 0) || isNaN(document.Sform.price1.value)))
+        {
+        alert("���� ������ ���� ������������� ������");
+        return false;
+        }
+        if (document.Sform.price2.value!="" && ((document.Sform.price2.value < 0) || isNaN(document.Sform.price2.value)))
+        {
+        alert("���� ������ ���� ������������� ������");
+        return false;
+        }
+        
+        return true;
+        }
+        
+        -->
+    </script>
+    
+    <script type="text/javascript">
+        
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-22283463-3']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        
+    </script>
+</head>    	<body>
+    		<div id="page">
+    			<div id="page-inn">
+    				<div id="header">
+    					<div id="header-top">
+    						<div id="header-top-inn">
+    							<div id="header-descriptor">
+    								��������-������� ������� �������
+    							</div>
+    							<div id="header-contacts">
+    								<table>
+    									<tr>
+    										<td>
+    											���: 8(812)942-97-11
+    										</td>
+    										<td>
+    											e-mail: <a href="mailto:mail@maminmir.net">mail@maminmir.net</a>
+    										</td>
+    										<td>
+    											����� ������� �������������!<br />
+    											
+    										</td>
+    									</tr>
+    								</table>
+    							</div>
+    						</div>
+    					</div>
+    					<div id="header-bottom">
+    						<div id="header-bottom-bg1">
+    							<div id="header-bottom-bg2">
+    								<div id="header-bottom-bg3">
+    									<div id="header-bottom-bg4">
+    										<div id="header-bottom-bg5">
+    											
+    										</div>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    						<div id="logo">
+    							<a href="index.php">
+    								<img src="design/images/logo.png" alt="" />
+    							</a>
+    						</div>
+    					</div>
+                        
+                        
+    <div id="basketinfo">
+            		<div id="basketinfo-inn">
+    			<div id="basketinfo-title">
+    				<a href="index.php?shopping_cart=yes">
+    					�������
+    				</a>
+    			</div>
+    			<div id="basketinfo-count">
+    				<div class="basketinfo-value">
+    					0
+    				</div>
+    				�������:
+    			</div>
+    			<div class="clear">&nbsp;</div>
+    			<div id="basketinfo-price">
+    				<div class="basketinfo-value">
+    					0 ���.
+    				</div>
+    				�� �����:
+    			</div>
+    			<div class="clear">&nbsp;</div>
+    			<div id="basketinfo-makeorder">
+    				<a href="index.php?shopping_cart=yes">
+    					�������� ����� >>
+    				</a>
+    			</div>
+    		</div>
+                	</div>    					
+                            
+    <div id="searchbox">
+		<form id="searchbox-form" method="get" action="index.php">
+            			<div id="row-search">
+				<label for="search-query">�����:</label>
+				<input type="text" id="search-query" name="searchstring" value="" />
+			</div>
+            			<div id="row-found">
+				<input type="checkbox" id="search-found-only" name="inside" value="1" /><label id="search-found-only-label" for="search-found-only">������ � ���������</label>
+			</div>
+			<div id="row-submit">
+				<input type="image" src="design/images/search_submit.png" alt="������" />
+			</div>
+            <!--
+    		    		-->
+		</form>
+	</div>
+        					
+    					<div id="trainmenu-wrap">
+    						<div id="trainmenu">
+    							<ul id="trainmenu-ul">
+    								<li class="vagon_1">
+    									<a href="index.php" class="active">
+    										�������
+    									</a>
+    								</li>
+    								<li class="vagon_2">
+    									<a href="index.php?show_aux_page=17" >
+    										����� � ������
+    									</a>
+    								</li>
+    								<li class="vagon_3">
+    									<a href="index.php?show_aux_page=2" >
+    										�������� � ������
+    									</a>
+    								</li>
+                                                                <li class="vagon_4">
+    									<a href="index.php?show_aux_page=1" >
+    										������� ��������
+    									</a>
+    								</li>
+                                                                <li class="vagon_5">
+    									<a href="index.php?show_aux_page=4" >
+    										������ � �����
+    									</a>
+    								</li>
+    								<li class="vagon_6">
+    									<a href="index.php?register=yes" >
+    										�����������    									</a>
+    								</li>
+    								<li class="vagon_7">
+    									<a href="index.php?feedback=yes" >
+    										�������� �����
+    									</a>
+    								</li>
+    								
+    								<li class="vagon_8">
+    									<a href="index.php?show_aux_page=7" >
+    										� ��������
+    									</a>
+    								</li>
+    								
+    							</ul>
+    						</div>
+    					</div>
+    				</div>
+    				<div id="main">
+    					<div id="main-left">
+    						        
+    <div class="vertmenu">
+	<div class="vertmenu-inn-1">
+		<div class="vertmenu-inn-2">
+			<div class="vertmenu-inn-3">
+				<ul class="vertmenu-list">
+                                                                                                                                    
+                                                                                            <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=4" class="vertmenu-link ">�������������</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=6" class="vertmenu-link ">�� ����</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=113" class="vertmenu-link ">�� ����</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=2" class="vertmenu-link ">������ �����</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=3" class="vertmenu-link ">������� ������</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=23" class="vertmenu-link ">�������</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=143" class="vertmenu-link ">������� ������</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=137" class="vertmenu-link ">���������� �����</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=179" class="vertmenu-link ">������</a>
+                                
+                                                        
+                            
+        					
+                                                                                                                        
+                                                                                                </li>
+                                                                <li class="vertmenu-item">
+                                    <a href="index.php?categoryID=199" class="vertmenu-link ">�������</a>
+                                
+                                                        
+                            
+        					
+                                                                                            
+                                            </li>
+                                        
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>                                                        
+
+
+
+    						<div class="side-block">
+    							<a href="index.php?show_aux_page=14">
+    								<img src="design/images/fitting_room.png" alt="On-line �����������" />
+    							</a>
+    						</div>
+                            
+    						                                            
+	<div class="side-block news-block">
+		<ul>
+            				<li>
+					<div class="news-block-date">
+						11.08.2014
+					</div>
+					<div class="news-block-announce">
+						<h4>
+							��������� ����������, � ����� �������� ����� ����������� ������!
+						</h4>
+					</div>
+				</li>
+            				<li>
+					<div class="news-block-date">
+						10.03.2014
+					</div>
+					<div class="news-block-announce">
+						<h4>
+							� ����� �������� ����� �����������!
+						</h4>
+					</div>
+				</li>
+            				<li>
+					<div class="news-block-date">
+						08.03.2014
+					</div>
+					<div class="news-block-announce">
+						<h4>
+							����� ����, ����������� ��� � 8 �����!
+						</h4>
+					</div>
+				</li>
+            				<li>
+					<div class="news-block-date">
+						24.09.2013
+					</div>
+					<div class="news-block-announce">
+						<h4>
+							��������� ����������! ������ �� ������ ����������� 20%
+						</h4>
+					</div>
+				</li>
+            				<li>
+					<div class="news-block-date">
+						27.04.2013
+					</div>
+					<div class="news-block-announce">
+						<h4>
+							��������� ����������, � ����� �������� ����� ����������� ������� ������!
+						</h4>
+					</div>
+				</li>
+            		</ul>
+        			<div class="news-block-more">
+				<a href="index.php?news=yes">��� �������</a>
+			</div>
+        		<form class="subscribe" method="post" action="index.php" name="subscription_form">
+                             				<label for="subscribe-email">����������� �� �������:</label>
+				<input id="subscribe-email" type="text" name="email" value="Email"	/>
+				<input id="subscribe-submit" type="image" src="design/images/subscribe.png" alt="ok" value="OK"/>
+                <input type="hidden" name="subscribe" value="yes" />
+                        		            		</form>
+	</div>
+			                                					</div>
+    					<div id="main-center">
+                            	
+	<div class="center-top">
+		<div class="center-banner">
+     <embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="Flash/448x112_maminmir_net.swf" width="448" height="112" play="true" loop="true" menu="true"/embed>
+		</div>
+		
+		
+
+	
+    <div class="auth-form-wrap">
+		<div class="auth-form">
+			<form method="post" action="index.php">
+                <input type="hidden" name="enter" value="1" />
+				<div class="row-login">
+					<input id="auth-form-login" type="text" name="user_login" value="�����" />
+				</div>
+				<div class="row-pass">
+					<input id="auth-form-passtxt" type="text" name="passtxt" value="������" />
+					<input id="auth-form-pass" type="password" name="user_pw" value="" />
+				</div>
+				<div class="row-forgot">
+					<a href="index.php?logging=yes">������ ������?</a>
+				</div>
+				<div class="row-reg">
+					<a href="index.php?register=yes">�����������</a>
+                    <input type="image" src="design/images/auth_submit.png" value="�����" />
+				</div>
+                                			</form>
+		</div>
+	</div>
+		
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+    <br><br>
+	
+		
+			<div class="specoffer">
+			<div class="specoffer-top">
+				<div class="specoffer-top-r">
+					<div class="specoffer-top-c">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+			<div class="specoffer-middle">
+				<div class="specoffer-middle-inn">
+					<ul>
+													<li>
+								<a href="index.php?productID=147" class="specoffer-image">
+									<img src="products_pictures/141_1.jpg" alt="" />
+								</a>
+								<div class="specoffer-title">
+									<h3>
+										<a href="index.php?productID=147">
+											������� ������ �������
+										</a>
+									</h3>
+									<div class="specoffer-price">
+										210 ���.
+									</div>
+								</div>
+							</li>
+													<li>
+								<a href="index.php?productID=150" class="specoffer-image">
+									<img src="products_pictures/116_1.jpg" alt="" />
+								</a>
+								<div class="specoffer-title">
+									<h3>
+										<a href="index.php?productID=150">
+											����� � ����� ��� ������� (�����)
+										</a>
+									</h3>
+									<div class="specoffer-price">
+										90 ���.
+									</div>
+								</div>
+							</li>
+													<li>
+								<a href="index.php?productID=754" class="specoffer-image">
+									<img src="products_pictures/sa029i_1.jpg" alt="" />
+								</a>
+								<div class="specoffer-title">
+									<h3>
+										<a href="index.php?productID=754">
+											����������� ����� ��� ��������
+										</a>
+									</h3>
+									<div class="specoffer-price">
+										340 ���.
+									</div>
+								</div>
+							</li>
+													<li>
+								<a href="index.php?productID=279" class="specoffer-image">
+									<img src="products_pictures/al013zh_1.jpg" alt="" />
+								</a>
+								<div class="specoffer-title">
+									<h3>
+										<a href="index.php?productID=279">
+											���+���� (�����)
+										</a>
+									</h3>
+									<div class="specoffer-price">
+										210 ���.
+									</div>
+								</div>
+							</li>
+											</ul>
+				</div>
+			</div>
+			<div class="specoffer-bottom">
+				<div class="specoffer-bottom-r">
+					<div class="specoffer-bottom-c">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+			<div class="novelties">
+			<div class="novelties-top">
+				<div class="novelties-top-r">
+					<div class="novelties-top-c">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+			<div class="novelties-middle">
+				<ul>
+											<li>
+							<a href="index.php?productID=5138" class="novelties-image">
+								<img src="products_pictures/448_1.jpg" alt="" />
+							</a>
+							<div class="novelties-title">
+								<h3>
+									<a href="index.php?productID=5138">
+										������ "������"
+									</a>
+								</h3>
+								<div class="novelties-price">
+									700 ���.
+								</div>
+							</div>
+						</li>
+											<li>
+							<a href="index.php?productID=5146" class="novelties-image">
+								<img src="products_pictures/453[1]_1.jpg" alt="" />
+							</a>
+							<div class="novelties-title">
+								<h3>
+									<a href="index.php?productID=5146">
+										������� 0639 (�����)
+									</a>
+								</h3>
+								<div class="novelties-price">
+									560 ���.
+								</div>
+							</div>
+						</li>
+											<li>
+							<a href="index.php?productID=413" class="novelties-image">
+								<img src="products_pictures/387_1.jpg" alt="" />
+							</a>
+							<div class="novelties-title">
+								<h3>
+									<a href="index.php?productID=413">
+										����� "����"
+									</a>
+								</h3>
+								<div class="novelties-price">
+									70 ���.
+								</div>
+							</div>
+						</li>
+											<li>
+							<a href="index.php?productID=737" class="novelties-image">
+								<img src="products_pictures/sa006k_1.jpg" alt="" />
+							</a>
+							<div class="novelties-title">
+								<h3>
+									<a href="index.php?productID=737">
+										�������� �����
+									</a>
+								</h3>
+								<div class="novelties-price">
+									80 ���.
+								</div>
+							</div>
+						</li>
+											<li>
+							<a href="index.php?productID=5238" class="novelties-image">
+								<img src="products_pictures/469_3_1.jpg" alt="" />
+							</a>
+							<div class="novelties-title">
+								<h3>
+									<a href="index.php?productID=5238">
+										����� �������
+									</a>
+								</h3>
+								<div class="novelties-price">
+									60 ���.
+								</div>
+							</div>
+						</li>
+											<li>
+							<a href="index.php?productID=5237" class="novelties-image">
+								<img src="products_pictures/469_2_1.jpg" alt="" />
+							</a>
+							<div class="novelties-title">
+								<h3>
+									<a href="index.php?productID=5237">
+										����� �������
+									</a>
+								</h3>
+								<div class="novelties-price">
+									60 ���.
+								</div>
+							</div>
+						</li>
+									</ul>
+			</div>
+			<div class="novelties-bottom">
+				<div class="novelties-bottom-r">
+					<div class="novelties-bottom-c">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+        
+    <br>
+        <br>
+    
+    
+   			<div class="our-products">
+			<ul>
+									<li>
+													<a href="index.php?categoryID=4" class="our-products-image">
+								<img src="products_pictures/1_33.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=4" class="table-cell">
+									�������������
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+													<a href="index.php?categoryID=6" class="our-products-image">
+								<img src="products_pictures/1_1.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=6" class="table-cell">
+									�� ����
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+													<a href="index.php?categoryID=113" class="our-products-image">
+								<img src="products_pictures/1_7.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=113" class="table-cell">
+									�� ����
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+													<a href="index.php?categoryID=2" class="our-products-image">
+								<img src="products_pictures/1.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=2" class="table-cell">
+									������ �����
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+													<a href="index.php?categoryID=3" class="our-products-image">
+								<img src="products_pictures/1_2.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=3" class="table-cell">
+									������� ������
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+													<a href="index.php?categoryID=23" class="our-products-image">
+								<img src="products_pictures/1_4.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=23" class="table-cell">
+									�������
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+													<a href="index.php?categoryID=143" class="our-products-image">
+								<img src="products_pictures/1_9.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=143" class="table-cell">
+									������� ������
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+													<a href="index.php?categoryID=137" class="our-products-image">
+								<img src="products_pictures/1_8.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=137" class="table-cell">
+									���������� �����
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+													<a href="index.php?categoryID=179" class="our-products-image">
+								<img src="products_pictures/1_10.gif" alt="" />
+							</a>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=179" class="table-cell">
+									������
+								</a>
+							</h3>
+						</div>
+					</li>
+									<li>
+												<div class="our-products-title">
+							<h3>
+								<a href="index.php?categoryID=199" class="table-cell">
+									�������
+								</a>
+							</h3>
+						</div>
+					</li>
+							</ul>
+			<div class="clear">&nbsp;</div>
+		</div>
+	 
+    
+    
+    
+        
+        
+       <div class="center-block">
+		<div class="text-page">
+			<div class="text-page-title">
+				<h1>
+					����� ���������� � ��������-�������<br /> ������� ������ "����� ���"
+				</h1>
+			</div>
+			<div class="text-page-content">
+				<p>
+					����� �������� �����: ������ ������ ��� ����� - ��������� �����������. ��� <strong><em>��������-������� ������� ������ � �����-����������</em></strong> ����� ��� ������� ��� ���������� �� �� ����� ������, ������� ����� ������ � ������� ������� ��������, �������� �� ��� ����������� ������ ������� � ���. �� ����� ����� � ������ �����, ���������� ������� ����� ������ �����! ������� ������������ �������, ������� ��������, ������� ��� �������� � ��������� ������ ������!
+				</p>
+				<p>
+					�������� ����������� ��� <strong>��������-������� ������� ������</strong> ������ ���������� ������������ � ��������� ������ ��� �������������, ������� � ����� �������� �������� ������������ ������ � �������. ������ ������������� ��� ����� ��������������� ���� � ������������� �������. Ҹ����, ������� ������� ������� � ����������� ������� ������ �������� ����� � ��������� ������, � ���� �� ������� ������������ ������ � �� ������ ������������ ��������� ��� ����������� ������.
+				</p>
+				<p>
+					�� ������������ ������ �������� ������� ��������� ���: �������� � ������ ��� �������������, ���������� � ����, ������� �������� �������� � ������� ��������. � ��� �� ������� ��������� �� ����, ������� ���������� ������ ������. ��� ������ ������ �� ����� ����� ������� ������ �� ��������� ��������� �� �������� ��������� � ���������� �� ��������, ������� �������� ������� ������ ����� �� ������� ����.
+				</p>
+				<p>
+					������ <strong>������ ������� ������</strong> �� �������� ��� ��� �����: ������������ � �������������, ������� ������������� ������, ��������� ������ ������ � �������� ����� ����� �� ������ �� ����. �� ������ ������� ������� ��� ������ �������� � ������ ������. ��� <strong>��������-������� ������� ������</strong> ������ ��� ����� ����������� � ����� ���������� � ����� ������� � ������������!
+				</p>
+			</div>
+		</div>
+	</div> 
+        
+        
+        
+        
+        
+	                        </div>
+    					<div class="clear">&nbsp;</div>
+    				</div>
+    				<div id="footer-protect">
+    					&nbsp;
+    				</div>
+    			</div>
+    			<div id="ask-question-wrap">
+    				<div id="ask-question">
+    					<div id="ask-question-btn">
+    						&nbsp;
+    					</div>
+    					<div id="ask-question-content">
+    						<form  name="form1" id="ask-question-form" method="post" action="index.php">
+    							<div class="ask-row">
+    								<label for="ask-question-yourname">���� ���:</label>
+    								<input type="text" id="ask-question-yourname" name="customer_name" value="" />
+    							</div>
+    							<div class="ask-row">
+    								<label for="ask-question-email">Email:</label>
+    								<input type="text" id="ask-question-email" name="customer_email" value="" />
+    							</div>
+                                <input name="message_subject" type="hidden" value="������ � �����" />
+    							<div class="ask-row">
+                                    <label for="ask-question-question">������:</label>
+                                    <textarea id="ask-question-question" name="message_text" cols="40" rows="10"></textarea>
+                                </div>
+                                <div class="ask-row" style="height: 45px;">
+    								<label for="ask-question-code"><img src="./imgval.php" alt="code" align="right" border="0" /></label>
+    								
+                                    <input id="ask-question-code" name="fConfirmationCode" style="width: 80px; margin-top: 10px;" style="color:#aaaaaa" value="������� ���, ������������ �� �������" type="text" onfocus="if(this.value=='������� ���, ������������ �� �������')
+                                            
+                                            {this.style.color='#000000';this.value='';}
+                                            " onblur="if(this.value=='')
+                                            {this.style.color='#aaaaaa';this.value='������� ���, ������������ �� �������'}" />
+    							</div>	
+    							<div class="ask-row-submit">
+    								<input type="image" src="design/images/ask_question_submit.png" alt="���������" value="OK"/>
+                                    <input type="hidden" name="send" value="yes" />
+                                    <input type="hidden" name="feedback" value="yes" />
+    							</div>
+    						</form>
+    					</div>
+    				</div>
+    				<div id="ask-question-bear">
+    					&nbsp;
+    				</div>
+    			</div>
+                
+    <div id="online-interview-wrap">
+    	<div id="online-interview">
+    		<div id="online-interview-btn">
+    			&nbsp;
+    		</div>
+    		<div id="online-interview-content">
+                	
+                                        
+                    <form id="online-interview-form" method="get" action="index.php">
+        				<div class="onlint-row-question">
+        					sample question
+        				</div>
+                                    				<div class="onlint-row-variant">
+            					<input type="radio" id="onlint-answer-0" value="0" name="answer" /><label for="onlint-answer-0">option 1</label>
+            				</div>	
+                                    				<div class="onlint-row-variant">
+            					<input type="radio" id="onlint-answer-1" value="1" name="answer" /><label for="onlint-answer-1">option 2</label>
+            				</div>	
+                                    				<div class="onlint-row-variant">
+            					<input type="radio" id="onlint-answer-2" value="2" name="answer" /><label for="onlint-answer-2">option 3</label>
+            				</div>	
+                                				<div class="onlint-row-submit">
+        					<input type="image" src="design/images/onl_int_submit.png" alt="���������" />
+        				</div>
+                                        		                		                		                		                		                		                		                		                		                		                		<input type="hidden" name="save_voting_results" value="yes" />
+        			</form>
+                            </div>
+    	</div>
+    	<div id="online-interview-bear">
+    		&nbsp;
+    	</div>
+    </div>
+      		</div>
+    		<div id="footer-wrap">
+    			<div id="footer">
+    				<div id="footer-top">
+    					<ul id="footer-top-menu">
+    						<li>
+    							<a href="index.php" class="active">�������</a>
+    						</li>
+    						<li>
+    							<a href="index.php?show_price=yes" >�����-����</a>
+    						</li>
+    						<li>
+    							<a href="index.php?show_aux_page=2" >�������� � ������</a>
+    						</li>
+    						<li>
+    							<a href="index.php?register=yes" >�����������</a>
+    						</li>
+    						<li>
+    							<a href="index.php?feedback=yes" >�������� �����</a>
+    						</li>
+    						
+    						<li>
+    							<a href="index.php?show_aux_page=7" >� ���</a>
+    						</li>
+                            <li>
+    							<a href="index.php?show_aux_page=4" >������ � �����</a>
+    						</li>
+    					</ul>
+    				</div>
+    				<div id="footer-bottom">
+    					<div id="footer-bottom-inn">
+    						<div class="footer-bottom-left">
+    							Copyright &copy; 2009, ����� ���<br />
+    							���: 8(812)942-97-11
+    						</div>
+    						<div class="footer-bottom-left">
+    							icq: 20-44-700<br />
+    							e-mail: <a href="mailto:mail@maminmir.net">mail@maminmir.net</a>
+    						</div>
+    						<div class="footer-bottom-right">
+
+    							<div class="counters">
+    							
+    								<div class="counters-item">
+    								<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t38.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+    								</div>
+                                 
+
+
+                                          <div class="counters-item">
+
+    		<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+var yaParams = {/*����� ��������� ������*/};
+</script>
+
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter22076947 = new Ya.Metrika({id:22076947,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,params:window.yaParams||{ }});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/22076947" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+    								</div>
+
+
+
+<div class="counters-item">
+
+<a href="http://vk.com/club10633586" target="_blank">
+<img src="design/images/1162074.jpg" alt="�� ���������!" />
+
+
+
+    								</div>
+
+
+
+
+    							</div>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+
+<!-- BEGIN JIVOSITE CODE  -->
+<script type='text/javascript'>
+(function(){ var widget_id = '118598';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!--  END JIVOSITE CODE -->
+
+
+
+
+
+    	</body>
+    </html>

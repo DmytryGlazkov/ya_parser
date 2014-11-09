@@ -1,0 +1,997 @@
+﻿ 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Маркетикус - креативное интернет агентство</title>
+<meta name="description" content="Мы занимаемся привлечением клиентов в Ваш бизнес, пишем продающие сайты и Landing Page, настраиваем контекстную рекламу и многое другое.">
+<link rel="shortcut icon" href="favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:image" content="http://marketicus.biz/img/logo.png" />
+<!--<meta name="viewport" content="width=device-width, initial-scale=1.0" />-->
+<link rel="stylesheet" href="css2/global.css" />
+<link rel="stylesheet" href="css2/window.css" />
+<link rel="stylesheet" href="css2/nav.css" />
+<link rel="stylesheet" href="css2/new.css" />
+<link rel="stylesheet" href="css2/effects.css" />
+<link rel="stylesheet" href="css2/cases.css" />
+<link rel="stylesheet" href="css2/fonts.css" />
+<!--Модальное-->
+<script src="js/modernizr.custom.js"></script>
+<link rel="stylesheet" type="text/css" href="css2/component.css" />
+<!--Отправка формы-->
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/forms.js"></script>
+<!--Якорь-->
+<script type="text/javascript">
+$(function(){
+$('a[href^="#"]').click(function(){
+var target = $(this).attr('href');
+$('html, body').animate({scrollTop: $(target).offset().top -50}, 600);
+return false;
+});
+});
+</script>
+</head>
+<body>
+<div class = 'content'>
+<a id = 'top'></a>
+<div class = 'l_menu'>
+	<nav>
+		<div class = 'l_menu_top md-trigger' data-modal='modal-top_menu'>
+			<img src = 'img/menu.png' alt = 'меню'>
+		</div>
+		<ul>
+			<li><img src = 'img/micon/icon_main.png' alt = 'Главная'><a href='http://marketicus.biz'>Главная</a></li>
+			<li><img src = 'img/micon/icon_case.png' alt = 'Кейсы'><a href='#case'>Кейсы</a></li>
+			<!--<li><img src = 'img/micon/icon_uslug.png' alt = 'Услуги'><a href= '#uslugi'>Услуги</a></li>-->
+			<li><img src = 'img/micon/icon_contact.png' alt = 'Контакты'><a href='http://marketicus.biz/contact'>Контакты</a></li>		
+			<li><img src = 'img/micon/icon_vacancy.png' alt = 'Вакансии'><a href='http://marketicus.biz/vacancy'>Вакансии</a></li>
+			<li><img src = 'img/micon/icon_gallery.png' alt = 'Галерея'><a href='http://marketicus.biz/gallery'>Галерея</a></li>	
+			<li><img src = 'img/micon/icon_vk.png' alt = 'ВКонтакте'><a href='https://vk.com/marketicus' target = '_blank'>ВКонтакте</a></li>			
+		</ul>
+		<a href = '#top'>
+			<div class = 'l_menu_up'><img src = 'img/scroll-arrow.png' alt = ''></div>
+		</a>
+	</nav>
+</div>
+<a href = 'http://marketicus.biz/'>
+	<div class = 'logo '></div>
+</a>
+<div class="fon_top" >
+	<div class="fon_top_color" id = 'back'></div>
+		<div class="center">
+			<div class="win_head" >
+				<a href = 'http://marketicus.biz'>
+					<div class='win_head100_logo'>
+						<img src = 'http://marketicus.biz/img/logo.png'>
+					</div>
+				</a>
+				<div class="win_head_info" >
+					<h1><b>Маркетикус</b> - креативное интернет агентство</h1>
+				</div>
+				<div class='win_head_phone'>
+					<p>8 812 91 850 91</p>
+				</div>
+				<div class="win_head_call md-trigger" data-modal="modal-1">
+					<p>Обратный звонок</p>
+					<span style = 'font-size: 1em;'>Наш специалист свяжется с Вами в течении дня<img src = 'img/corner_top.png'></span>
+				</div>
+			</div>
+			<div class="main_box" >
+				<div class="window">
+					<div class="window_in">
+						<div class="window">
+							<div class="window_ini">
+								<div class="flash1">
+									<a href='#sites'>
+										<div class="window_icon">
+											<div class="window_h2">
+												<h1><span>Создание</span>
+												<span>сайтов</span></h1>
+											</div>
+											<div class="promt_left">
+												<img src = 'img/landings2.png'>
+												<span style = 'font-size: 1em;'>Разработка сайтов любой сложности<img src = 'img/corner_left.png'></span>
+											</div>
+										</div>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="window">
+							<div class="window_ini">
+								<div class="flash2">
+									<!--
+									<a href='#case'>
+										<div class="window_icon">								
+											<div class="window_h3">
+												<h1><span>Кейсы</span></h1>
+											</div>
+											<div class="promt_right">
+												<img src = 'img/icon/cases.png'>
+												<span style = 'font-size: 1em;'>Как продают наши клиенты<img src = 'img/corner_right.png'></span>
+											</div>
+										</div>
+									</a>
+									-->
+								</div>
+							</div>
+						</div>
+						<div class="flash2_v">
+							<div class="window2">
+								<div class='window_ini2 md-trigger' data-modal="modal-2">
+									<div class="window_ini2_h2">
+										Нужны<br> новые<br> клиенты?
+									</div>
+									<div class="window_ini2_play">
+										<img src = 'img/play.png'>
+									</div>
+									<video style="position: relative; float: left; width: 100%;" autoplay="1" loop="1">
+										<source src="http://marketicus.biz/main_video.mp4">
+										<source src="http://marketicus.biz/main_video.webm">
+										
+									</video>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="window">
+					<div class="window_in">
+						<div class="window">
+							<div class="window_ini">
+								<div class="flash3">
+									<a href='http://marketicus.biz/landing-page'>
+										<div class="window_icon">
+											<div class="window_h">
+												<h1><span>Заказать</span>
+												<span>Landing Page</span></h1>
+											</div>
+											<div class="promt_right">
+												<img src = 'img/lp.png'>
+												<span style = 'font-size: 1em;'>Гарантированно доводим до продаж<img src = 'img/corner_right.png'></span>
+											</div>
+										</div>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="window">
+							<div class="window_ini">
+								<div class="flash5">
+								<a href = 'http://marketicus.biz/sell-site'>
+									<div class="window_icon">
+										<div class="window_h4">
+											<h1><span>Продающий</span>
+											<span>сайт</span></h1>
+										</div>
+										<div class="promt_left">
+											<img src = 'img/sales.png'>
+											<span style = 'font-size: 1em;'>Сайты которые приносят прибыль<img src = 'img/corner_left.png'></span>
+										</div>
+									</div>
+								</a>
+								</div>
+							</div>
+						</div>
+						<div class="window">
+							<div class="window_ini">
+							<!--
+								<div class="window">
+									<div class="window_ini3 resize1" style = 'background: #3bb88d;'>
+										<a href = 'gallery'>
+											<div class="promt_right">
+												<img src = 'img/icon/gallery.png'>
+												<span>Удивляйся!<img src = 'img/corner_right.png'></span>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="window">
+									<div class="window_ini3">
+										
+									</div>
+								</div>
+								<div class="window">
+									<div class="window_ini3">
+										
+									</div>
+								</div>
+								<div class="window">
+									<div class="window_ini3 resize2" style = 'background: #5579a0;'>
+										<a href = 'https://vk.com/marketicus' target = '_blank'>
+											<div class="promt_right">
+												<img src = 'img/icon/vk.png'>
+												<span>Следи за нами<img src = 'img/corner_right.png'></span>
+											</div>
+										</a>
+									</div>
+								</div>
+								-->
+							</div>
+						</div>
+						<div class="window">
+							<div class="window_ini">
+								<div class="flash4">
+									<a href='http://marketicus.biz/cases'>
+										<div class="window_icon">								
+											<div class="window_h3">
+												<h1><span>Кейсы</span></h1>
+											</div>
+											<div class="promt_right">
+												<img src = 'img/cases.png'>
+												<span style = 'font-size: 1em;'>Как продают наши клиенты<img src = 'img/corner_right.png'></span>
+											</div>
+										</div>
+									</a>
+									<!--
+									<div class="window_icon">
+										<div class="window_h">
+											<h1><span>Акции</span></h1>
+										</div>
+										<div class="promt_left">
+											<img src = 'img/icon/sales.png'>
+											<span>Самые вкусные предложения. Спешите!<img src = 'img/corner_left.png'></span>
+										</div>
+									</div>
+									-->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+</div>
+<div class="center">
+	<div class = 'about_mar'>
+		<img src = 'img/main_flat.png'>
+		<p>
+			Мы креативное рекламное агентство Маркетикус специализирующееся на привлечении клиентов. Мы создаем продающие сайты и Landing Pages. Ведем рекламные кампании во всех поисковых системах и соцсетях. Активно используем Email и SMS маркетинг. Любим считать воронку продаж.
+		</p>
+	</div>
+	<div class="title">
+		<a id = 'case'></a>
+		<h1 style = 'color: #3bb88d;'>Кейсы</h1>
+		<p>Примеры работ компании Маркетикус</p>
+	</div>
+	<div class = 'case'>
+		<div class = 'case_bl case_f2_left'>
+			<div class = 'case_box'>
+				<div class = 'case_box_in'>
+					<a href = 'http://miks.bz' target = '_blank'>
+						<img src = 'img/case/case15.jpg' alt = 'лендинг ошейники'>
+					</a>
+				</div>
+			</div>
+			<h2>Лэндинг пэйдж <br><b>Ошейники для собак</b></h2>
+			<a href = 'http://miks.bz' target = '_blank'><p>miks.bz</p></a>
+		</div>
+		<div class = 'case_bl case_f1_left'>
+			<div class = 'case_box'>
+				<div class = 'case_box_in'>
+					<a href = 'http://marketicus.biz/lp/dance' target = '_blank'>
+						<img src = 'img/case/case12.jpg' alt = 'лендинг танцы'>
+					</a>
+				</div>
+			</div>
+			<h2>Лэндинг пэйдж <br><b>Школы танцев</b></h2>
+			<a href = 'http://marketicus.biz/lp/dance' target = '_blank'><p>marketicus.biz/lp/dance</p></a>
+		</div>
+		<div class = 'case_bl case_f1_right'>
+			<div class = 'case_box'>
+				<div class = 'case_box_in'>
+					<a href = 'http://mak-salon.ru' target = '_blank'>
+						<img src = 'img/case_kv_12.jpg' alt = 'лендинг салон красоты'>
+					</a>
+				</div>
+			</div>
+			<h2>Продающий сайт <br><b>Салона красоты</b></h2>
+			<a href = 'http://mak-salon.ru' target = '_blank'><p>mak-salon.ru</p></a>
+		</div>
+		<div class = 'case_bl case_f2_right'>
+			<div class = 'case_box'>
+				<div class = 'case_box_in'>
+					<a href = 'http://stonecrete.ru' target = '_blank'>
+						<img src = 'img/case/case13.jpg' alt = 'лендинг архитектура'>
+					</a>
+				</div>
+			</div>
+			<h2>Лэндинг пэйдж <br><b>Малые архитектурные формы</b></h2>
+			<a href = 'http://stonecrete.ru' target = '_blank'><p>stonecrete.ru</p></a>
+		</div>
+		<div class = 'clear'></div>
+		<div class = 'case_bl case_f4_left'>
+			<div class = 'case_box'>
+				<div class = 'case_box_in'>
+					<a href = 'http://marketicus.biz/lp/stomatology/' target = '_blank'>
+						<img src = 'img/case_kv_11.jpg' alt = 'лендинг стоматология'>
+					</a>
+				</div>
+			</div>
+			<h2>Лэндинг пэйдж <br><b>Чистка зубов</b></h2>
+			<a href = 'http://marketicus.biz/lp/stomatology/' target = '_blank'><p>marketicus.biz/lp/stomatology</p></a>
+		</div>
+		<div class = 'case_bl case_f3_left'>
+			<div class = 'case_box'>
+				<div class = 'case_box_in'>
+					<a href = 'http://prilov.ru/' target = '_blank'>
+						<img src = 'img/case_kv_8.jpg' alt = 'продающий сайт'>
+					</a>
+				</div>
+			</div>
+			<h2>Продающий сайт<br><b>ПРИЛОВ</b></h2>
+			<a href = 'http://prilov.ru/' target = '_blank'><p>prilov.ru</p></a>
+		</div>
+		<div class = 'case_bl case_f3_right'>
+			<div class = 'case_box'>
+				<div class = 'case_box_in'>
+					<a href = 'http://budet-teplo.com' target = '_blank'>
+						<img src = 'img/case_kv_6.jpg' alt = 'лэндинг сантехника'>
+					</a>
+				</div>
+			</div>
+			<h2>Лэндинг пэйдж <br><b>Радиаторы отопления</b></h2>
+			<a href = 'http://budet-teplo.com' target = '_blank'><p>budet-teplo.com</p></a>
+		</div>
+		<div class = 'case_bl case_f4_right'>
+			<div class = 'case_box'>
+				<div class = 'case_box_in'>
+					<a href = 'http://fish-business.ru' target = '_blank'>
+						<img src = 'img/case_kv_4.jpg' alt = 'Интернет магазин заказать'>
+					</a>
+				</div>
+			</div>
+			<h2>Интернет-магазин <br><b>Рыбацкое дело</b></h2>
+			<a href = 'http://fish-business.ru' target = '_blank'><p>fish-business.ru</p></a>
+		</div>
+		<div class = 'clear'></div>
+		<a href = 'http://marketicus.biz/cases'>
+			<div class="case_box_but">
+				Все кейсы
+			</div>
+		</a>	
+	</div>
+</div>
+<div class = 'clear'></div>
+<div class="web_case" >
+<div id = 'web_case_rotate'>
+	<div class = 'center'>
+		<div class="title2">
+			<a id = 'sites'></a>
+			<h1>Создание сайтов</h1>
+		</div>	
+		<div class="web_case_block_l">
+			<a href = 'http://marketicus.biz/landing-page'>
+				<img src = 'img/icon/land.png'>
+			</a>
+			<a href = 'http://marketicus.biz/landing-page'>
+				<h2>Заказать Landing Page</h2>
+			</a>
+			<p>Инструмент в интернет маркетинге, с помощью которого можно привлечь целевых покупателей.
+			Landing Page позволяет ознакомить посетителя с продуктом максимально быстро и понятно.</p>
+			<a href = 'http://marketicus.biz/landing-page'>
+				<div class="web_case_but">
+					Подробно
+				</div>
+			</a>
+		</div>
+		<div class="web_case_block_r">
+			<a href = 'http://marketicus.biz/sell-site'>
+				<img src = 'img/icon/monic.png'>
+			</a>
+			<a href = 'http://marketicus.biz/sell-site'>
+				<h2>Продающие сайты</h2>
+			</a>
+			<p>
+				Если у Вас есть сайт, но он не продает - Вам сюда!
+			</p>
+			<a href = 'http://marketicus.biz/sell-site'>
+				<div class="web_case_but">
+					Подробно
+				</div>
+			</a>
+		</div>
+		<div class="clear"></div>
+		<div class="web_case_block_l">
+			
+				<img src = 'img/icon/style2.png'>
+			
+			<h2>Имиджевый сайт</h2>
+			<p>Если Вам нужен современный и уникальный по своему дизайну сайт, то Вы обратились по адресу.
+			Наша команда создает самые шедевральные имиджевые сайты российских компаний.</p>
+			<!--
+				<div class="web_case_but">
+					Подробно
+				</div>
+			-->
+		</div>
+		<div class="web_case_block_r">
+			
+				<img src = 'img/icon/imag.png'>
+			
+			<h2>Интернет магазин</h2>
+			<p>У Вас большая линейка товаров? Тогда Вам необходима разработка интернет магазина под ключ.</p>
+			<!--
+				<div class="web_case_but">
+					Подробно
+				</div>
+			-->
+		</div>
+	</div>
+</div>
+</div>
+<div class = 'clear'></div>
+<div class = 'center' style = 'padding: 30px 0 10px 0;'>
+	<div class = 'main_gallery'>
+		<div class="title3"	>
+		<a href = '/gallery'>
+			<h1 style = 'color: #6d03a9;'>Галерея</h1>
+		</a>
+			<p>Наши фотокарточки</p>
+		</div>
+		
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/2.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/14.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/3.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/5.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/8.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/4.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/6.jpg' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/13.jpg' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/15.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/11.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/10.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/1.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/9.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/12.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+					
+						<div class = 'main_gallery_bl'>
+							<div class = 'main_gallery_bl_win'>
+								<div class = 'main_gallery_bl_win_in'>
+									<a href = '/gallery'>
+										<div class = 'main_gallery_bl_h'></div>
+										<img src = 'img/gallery/mini/7.png' alt='??????????'>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+					
+						</div>	
+	<div class = 'command_main'>
+		<div class="title4">
+		<a href = 'http://marketicus.biz/command'>
+			<h1 style = 'color: #42a69e;'>Команда Маркетикус</h1>
+		</a>
+			<p>Наша команда</p>
+		</div>
+		<a href = 'http://marketicus.biz/command'>
+		<div class="command_main_img">
+			<div class='command_main_img_ini'>
+				<img src = 'img/command/marketicus_command2.png'>
+			</div>
+		</div>
+		</a>
+	</div>	
+	<div class="clear"></div>
+</div>
+<div class="market_case">
+	<div class = 'center'>
+		<div class="title2">
+			<a id = 'clients'></a>
+			<h1>Привлечение клиентов</h1>
+		</div>
+		<div class="market_case_block_l">
+			<a href = 'http://marketicus.biz/context'>
+				<img src = 'img/icon/context2.png'>
+			</a>
+			<a href = 'http://marketicus.biz/context'>
+				<h2>Контекстная реклама</h2>
+			</a>
+			<p>
+				Для многих сфер бизнеса контекстная реклама является лучшим клиентообразующим инструментом интернет-маркетинга на сегодня.
+			</p>
+			<a href = 'http://marketicus.biz/context'>
+				<div class="market_case_but">
+					Подробно
+				</div>
+			</a>
+		</div>
+		<div class="market_case_block_r">
+			<a href = 'http://marketicus.biz/email'>
+				<img src = 'img/icon/mail2.png'>
+			</a>
+			<a href = 'http://marketicus.biz/email'>
+				<h2>Email маркетинг</h2>
+			</a>
+			<p>
+				Электронные письма играют невероятно большую роль в современной системе коммуникаций. Проверка почты – первое, что мы делаем, приходя на работу или домой.
+			</p>
+			<a href = 'http://marketicus.biz/email'>
+				<div class="market_case_but">
+					Подробно
+				</div>
+			</a>
+		</div>
+		<div class="clear"></div>
+		<div class="market_case_block_l">
+			<a href = 'http://marketicus.biz/seo'>
+				<img src = 'img/icon/serch2.png'>
+			</a>
+			<a href = 'http://marketicus.biz/seo'>
+				<h2>SEO продвижение</h2>
+			</a>
+			<p>
+				Многие компании принимают решение самостоятельно заниматься поисковой оптимизацией своего сайта, это не правильно...
+			</p>
+			<a href = 'http://marketicus.biz/seo'>
+				<div class="market_case_but">
+					Подробно
+				</div>
+			</a>
+		</div>
+		<div class="market_case_block_r">
+			<a href = 'http://marketicus.biz/advert'>
+				<img src = 'img/icon/advert2.png'>
+			</a>
+			<a href = 'http://marketicus.biz/advert'>
+				<h2>Электронные объявления</h2>
+			</a>
+			<p>
+				Электронные доски объявлений – ресурсы, заменяющие в современном обществе свои газетные и картонные аналоги.
+			</p>
+			<a href = 'http://marketicus.biz/advert'>
+				<div class="market_case_but">
+					Подробно
+				</div>
+			</a>
+		</div>
+	</div>
+</div>
+<div class = 'center'>
+	<div class="title">
+		<h1>Статьи</h1>
+		<p>Читайте! Полезно для мозга</p>
+	</div>
+	
+			
+			<div class = 'article_blok'>
+				<div class = 'article_blok_in'>
+					<a href = 'articles/site-manager'>
+						<img src = 'http://marketicus.biz/img/articles/mini/manager.jpg'>
+					</a>
+					<a href = 'articles/site-manager'>
+						<h3>12 отличий продающего сайта от менеджера по продажам</h3>
+					</a>
+				</div>
+			</div>
+			</div>
+<!--<div class = 'lp_fin'>
+	<div class = 'center'>
+		<div class = 'lp_plus_form'>
+			<div id="result_div_id"> 
+				<img src = 'img/brown.png'>
+				<h1>Проверить Landing Page <br>на своем бизнесе</h1>
+				<form method="post" action="#" id="form_id">
+					<input id = "name" class = 'input' name = 'name' type = 'text' onblur="if (this.value == '') this.value = 'Ваше имя';" onfocus="if (this.value == 'Ваше имя') this.value = '';" value="Ваше имя">			
+					<input id = "phone" class = 'input' name = 'phone' type = 'text' onblur="if (this.value == '') this.value = 'Ваш телефон';" onfocus="if (this.value == 'Ваш телефон') this.value = '';" value="Ваш телефон">
+					<input id = "email"  class = 'input' name = 'email' type = 'text' onblur="if (this.value == '') this.value = 'Ваш email';" onfocus="if (this.value == 'Ваш email') this.value = '';" value="Ваш email">
+					<p>Заполните форму для связи и наш специалист свяжется с Вами</p>
+					<input class = 'inbut' type="button" value="Проверить" onclick="AjaxFormRequest('result_div_id', 'form_id', 'form.php')" />
+					<input type = 'hidden' name = 'from' value = 'Главная - Связаться с нами'>
+					<span>Ваши данные останутся в тайне</span>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="style_case">
+	<div class = 'center'>
+		<div class="title2">
+			<h1>Фирменный стиль</h1>
+		</div>
+		<div class="market_case_block_l">
+			<img src = 'img/icon1.png'>
+			<h2>Контекстная реклама</h2>
+			<p>Инструмент в интернет маркетинге, с помощью которого можно привлечь целевый покупателей.
+			.</p>
+			<div class="market_case_but">
+				Подробно
+			</div>
+		</div>
+		<div class="market_case_block_r">
+			<img src = 'img/icon1.png'>
+			<h2>Email маркетинг</h2>
+			<p>Инструмент в интернет маркетинге, с помощью которого можно привлечь целевый покупателей.
+			Landing Page позволяет ознакомить посетителя с продуктом максимально быстро и понятно.</p>
+			<div class="market_case_but">
+				Подробно
+			</div>
+		</div>
+		<div class="market_case_block_l">
+			<img src = 'img/icon1.png'>
+			<h2>SEO продвижение</h2>
+			<p>Инструмент в интернет маркетинге, с помощью которого можно привлечь целевый покупателей.
+			Landing Page позволяет ознакомить посетителя с продуктом максимально быстро и понятно.</p>
+			<div class="market_case_but">
+				Подробно
+			</div>
+		</div>
+		<div class="market_case_block_r">
+			<img src = 'img/icon1.png'>
+			<h2>Интернет магазин</h2>
+			<p>Инструмент в интернет маркетинге, с помощью которого можно привлечь целевый покупателей.
+			Landing Page позволяет ознакомить посетителя с продуктом максимально быстро и понятно.</p>
+			<div class="market_case_but">
+				Подробно
+			</div>
+		</div>
+	</div>
+</div>-->
+
+<div id='wrap'>
+	<div id='main' class='clearfix2'></div>
+</div>
+<div id='footer'>
+	<div class = 'center'>
+		<div class = 'footer_col'>
+			<h3>Создание сайтов</h3>
+			<ul>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_landing.png' alt = ''><a href = 'http://marketicus.biz/landing-page'>Landing Page</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_dollar.png' alt = ''><a href = 'http://marketicus.biz/sell-site'>Продающий сайт</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_image.png' alt = ''><a href = 'http://marketicus.biz/image-page'>Имиджевый сайт</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_magaz.png' alt = ''><a href = 'http://marketicus.biz/online-shop'>Интернет магазин</a></li>
+				<!--<li><img src = 'http://marketicus.biz/img/micon/icon_landing.png' alt = ''><a href = 'http://marketicus.biz/сorporate-website'>Корпоративный сайт</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_landing.png' alt = ''><a href = 'http://marketicus.biz/standart-website'>Стандарт</a></li>-->
+			</ul>
+			<h3>Привлечение клиентов</h3>
+			<ul>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_context.png' alt = ''><a href = 'http://marketicus.biz/context'>Контекстная реклама</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_seo.png' alt = ''><a href = 'http://marketicus.biz/seo'>SEO продвижение</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_mail.png' alt = ''><a href = 'http://marketicus.biz/email'>Email маркетинг</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_sms.png' alt = ''><a href = 'http://marketicus.biz/sms'>SMS маркетинг</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_advert.png' alt = ''><a href = 'http://marketicus.biz/advert'>Электронные объявления</a></li>
+			</ul>
+			<h3>Фирменный стиль</h3>
+			<ul>	
+				<li><img src = 'http://marketicus.biz/img/micon/icon_design.png' alt = ''><a href = 'http://marketicus.biz/graphic'>Дизайн</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_video.png' alt = ''><a href = 'http://marketicus.biz/video'>Видео реклама</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_sert.png' alt = ''><a href = 'http://marketicus.biz/certification'>Сертификация и декларация</a></li>
+				<li><img src = 'http://marketicus.biz/img/micon/icon_tm.png' alt = ''><a href = 'http://marketicus.biz/trademarks'>Регистрация ТМ</a></li>
+			</ul>
+		</div>
+		<!--<div class = 'footer_col'>
+			<h3>Статьи</h3>
+			<ul>
+				
+			</ul>
+		</div>-->
+		<div class = 'footer_right'>
+			<img src = 'http://marketicus.biz/img/point.png' alt = 'на карте'>
+			<div class='clear'></div>
+			<p>Адрес:<br> пл. Конституции, 2,<br> Санкт-Петербург</p>
+			<br>
+			<p>8 812 91 850 91</p>
+			<p>info@marketicus.biz</p>
+			<br>
+			<img src = 'http://marketicus.biz/img/micon/icon_main.png' alt = 'иконка маркетикус'>
+			<div class='clear'></div>
+			<p>ООО Маркетикус</p>
+			<p>ОГРН 1147847041165</p>
+			<p>© 2014</p>
+		</div>
+		<div class = 'clear'></div>
+	</div>
+</div>
+</div>
+<div class="md-modal md-effect" id="modal-1">
+	<div class="md-content">
+		<button class="md-close"></button>
+		<div class = 'md_info'>
+			<img src = 'img/managers.png'>
+		</div>
+		<div class = 'md_form'>
+			<div id="result_div_id2"> 
+				<h1>Закажите обратный звонок</h1>
+				<p>Укажите Ваши контактные данные и наш специалист свяжется с Вами</p>
+				<form method="post" action="#" id="form_id2">
+					<input id = "name2" class = 'input' name = 'name' type = 'text' onblur="if (this.value == '') this.value = 'Ваше имя';" onfocus="if (this.value == 'Ваше имя') this.value = '';" value="Ваше имя">			
+					<input id = "phone2" class = 'input' name = 'phone' type = 'text' onblur="if (this.value == '') this.value = 'Ваш телефон';" onfocus="if (this.value == 'Ваш телефон') this.value = '';" value="Ваш телефон">
+					<input id = "email2"  class = 'input' name = 'email' type = 'text' onblur="if (this.value == '') this.value = 'Ваш email';" onfocus="if (this.value == 'Ваш email') this.value = '';" value="Ваш email">
+					<p>Ваши данные останутся в тайне</p>
+					<input class = 'inbut' type="button" value="Отправить" onclick="AjaxFormRequest2('result_div_id2', 'form_id2', 'form.php')" />
+					<input type = 'hidden' name = 'from' value = 'Главная - Заказать обратный звонок'>
+					<p>либо свяжитесь с нами по тел. <b>8 (812) 91 850 91</b><br> или почте <b>info@marketicus.biz</b></p>
+				</form>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="md-modal md-effect" id="modal-2">
+	<div class="md-content" style = 'background: rgba(0,0,0,0);'>
+		<button class="md-close"></button>
+		<div class = 'md_video'>
+			<iframe width="800" height="394" src="//www.youtube.com/embed/pzPlUw57xr0?rel=0&autoplay=0&loop=0&theme=light&showinfo=0&vq=hd720&border=0" frameborder="0" allowfullscreen></iframe>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<div class='md-modal_top_menu' id='modal-top_menu'>
+	<div class = 'top_menu'>
+		<div class = 'top_menu_close'>
+			<button class='md-close'></button>
+		</div>
+		<div class = 'center'>
+			<div class = 'top_menu_close_col'>
+				<h3>Навигация</h3>
+				<ul>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_main.png' alt = ''><a href='http://marketicus.biz'>Главная</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_case.png' alt = ''><a href='http://marketicus.biz/#case'>Кейсы</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_uslug.png' alt = ''><a href='http://marketicus.biz/#uslugi'>Услуги</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_contact.png' alt = ''><a href='http://marketicus.biz/contact'>Контакты</a></li>	
+					<li><img src = 'http://marketicus.biz/img/micon/icon_vacancy.png' alt = ''><a href='http://marketicus.biz/vacancy'>Вакансии</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_gallery.png' alt = ''><a href='http://marketicus.biz/gallery'>Галерея</a></li>	
+				</ul>
+			</div>
+			<div class = 'top_menu_close_col'>
+				<h3>Создание сайтов</h3>
+				<ul>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_landing.png' alt = ''><a href = 'http://marketicus.biz/landing-page'>Landing Page</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_dollar.png' alt = ''><a href = 'http://marketicus.biz/sell-site'>Продающий сайт</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_image.png' alt = ''><a href = 'http://marketicus.biz/image-page'>Имиджевый сайт</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_magaz.png' alt = ''><a href = 'http://marketicus.biz/online-shop'>Интернет магазин</a></li>
+					<!--<li><img src = 'http://marketicus.biz/img/micon/icon_landing.png' alt = ''><a href = 'http://marketicus.biz/сorporate-website'>Корпоративный сайт</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_landing.png' alt = ''><a href = 'http://marketicus.biz/standart-website'>Стандарт</a></li>-->
+				</ul>
+				<h3>Привлечение клиентов</h3>
+				<ul>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_context.png' alt = ''><a href = 'http://marketicus.biz/context'>Контекстная реклама</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_seo.png' alt = ''><a href = 'http://marketicus.biz/seo'>SEO продвижение</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_mail.png' alt = ''><a href = 'http://marketicus.biz/email'>Email маркетинг</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_sms.png' alt = ''><a href = 'http://marketicus.biz/sms'>SMS маркетинг</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_advert.png' alt = ''><a href = 'http://marketicus.biz/advert'>Электронные объявления</a></li>
+				</ul>
+				<h3>Фирменный стиль</h3>
+				<ul>	
+					<li><img src = 'http://marketicus.biz/img/micon/icon_design.png' alt = ''><a href = 'http://marketicus.biz/graphic'>Дизайн</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_video.png' alt = ''><a href = 'http://marketicus.biz/video'>Видео реклама</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_sert.png' alt = ''><a href = 'http://marketicus.biz/certification'>Сертификация и декларация</a></li>
+					<li><img src = 'http://marketicus.biz/img/micon/icon_tm.png' alt = ''><a href = 'http://marketicus.biz/trademarks'>Регистрация ТМ</a></li>
+				</ul>
+			</div>
+			<div class = 'top_menu_close_right'>
+				<h3>Связь</h3>
+				<p>Адрес:<br> пл. Конституции, 2,<br> Санкт-Петербург</p>
+				<br>
+				<p>8 812 91 850 91</p>
+				<p>info@marketicus.biz</p>
+				<br>
+				<p>Мы <a href = 'http://vk.com/marketicus' target = '_blank'>ВКонтакте</a></p>
+				<div class='clear'></div>
+			</div>
+		</div>
+		<div class = 'clear'></div>
+	</div>
+</div>
+<!--Модальное-->
+<div class="md-overlay"></div>
+<script src="js/classie.js"></script>
+<script src="js/modalEffects.js"></script>
+<script>
+	// this is important for IEs
+	var polyfilter_scriptpath = '/js/';
+</script>
+<!--Модальное конец-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter23793268 = new Ya.Metrika({id:23793268,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/23793268" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51107961-1', 'marketicus.biz');
+  ga('send', 'pageview');
+
+</script>
+<!-- /Google Analytics -->
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+	"request": "интернет магазин",
+	"pages": {
+		"from": 0,
+		"to": 99
+	},
+	"out": "results.csv",
+	"regions": [
+		1,
+		10174
+	]
+}

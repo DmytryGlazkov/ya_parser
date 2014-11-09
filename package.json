@@ -1,0 +1,21 @@
+{
+  "name": "ya",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "fs-extra": "^0.12.0",
+    "lodash": "^2.4.1",
+    "path": "^0.4.9",
+    "request": "^2.47.0",
+    "supererror": "^0.5.0",
+    "sync": "^0.2.3",
+    "validator": "^3.22.1"
+  }
+}

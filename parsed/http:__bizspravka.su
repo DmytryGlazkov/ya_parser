@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Справочник организаций города Москвы (Россия) - BizSpravka.su</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Полная актуальная информация о компаниях и учреждениях в Москве, городах России и СНГ. Самое подробное описание организаций, отзывы в интернете, адреса официальных сайтов, схемы проезда, телефоны бесплатно в справочнике организаций БизнесСправка." />
+<meta name="keywords" content="Справочник организаций, телефонный справочник, Москва, Россия, каталог, справочник, база данных, компании, организации, предприятия, фирмы, учреждения, отзывы в интернете, контакты, официальные сайты, адреса, телефоны, карты проезда, режим работы, список, перечень, бесплатно" />	<base href="http://www.bizspravka.su/">
+<link href="/css/style.css" type="text/css" rel="stylesheet">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link href="http://bizspravka.su/css/jquery.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="http://bizspravka.su/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="http://bizspravka.su/js/jquery.js"></script>
+<script type="text/javascript" src="http://bizspravka.su/js/jquery_002.js"></script>
+<script type="text/javascript" src="http://bizspravka.su/js/config.js"></script>
+<script type="text/javascript" src="http://bizspravka.su/js/bizspravka.js"></script>
+<script type="text/javascript" src="http://bizspravka.su/js/jquery.session.js"></script>
+<!--<script src="http://api-maps.yandex.ru/2.0/?load=package.standard&lang=ru-RU" type="text/javascript"></script>-->
+	<script>SUBDOMAIN='rus.bizspravka.su';if (SUBDOMAIN=='rus.bizspravka.su') SUBDOMAIN='www.bizspravka.su'</script>
+</head>
+<body>
+	<div class="wrapper">
+		<script>
+//console.log(document.cookie);
+function remove_slashes(str) {
+	var regex = /\s\s+/g;
+	str = str.replace(regex, " ");
+	return str;
+}
+
+function save_search_params() {
+	//document.cookie = "what=" + $('#what').val();
+	//document.cookie = "where=" + $('#address').val();
+	//console.log(document.cookie);
+	$.session.set('what', remove_slashes($('#what').val()));
+	$.session.set('where', $('#address').val());
+}
+</script>
+<div class="header">
+	<a class="logo" href="http://www.bizspravka.su/" title="Бесплатный онлайн телефонный справочник организаций 2014 России, Украины, Казахстана">
+		<b>Biz</b>spravka<span>.su</span>
+	</a>
+	<div class="curr_region">
+		Справочник организаций<br>
+		Россия | Москва	</div>
+	<div>
+			<br style="clear:both;" />
+			<script type="text/javascript">
+yandex_partner_id = 127044;
+yandex_site_bg_color = 'FFFFFF';
+yandex_stat_id = 8;
+yandex_ad_format = 'direct';
+yandex_font_size = 1.2;
+yandex_direct_type = 'horizontal';
+yandex_direct_border_type = 'ad';
+yandex_direct_limit = 3;
+yandex_direct_title_font_size = 1;
+yandex_direct_bg_color = 'DAFCC2';
+yandex_direct_border_color = 'DAFCC2';
+yandex_direct_title_color = '004A99';
+yandex_direct_url_color = '000000';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = 'B12B2B';
+yandex_direct_favicon = true;
+yandex_no_sitelinks = true;
+document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/context.js"></scr'+'ipt>');
+</script>	</div>
+	<div class="search_block">
+		<form id="search_form" action="http://www.bizspravka.su/Москва/search/" method="get">
+		<div class="search green_grd gradient">
+			<input id="what" name="what" placeholder="Что? Название организации или сфера деятельности…" type="text"  />
+			<span class="ico" onclick="$('#search_form').submit();" title="Найти в Москве"></span>
+			<input class="gradient" id="search_button" value="Найти" type="submit" title="Найти в Москве" />
+			<span id="city" class="region gradient" title="Выберите город">
+				Москва			</span>
+			<a class="adv_search" href="#" title="Поиск организаций Москвы по району, улице, адресу">Расширенный поиск по расположению</a>
+						<div class="example">
+				Например,
+				<a href="http://www.bizspravka.su/Москва/search/?what=Мужская+одежда" title="Мужская одежда в Москве">
+					Мужская одежда				</a>
+			</div>
+					</div>
+		<div class="adv_search_block" >
+			<input id="address" name="address" placeholder="Где? Район, улица, адрес..." type="text"  />
+			<span class="ico" onclick="$('#search_form').submit();" title="Найти в Москве"></span>
+						<div class="example">
+				Например,
+				<a href="http://www.bizspravka.su/Москва/search/?what=Мужская+одежда&amp;address=Островского" title="Мужская одежда, Островского в Москве">
+					Островского				</a>
+			</div>
+					</div>
+		</form>
+		<div class="region_block">
+			<div class="countries">
+								<a class="selected" id="rus" href="#" title="Фирмы и учреждения России">
+					Россия				</a>
+								<a  id="ukr" href="#" title="Фирмы и учреждения Украины">
+					Украина				</a>
+								<a  id="kaz" href="#" title="Фирмы и учреждения Казахстана">
+					Казахстан				</a>
+							</div>
+						<div class="reg" id="rus_list" >
+								<div class="col">
+									<a href="http://www.bizspravka.su/Абакан/" title="Организации Абакана (Хакасия, республика)">Абакан</a>
+													<a href="http://www.bizspravka.su/Азов/" title="Организации Азова (Ростовская область)">Азов</a>
+													<a href="http://www.bizspravka.su/Анапа/" title="Организации Анапы (Краснодарский край)">Анапа</a>
+													<a href="http://www.bizspravka.su/Ангарск/" title="Организации Ангарска (Иркутская область)">Ангарск</a>
+													<a href="http://www.bizspravka.su/Артём/" title="Организации Артёма (Приморский край)">Артём</a>
+													<a href="http://www.bizspravka.su/Архангельск/" title="Организации Архангельска (Архангельская область)">Архангельск</a>
+													<a href="http://www.bizspravka.su/Астрахань/" title="Организации Астрахани (Астраханская область)">Астрахань</a>
+													<a href="http://www.bizspravka.su/Балашиха/" title="Организации Балашихи (Московская область)">Балашиха</a>
+													<a href="http://www.bizspravka.su/Барнаул/" title="Организации Барнаула (Алтайский край)">Барнаул</a>
+													<a href="http://www.bizspravka.su/Белгород/" title="Организации Белгорода (Белгородская область)">Белгород</a>
+													<a href="http://www.bizspravka.su/Белово/" title="Организации Белове (Кемеровская область)">Белово</a>
+													<a href="http://www.bizspravka.su/Бердск/" title="Организации Бердска (Новосибирская область)">Бердск</a>
+													<a href="http://www.bizspravka.su/Берёзовский/" title="Организации Берёзовского (Свердловская область)">Берёзовский</a>
+													<a href="http://www.bizspravka.su/Бийск/" title="Организации Бийска (Алтайский край)">Бийск</a>
+													<a href="http://www.bizspravka.su/Благовещенск/" title="Организации Благовещенска (Амурская область)">Благовещенск</a>
+													<a href="http://www.bizspravka.su/Бор/" title="Организации Бора (Нижегородская область)">Бор</a>
+													<a href="http://www.bizspravka.su/Братск/" title="Организации Братска (Иркутская область)">Братск</a>
+													<a href="http://www.bizspravka.su/Брянск/" title="Организации Брянска (Брянская область)">Брянск</a>
+													<a href="http://www.bizspravka.su/Великий-Новгород/" title="Организации Великого Новгорода (Новгородская область)">Великий Новгород</a>
+													<a href="http://www.bizspravka.su/Верхняя-Пышма/" title="Организации Верхней Пышмы (Свердловская область)">Верхняя Пышма</a>
+								</div>
+												<div class="col">
+									<a href="http://www.bizspravka.su/Владивосток/" title="Организации Владивостока (Приморский край)">Владивосток</a>
+													<a href="http://www.bizspravka.su/Владимир/" title="Организации Владимира (Владимирская область)">Владимир</a>
+													<a href="http://www.bizspravka.su/Волгоград/" title="Организации Волгограда (Волгоградская область)">Волгоград</a>
+													<a href="http://www.bizspravka.su/Волжский/" title="Организации Волжского (Волгоградская область)">Волжский</a>
+													<a href="http://www.bizspravka.su/Вологда/" title="Организации Вологды (Вологодская область)">Вологда</a>
+													<a href="http://www.bizspravka.su/Воронеж/" title="Организации Воронежа (Воронежская область)">Воронеж</a>
+													<a href="http://www.bizspravka.su/Всеволожск/" title="Организации Всеволожска (Ленинградская область)">Всеволожск</a>
+													<a href="http://www.bizspravka.su/Геленджик/" title="Организации Геленджика (Краснодарский край)">Геленджик</a>
+													<a href="http://www.bizspravka.su/Георгиевск/" title="Организации Георгиевска (Ставропольский край)">Георгиевск</a>
+													<a href="http://www.bizspravka.su/Горно-Алтайск/" title="Организации Горно-Алтайска (Алтай, республика)">Горно-Алтайск</a>
+													<a href="http://www.bizspravka.su/Дзержинск/" title="Организации Дзержинска (Нижегородская область)">Дзержинск</a>
+													<a href="http://www.bizspravka.su/Дзержинский/" title="Организации Дзержинского (Московская область)">Дзержинский</a>
+													<a href="http://www.bizspravka.su/Долгопрудный/" title="Организации Долгопрудного (Московская область)">Долгопрудный</a>
+													<a href="http://www.bizspravka.su/Домодедово/" title="Организации Домодедова (Московская область)">Домодедово</a>
+													<a href="http://www.bizspravka.su/Екатеринбург/" title="Организации Екатеринбурга (Свердловская область)">Екатеринбург</a>
+													<a href="http://www.bizspravka.su/Елабуга/" title="Организации Елабуги (Татарстан, республика)">Елабуга</a>
+													<a href="http://www.bizspravka.su/Ессентуки/" title="Организации Ессентуков (Ставропольский край)">Ессентуки</a>
+													<a href="http://www.bizspravka.su/Железногорск/" title="Организации Железногорска (Красноярский край)">Железногорск</a>
+													<a href="http://www.bizspravka.su/Жуковский/" title="Организации Жуковского (Московская область)">Жуковский</a>
+													<a href="http://www.bizspravka.su/Зеленодольск/" title="Организации Зеленодольска (Татарстан, республика)">Зеленодольск</a>
+								</div>
+												<div class="col">
+									<a href="http://www.bizspravka.su/Златоуст/" title="Организации Златоуста (Челябинская область)">Златоуст</a>
+													<a href="http://www.bizspravka.su/Иваново/" title="Организации Иванова (Ивановская область)">Иваново</a>
+													<a href="http://www.bizspravka.su/Ивантеевка/" title="Организации Ивантеевки (Московская область)">Ивантеевка</a>
+													<a href="http://www.bizspravka.su/Ижевск/" title="Организации Ижевска (Удмуртская республика)">Ижевск</a>
+													<a href="http://www.bizspravka.su/Иркутск/" title="Организации Иркутска (Иркутская область)">Иркутск</a>
+													<a href="http://www.bizspravka.su/Искитим/" title="Организации Искитима (Новосибирская область)">Искитим</a>
+													<a href="http://www.bizspravka.su/Йошкар-Ола/" title="Организации Йошкар-Олы (Марий Эл, республика)">Йошкар-Ола</a>
+													<a href="http://www.bizspravka.su/Казань/" title="Организации Казани (Татарстан, республика)">Казань</a>
+													<a href="http://www.bizspravka.su/Калининград/" title="Организации Калининграда (Калининградская область)">Калининград</a>
+													<a href="http://www.bizspravka.su/Калуга/" title="Организации Калуги (Калужская область)">Калуга</a>
+													<a href="http://www.bizspravka.su/Кемерово/" title="Организации Кемерова (Кемеровская область)">Кемерово</a>
+													<a href="http://www.bizspravka.su/Киров/" title="Организации Кирова (Кировская область)">Киров</a>
+													<a href="http://www.bizspravka.su/Киселёвск/" title="Организации Киселёвска (Кемеровская область)">Киселёвск</a>
+													<a href="http://www.bizspravka.su/Кисловодск/" title="Организации Кисловодска (Ставропольский край)">Кисловодск</a>
+													<a href="http://www.bizspravka.su/Климовск/" title="Организации Климовска (Московская область)">Климовск</a>
+													<a href="http://www.bizspravka.su/Копейск/" title="Организации Копейска (Челябинская область)">Копейск</a>
+													<a href="http://www.bizspravka.su/Королёв/" title="Организации Королёва (Московская область)">Королёв</a>
+													<a href="http://www.bizspravka.su/Кострома/" title="Организации Костромы (Костромская область)">Кострома</a>
+													<a href="http://www.bizspravka.su/Котельники/" title="Организации Котельников (Московская область)">Котельники</a>
+													<a href="http://www.bizspravka.su/Краснодар/" title="Организации Краснодара (Краснодарский край)">Краснодар</a>
+								</div>
+												<div class="col">
+									<a href="http://www.bizspravka.su/Красноярск/" title="Организации Красноярска (Красноярский край)">Красноярск</a>
+													<a href="http://www.bizspravka.su/Кстово/" title="Организации Кстова (Нижегородская область)">Кстово</a>
+													<a href="http://www.bizspravka.su/Курган/" title="Организации Кургана (Курганская область)">Курган</a>
+													<a href="http://www.bizspravka.su/Курск/" title="Организации Курска (Курская область)">Курск</a>
+													<a href="http://www.bizspravka.su/Ленинск-Кузнецкий/" title="Организации Ленинск-Кузнецкого (Кемеровская область)">Ленинск-Кузнецкий</a>
+													<a href="http://www.bizspravka.su/Липецк/" title="Организации Липецка (Липецкая область)">Липецк</a>
+													<a href="http://www.bizspravka.su/Лобня/" title="Организации Лобни (Московская область)">Лобня</a>
+													<a href="http://www.bizspravka.su/Лыткарино/" title="Организации Лыткарина (Московская область)">Лыткарино</a>
+													<a href="http://www.bizspravka.su/Магнитогорск/" title="Организации Магнитогорска (Челябинская область)">Магнитогорск</a>
+													<a href="http://www.bizspravka.su/Мегион/" title="Организации Мегиона (Ханты-Мансийский автономный округ - Югра)">Мегион</a>
+													<a href="http://www.bizspravka.su/Миасс/" title="Организации Миасса (Челябинская область)">Миасс</a>
+													<a href="http://www.bizspravka.su/Минеральные-Воды/" title="Организации Минеральных Вод (Ставропольский край)">Минеральные Воды</a>
+													<a href="http://www.bizspravka.su/Минусинск/" title="Организации Минусинска (Красноярский край)">Минусинск</a>
+													<a href="http://www.bizspravka.su/Москва/" title="Организации Москвы (Московская область)">Москва</a>
+													<a href="http://www.bizspravka.su/Набережные-Челны/" title="Организации Набережных Челнов (Татарстан, республика)">Набережные Челны</a>
+													<a href="http://www.bizspravka.su/Нахабино/" title="Организации Нахабина (Московская область)">Нахабино</a>
+													<a href="http://www.bizspravka.su/Находка/" title="Организации Находки (Приморский край)">Находка</a>
+													<a href="http://www.bizspravka.su/Нефтеюганск/" title="Организации Нефтеюганска (Ханты-Мансийский автономный округ - Югра)">Нефтеюганск</a>
+													<a href="http://www.bizspravka.su/Нижневартовск/" title="Организации Нижневартовска (Ханты-Мансийский автономный округ - Югра)">Нижневартовск</a>
+													<a href="http://www.bizspravka.su/Нижнекамск/" title="Организации Нижнекамска (Татарстан, республика)">Нижнекамск</a>
+								</div>
+												<div class="col">
+									<a href="http://www.bizspravka.su/Нижний-Новгород/" title="Организации Нижнего Новгорода (Нижегородская область)">Нижний Новгород</a>
+													<a href="http://www.bizspravka.su/Нижний-Тагил/" title="Организации Нижнего Тагила (Свердловская область)">Нижний Тагил</a>
+													<a href="http://www.bizspravka.su/Новоалтайск/" title="Организации Новоалтайска (Алтайский край)">Новоалтайск</a>
+													<a href="http://www.bizspravka.su/Новокузнецк/" title="Организации Новокузнецка (Кемеровская область)">Новокузнецк</a>
+													<a href="http://www.bizspravka.su/Новокуйбышевск/" title="Организации Новокуйбышевска (Самарская область)">Новокуйбышевск</a>
+													<a href="http://www.bizspravka.su/Новомосковск/" title="Организации Новомосковска (Тульская область)">Новомосковск</a>
+													<a href="http://www.bizspravka.su/Новороссийск/" title="Организации Новороссийска (Краснодарский край)">Новороссийск</a>
+													<a href="http://www.bizspravka.su/Новосибирск/" title="Организации Новосибирска (Новосибирская область)">Новосибирск</a>
+													<a href="http://www.bizspravka.su/Новочебоксарск/" title="Организации Новочебоксарска (Чувашская республика)">Новочебоксарск</a>
+													<a href="http://www.bizspravka.su/Норильск/" title="Организации Норильска (Красноярский край)">Норильск</a>
+													<a href="http://www.bizspravka.su/Омск/" title="Организации Омска (Омская область)">Омск</a>
+													<a href="http://www.bizspravka.su/Оренбург/" title="Организации Оренбурга (Оренбургская область)">Оренбург</a>
+													<a href="http://www.bizspravka.su/Орёл/" title="Организации Орла (Орловская область)">Орёл</a>
+													<a href="http://www.bizspravka.su/Осинники/" title="Организации Осинников (Кемеровская область)">Осинники</a>
+													<a href="http://www.bizspravka.su/Пенза/" title="Организации Пензы (Пензенская область)">Пенза</a>
+													<a href="http://www.bizspravka.su/Пермь/" title="Организации Перми (Пермский край)">Пермь</a>
+													<a href="http://www.bizspravka.su/Петрозаводск/" title="Организации Петрозаводска (Карелия, республика)">Петрозаводск</a>
+													<a href="http://www.bizspravka.su/Подольск/" title="Организации Подольска (Московская область)">Подольск</a>
+													<a href="http://www.bizspravka.su/Прокопьевск/" title="Организации Прокопьевска (Кемеровская область)">Прокопьевск</a>
+													<a href="http://www.bizspravka.su/Псков/" title="Организации Пскова (Псковская область)">Псков</a>
+								</div>
+												<div class="col">
+									<a href="http://www.bizspravka.su/Пятигорск-(КМВ)/" title="Организации Пятигорска (КМВ) (Ставропольский край)">Пятигорск (КМВ)</a>
+													<a href="http://www.bizspravka.su/Реутов/" title="Организации Реутова (Московская область)">Реутов</a>
+													<a href="http://www.bizspravka.su/Ростов-на-Дону/" title="Организации Ростова-на-Дону (Ростовская область)">Ростов-на-Дону</a>
+													<a href="http://www.bizspravka.su/Рязань/" title="Организации Рязани (Рязанская область)">Рязань</a>
+													<a href="http://www.bizspravka.su/Салават/" title="Организации Салавата (Башкортостан, республика)">Салават</a>
+													<a href="http://www.bizspravka.su/Самара/" title="Организации Самары (Самарская область)">Самара</a>
+													<a href="http://www.bizspravka.su/Санкт-Петербург/" title="Организации Санкт-Петербурга (Ленинградская область)">Санкт-Петербург</a>
+													<a href="http://www.bizspravka.su/Саранск/" title="Организации Саранска (Мордовия, республика)">Саранск</a>
+													<a href="http://www.bizspravka.su/Саратов/" title="Организации Саратова (Саратовская область)">Саратов</a>
+													<a href="http://www.bizspravka.su/Светлый/" title="Организации Светлого (Калининградская область)">Светлый</a>
+													<a href="http://www.bizspravka.su/Северодвинск/" title="Организации Северодвинска (Архангельская область)">Северодвинск</a>
+													<a href="http://www.bizspravka.su/Смоленск/" title="Организации Смоленска (Смоленская область)">Смоленск</a>
+													<a href="http://www.bizspravka.su/Сочи/" title="Организации Сочи (Краснодарский край)">Сочи</a>
+													<a href="http://www.bizspravka.su/Ставрополь/" title="Организации Ставрополя (Ставропольский край)">Ставрополь</a>
+													<a href="http://www.bizspravka.su/Старый-Оскол/" title="Организации Старого Оскола (Белгородская область)">Старый Оскол</a>
+													<a href="http://www.bizspravka.su/Стерлитамак/" title="Организации Стерлитамака (Башкортостан, республика)">Стерлитамак</a>
+													<a href="http://www.bizspravka.su/Сургут/" title="Организации Сургута (Ханты-Мансийский автономный округ - Югра)">Сургут</a>
+													<a href="http://www.bizspravka.su/Сыктывкар/" title="Организации Сыктывкара (Коми, республика)">Сыктывкар</a>
+													<a href="http://www.bizspravka.su/Тамбов/" title="Организации Тамбова (Тамбовская область)">Тамбов</a>
+													<a href="http://www.bizspravka.su/Тверь/" title="Организации Твери (Тверская область)">Тверь</a>
+								</div>
+												<div class="col">
+									<a href="http://www.bizspravka.su/Тобольск/" title="Организации Тобольска (Тюменская область)">Тобольск</a>
+													<a href="http://www.bizspravka.su/Тольятти/" title="Организации Тольятти (Самарская область)">Тольятти</a>
+													<a href="http://www.bizspravka.su/Томск/" title="Организации Томска (Томская область)">Томск</a>
+													<a href="http://www.bizspravka.su/Тула/" title="Организации Тулы (Тульская область)">Тула</a>
+													<a href="http://www.bizspravka.su/Тюмень/" title="Организации Тюмени (Тюменская область)">Тюмень</a>
+													<a href="http://www.bizspravka.su/Улан-Удэ/" title="Организации Улан-Удэ (Бурятия, республика)">Улан-Удэ</a>
+													<a href="http://www.bizspravka.su/Ульяновск/" title="Организации Ульяновска (Ульяновская область)">Ульяновск</a>
+													<a href="http://www.bizspravka.su/Уссурийск/" title="Организации Уссурийска (Приморский край)">Уссурийск</a>
+													<a href="http://www.bizspravka.su/Уфа/" title="Организации Уфы (Башкортостан, республика)">Уфа</a>
+													<a href="http://www.bizspravka.su/Хабаровск/" title="Организации Хабаровска (Хабаровский край)">Хабаровск</a>
+													<a href="http://www.bizspravka.su/Химки/" title="Организации Химок (Московская область)">Химки</a>
+													<a href="http://www.bizspravka.su/Чебоксары/" title="Организации Чебоксар (Чувашская республика)">Чебоксары</a>
+													<a href="http://www.bizspravka.su/Челябинск/" title="Организации Челябинска (Челябинская область)">Челябинск</a>
+													<a href="http://www.bizspravka.su/Черногорск/" title="Организации Черногорска (Хакасия, республика)">Черногорск</a>
+													<a href="http://www.bizspravka.su/Чита/" title="Организации Читы (Забайкальский край)">Чита</a>
+													<a href="http://www.bizspravka.su/Шелехов/" title="Организации Шелехова (Иркутская область)">Шелехов</a>
+													<a href="http://www.bizspravka.su/Энгельс/" title="Организации Энгельса (Саратовская область)">Энгельс</a>
+													<a href="http://www.bizspravka.su/Южно-Сахалинск/" title="Организации Южно-Сахалинска (Сахалинская область)">Южно-Сахалинск</a>
+													<a href="http://www.bizspravka.su/Якутск/" title="Организации Якутска (Саха (Якутия), республика)">Якутск</a>
+													<a href="http://www.bizspravka.su/Ярославль/" title="Организации Ярославля (Ярославская область)">Ярославль</a>
+								</div>
+											</div>
+						<div class="reg" id="kaz_list" style="display: none;">
+								<div class="col">
+									<a href="http://kaz.bizspravka.su/Алматы/" title="Организации Алматы (Алматинская область)">Алматы</a>
+								</div>
+												<div class="col">
+									<a href="http://kaz.bizspravka.su/Караганда/" title="Организации Караганды (Карагандинская область)">Караганда</a>
+								</div>
+												<div class="col">
+									<a href="http://kaz.bizspravka.su/Усть-Каменогорск/" title="Организации Усть-Каменогорска (Восточно-Казахстанская область)">Усть-Каменогорск</a>
+								</div>
+											</div>
+						<div class="reg" id="ukr_list" style="display: none;">
+								<div class="col">
+									<a href="http://ukr.bizspravka.su/Донецк/" title="Организации Донецка (Донецкая область)">Донецк</a>
+								</div>
+												<div class="col">
+									<a href="http://ukr.bizspravka.su/Одесса/" title="Организации Одессы (Одесская область)">Одесса</a>
+								</div>
+											</div>
+					</div>
+	</div>
+	<ul class="menu green_grd gradient">
+		<li class="selected">
+			<a class="home" href="http://www.bizspravka.su/Москва/" title="Компании Москвы - отзывы, адреса официальных сайтов, телефоны">&nbsp;</a>
+		</li>
+		<li >
+			<a href="http://www.bizspravka.su/Москва/категории/" title="Разделы по видам деятельности">Рубрикатор</a>
+		</li>
+		<li >
+			<a href="http://www.bizspravka.su/регионы/" title="Список регионов">Регионы</a>
+		</li>
+		<li >
+			<a href="http://www.bizspravka.su/Москва/добавить-компанию/" title="Страница добавления организации в справочник BizSpravka.su">
+				<span>+</span>Добавить компанию
+			</a>
+		</li>
+		<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+		<li class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,gplus"></li>
+		<!--<script type="text/javascript" src="http://bizspravka.su/js/share.js" charset="utf-8"></script>
+		<li class="yashare-auto-init" data-yasharel10n="ru" data-yasharetype="none" data-yasharequickservices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,gplus">
+			<span class="b-share">
+				<a rel="nofollow" target="_blank" title="Я.ру" class="b-share__handle b-share__link b-share-btn__yaru" href="http://share.yandex.ru/go.xml?service=yaru&amp;url=http%3A%2F%2Fstudio750.ru%2Fbizspravka%2Findex.html&amp;title=BizSparvka.su" data-service="yaru">
+					<span class="b-share-icon b-share-icon_yaru"></span>
+				</a>
+				<a rel="nofollow" target="_blank" title="ВКонтакте" class="b-share__handle b-share__link b-share-btn__vkontakte" href="http://share.yandex.ru/go.xml?service=vkontakte&amp;url=http%3A%2F%2Fstudio750.ru%2Fbizspravka%2Findex.html&amp;title=BizSparvka.su" data-service="vkontakte">
+					<span class="b-share-icon b-share-icon_vkontakte"></span>
+				</a>
+				<a rel="nofollow" target="_blank" title="Facebook" class="b-share__handle b-share__link b-share-btn__facebook" href="http://share.yandex.ru/go.xml?service=facebook&amp;url=http%3A%2F%2Fstudio750.ru%2Fbizspravka%2Findex.html&amp;title=BizSparvka.su" data-service="facebook">
+					<span class="b-share-icon b-share-icon_facebook"></span>
+				</a>
+				<a rel="nofollow" target="_blank" title="Twitter" class="b-share__handle b-share__link b-share-btn__twitter" href="http://share.yandex.ru/go.xml?service=twitter&amp;url=http%3A%2F%2Fstudio750.ru%2Fbizspravka%2Findex.html&amp;title=BizSparvka.su" data-service="twitter">
+				<span class="b-share-icon b-share-icon_twitter"></span>
+				</a>
+				<a rel="nofollow" target="_blank" title="Одноклассники" class="b-share__handle b-share__link b-share-btn__odnoklassniki" href="http://share.yandex.ru/go.xml?service=odnoklassniki&amp;url=http%3A%2F%2Fstudio750.ru%2Fbizspravka%2Findex.html&amp;title=BizSparvka.su" data-service="odnoklassniki">
+					<span class="b-share-icon b-share-icon_odnoklassniki"></span>
+				</a>
+				<a rel="nofollow" target="_blank" title="Мой Мир" class="b-share__handle b-share__link b-share-btn__moimir" href="http://share.yandex.ru/go.xml?service=moimir&amp;url=http%3A%2F%2Fstudio750.ru%2Fbizspravka%2Findex.html&amp;title=BizSparvka.su" data-service="moimir">
+					<span class="b-share-icon b-share-icon_moimir"></span>
+				</a>
+				<a rel="nofollow" target="_blank" title="LiveJournal" class="b-share__handle b-share__link b-share-btn__lj" href="http://share.yandex.ru/go.xml?service=lj&amp;url=http%3A%2F%2Fstudio750.ru%2Fbizspravka%2Findex.html&amp;title=BizSparvka.su" data-service="lj">
+					<span class="b-share-icon b-share-icon_lj"></span>
+				</a>
+				<a rel="nofollow" target="_blank" title="Google Plus" class="b-share__handle b-share__link b-share-btn__gplus" href="http://share.yandex.ru/go.xml?service=gplus&amp;url=http%3A%2F%2Fstudio750.ru%2Fbizspravka%2Findex.html&amp;title=BizSparvka.su" data-service="gplus">
+					<span class="b-share-icon b-share-icon_gplus"></span>
+				</a>
+			</span>
+		</li>-->
+	</ul>
+</div><div class="right_big">
+	<h1>Справочник организаций России, Москвы</h1>
+	<p>
+		БизнесСправка - это обширный и актуальный источник информации об 
+		организациях, предприятиях, компаниях и фирмах, ведущих свою 
+		деятельность в России, на территории СНГ и других стран мира. База 
+		портала содержит информацию о более чем 1 370 000 компаний и свыше 1 930 000 POI и включает в
+		себя такие данные, как адреса, телефоны, схемы проезда, а также адреса 
+		электронной почты и официальных сайтов организаций. Также есть 
+		возможность оставлять и просматривать уже существующие отзывы о работе 
+		того или иного предприятия, организации или фирмы.
+	</p>
+	<ul class="top_rubrics">
+		<li>
+			<a href="http://www.bizspravka.su/Москва/search/?what=Кафе" title="Кафе города Москвы">
+				<img src="http://bizspravka.su/images/ico-cafe.png" alt="Кафе и рестораны, кафе-бары">
+				Кафе
+			</a>
+		</li>
+		<li>
+			<a href="http://www.bizspravka.su/Москва/search/?what=Бары" title="Бары Москвы">
+				<img src="http://bizspravka.su/images/ico-bar.png" alt="Караоке-бары, кафе-бары">
+				Бары
+			</a>
+		</li>
+		<li>
+			<a href="http://www.bizspravka.su/Москва/search/?what=Гостиницы" title="Гостиницы г. Москвы">
+				<img src="http://bizspravka.su/images/ico-hotel.png" alt="Гостиницы - официальные сайты">
+				Гостиницы
+			</a>
+		</li>
+		<li>
+			<a href="http://www.bizspravka.su/Москва/search/?what=Банкоматы" title="Банкоматы Москвы">
+				<img src="http://bizspravka.su/images/ico-credit.png" alt="Адреса банкоматов сбербанка, втб 24, альфа на карте">
+				Банкоматы
+			</a>
+		</li>
+		<li>
+			<a href="http://www.bizspravka.su/Москва/search/?what=Такси" title="Такси">
+				<img src="http://bizspravka.su/images/ico-taxi_002.png" alt="Заказ такси онлайн, номера телефонов">
+				Такси
+			</a>
+		</li>				
+	</ul>
+	<div class="main_rubrics">
+		<h2>Разделы каталога</h2>
+		<ul>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Аварийные-справочные-экстренные-службы/" title="Справочные, экстренные, аварийные службы города Москвы"><img src="http://bizspravka.su/images/ico-sos.png" alt="Бесплатно номера телефонов аварийных, справочных, экстренных служб">
+					Аварийные / справочные / экстренные службы				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Автосервис-Автотовары/" title="Автотовары, автосервисы - компании и организации г. Москвы"><img src="http://bizspravka.su/images/ico-auto.png" alt="Автосервисы, автотовары - отзывы в интернете, магазины в каталоге BizSpravka.su">
+					Автосервис / Автотовары				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Город-Власть/" title="Службы и органы власти"><img src="http://bizspravka.su/images/ico-people.png" alt="Федеральные, государственные службы и органы исполнительной власти">
+					Город / Власть				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Досуг-Развлечения-Общественное-питание/" title="Общественное питание, досуг, развлечения в Москве"><img src="http://bizspravka.su/images/ico-bouling.png" alt="Досуг и развлечения для детей и взрослых, организация и предприятия общественного питания">
+					Досуг / Развлечения / Общественное питание				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Интернет-Связь-Информационные-технологии/" title="Связь, информационные технологии, интернет (компании и организации)"><img src="http://bizspravka.su/images/ico-world.png" alt="Сотовая и мобильная связь, интернет, услуги в области информационных технологий">
+					Интернет / Связь / Информационные технологии				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Коммунальные-бытовые-ритуальные-услуги/" title="Бытовые, коммунальные, ритуальные услуги - фирмы и учреждения"><img src="http://bizspravka.su/images/ico-house.png" alt="Оказание, предоставление коммунальных, бытовых, ритуальных услуг населению 2014">
+					Коммунальные / бытовые / ритуальные услуги				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Компьютеры-Бытовая-техника-Офисная-техника/" title="Офисная техника, бытовая техника, компьютеры [компании и организации]"><img src="http://bizspravka.su/images/ico-notebook.png" alt="Компьютеры, бытовая техника, офисная техника - интернет-магазины, обслуживание, ремонт 2014">
+					Компьютеры / Бытовая техника / Офисная техника				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Культура-Искусство-Религия/" title="Религия, Искусство, Культура"><img src="http://bizspravka.su/images/ico-art.png" alt="Искусство, Религия, Культура - музеи, институты, программы, сайты, онлайн">
+					Культура / Искусство / Религия				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Мебель-Материалы-Фурнитура/" title="Фурнитура, материалы, мебель - предприятия и организации"><img src="http://bizspravka.su/images/ico-chair.png" alt="Фурнитура, мебель, материалы: купить в интернет-магазинах, каталоги, адреса официальных сайтов">
+					Мебель / Материалы / Фурнитура				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Медицина-Здоровье-Красота/" title="Красота, здоровье, медицина - фирмы и учреждения"><img src="http://bizspravka.su/images/ico-medic.png" alt="Здоровье, красота, медицина 2014 - бесплатно отзывы о центрах, клиниках, сайты">
+					Медицина / Здоровье / Красота				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Металлы-Топливо-Химия/" title="Химия, топливо, металлы <предприятия и организации>"><img src="http://bizspravka.su/images/ico-chemistry.png" alt="Топливо, химия, металлы 2014 онлайн, цены (прайс-листы)">
+					Металлы / Топливо / Химия				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Оборудование-Инструмент/" title="Инструмент, оборудование - компании и учреждения"><img src="http://bizspravka.su/images/ico-tech.png" alt="Купить в интернет-магазинах, ремонт, аренда инструмента и оборудования">
+					Оборудование / Инструмент				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Образование-Работа-Карьера/" title="Карьера, работа, образование в г. Москве"><img src="http://bizspravka.su/images/ico-study.png" alt="Работа, карьера, образование 2014 - сайты министерств, учреждений, часы работы">
+					Образование / Работа / Карьера				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Одежда-Обувь/" title="Обувь, одежда в Москве - компании и организации"><img src="http://bizspravka.su/images/ico-cloth.png" alt="интернет-магазины детской, женской, мужской одежды и обуви 2014 в каталоге BizSpravka.su">
+					Одежда / Обувь				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Охрана-Безопасность/" title="Безопасность, охрана <фирмы и учреждения>"><img src="http://bizspravka.su/images/ico-security.png" alt="Службы безопасности, охрана объектов, предприятий, организаций 2014">
+					Охрана / Безопасность				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Продукты-питания-Напитки/" title="Напитки, продукты питания [предприятия и организации]"><img src="http://bizspravka.su/images/ico-apple.png" alt="Спиртные и безалкогольные напитки, продукты питания 2014 - интернет-магазины">
+					Продукты питания / Напитки				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Реклама-Полиграфия-СМИ/" title="Полиграфия, реклама, СМИ Москвы - фирмы и учреждения"><img src="http://bizspravka.su/images/ico-bag.png" alt="Услуги в области полиграфии, СМИ, рекламы 2014">
+					Реклама / Полиграфия / СМИ				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Спорт-Отдых-Туризм/" title="Туризм, отдых, спорт 2014 [организации]"><img src="http://bizspravka.su/images/ico-sport.png" alt="Спорт, туризм, отдых 2014 - министерства, отзывы">
+					Спорт / Отдых / Туризм				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Строительные-отделочные-материалы/" title="Отделочные, строительные материалы - компании в Москве"><img src="http://bizspravka.su/images/ico-build.png" alt="Отделочные, строительные материалы 2014">
+					Строительные / отделочные материалы				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Строительство-Недвижимость-Ремонт/" title="Ремонт, недвижимость, строительство в Москве"><img src="http://bizspravka.su/images/ico-box.png" alt="Строительство и ремонт домов, объектов коммерческой и жилой недвижимости 2014">
+					Строительство / Недвижимость / Ремонт				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Текстиль-Предметы-интерьера/" title="Предметы интерьера, текстиль <предприятия и учреждения>"><img src="http://bizspravka.su/images/ico-lamp.png" alt="Купить предметы интерьера и текстиль для дома в интернет магазинах и оптом 2014">
+					Текстиль / Предметы интерьера				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Товары-для-животных-Ветеринария/" title="Ветеринария, товары для животных [Москва]"><img src="http://bizspravka.su/images/ico-pet.png" alt="Сайты управлений ветеринарии, товары для животных в интернет магазинах и оптом">
+					Товары для животных / Ветеринария				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Торговые-комплексы-Спецмагазины/" title="Спецмагазины, торгово-развлекательные комплексы города Москвы"><img src="http://bizspravka.su/images/ico-market.png" alt="Спецмагазины, торгово развлекательные комплексы">
+					Торговые комплексы / Спецмагазины				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Транспорт-Грузоперевозки/" title="Грузоперевозки, транспорт в Москве"><img src="http://bizspravka.su/images/ico-taxi.png" alt="Услуги грузоперевозок автомобильным, водным, жд транспортом в России">
+					Транспорт / Грузоперевозки				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Хозтовары-Канцелярия-Упаковка/" title="Упаковка, канцелярия, хозтовары (компании и учреждения)"><img src="http://bizspravka.su/images/ico-pen.png" alt="Канцелярия, упаковка, хозтовары в интернет-магазинах Москвы и оптом">
+					Хозтовары / Канцелярия / Упаковка				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Электроника-Электротехника/" title="Электротехника, электроника [Москва] - фирмы и организации"><img src="http://bizspravka.su/images/ico-tv.png" alt="Интернет-магазины, сайты электротехники и электроники онлайн">
+					Электроника / Электротехника				</a>
+			</li>
+						<li>
+				<a href="http://www.bizspravka.su/Москва/Юридические-финансовые-бизнес-услуги/" title="Финансовые, юридические, бизнес-услуги - Москва"><img src="http://bizspravka.su/images/ico-lawyer.png" alt="Оказание финансовых, юридических, бизнес-услуг в России">
+					Юридические / финансовые / бизнес-услуги				</a>
+			</li>
+					</ul>
+		<a class="green_grd_hor gradient btn" href="http://www.bizspravka.su/Москва/добавить-компанию/" title="Бесплатно добавить организацию в справочник">
+			<span>+</span>Добавить компанию
+		</a>
+	</div>
+	<div>
+	<script type="text/javascript">
+yandex_partner_id = 127044;
+yandex_site_bg_color = 'FFFFFF';
+yandex_stat_id = 7;
+yandex_ad_format = 'direct';
+yandex_font_size = 1.1;
+yandex_direct_type = 'flat';
+yandex_direct_limit = 3;
+yandex_direct_title_font_size = 3;
+yandex_direct_title_color = '004A99';
+yandex_direct_url_color = '333333';
+yandex_direct_text_color = '333333';
+yandex_direct_hover_color = 'CF1310';
+yandex_direct_favicon = true;
+yandex_no_sitelinks = false;
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+</script>	</div>
+</div><div class="left_small">
+	<div class="gis">
+		<a href="http://api.2gis.ru/" title="Бесплатный справочник телефонов, карта, каталог сайтов"><img src="http://bizspravka.su/images/logo-2gis.png" alt="2ГИС - Бесплатный онлайн телефонный справочник организаций России 2014">Сделано на технологиях</a>
+	</div>
+		<div class="block_links">
+	<span class="title">Последние поисковые запросы:</span>
+		<a href="http://www.bizspravka.su/Москва/search/?what=ASTORIA" title="ASTORIA - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="ASTORIA в каталоге компаний BizSpravka.su">ASTORIA</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=окулист" title="окулист - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="окулист в каталоге компаний BizSpravka.su">окулист</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=котельные" title="котельные - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="котельные в каталоге компаний BizSpravka.su">котельные</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Автомойка" title="Автомойка - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Автомойка в каталоге компаний BizSpravka.su">Автомойка</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=goodwin" title="goodwin - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="goodwin в каталоге компаний BizSpravka.su">goodwin</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=чалова" title="чалова - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="чалова в каталоге компаний BizSpravka.su">чалова</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Акив+" title="Акив  - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Акив  в каталоге компаний BizSpravka.su">Акив </a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=CUBA" title="CUBA - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="CUBA в каталоге компаний BizSpravka.su">CUBA</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=европейский" title="европейский - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="европейский в каталоге компаний BizSpravka.su">европейский</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=торговые+пвильоны" title="торговые пвильоны - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="торговые пвильоны в каталоге компаний BizSpravka.su">торговые пвильоны</a>
+	</div>	<div class="block_links">
+	<span class="title">Популярные запросы:</span>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Женская+одежда" title="Женская одежда - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Женская одежда в справочнике организаций BizSpravka.su">Женская одежда</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Парикмахерские" title="Парикмахерские - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Парикмахерские в справочнике организаций BizSpravka.su">Парикмахерские</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Ногтевые+студии" title="Ногтевые студии - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Ногтевые студии в справочнике организаций BizSpravka.su">Ногтевые студии</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Изготовление+мебели+под+заказ" title="Изготовление мебели под заказ - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Изготовление мебели под заказ в справочнике организаций BizSpravka.su">Изготовление мебели под заказ</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Косметические+услуги" title="Косметические услуги - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Косметические услуги в справочнике организаций BizSpravka.su">Косметические услуги</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Продажа+легковых+автомобилей" title="Продажа легковых автомобилей - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Продажа легковых автомобилей в справочнике организаций BizSpravka.su">Продажа легковых автомобилей</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Эротические+товары" title="Эротические товары - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Эротические товары в справочнике организаций BizSpravka.su">Эротические товары</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Мужская+одежда" title="Мужская одежда - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Мужская одежда в справочнике организаций BizSpravka.su">Мужская одежда</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Услуги+гинеколога" title="Услуги гинеколога - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Услуги гинеколога в справочнике организаций BizSpravka.su">Услуги гинеколога</a>
+		<a href="http://www.bizspravka.su/Москва/search/?what=Магазины+обувные" title="Магазины обувные - компании и организации Москвы"><img src="http://bizspravka.su/images/ico-play-green.png" alt="Магазины обувные в справочнике организаций BizSpravka.su">Магазины обувные</a>
+	</div>	<div class="block_latest round_border" style="margin-bottom: 20px">
+	<span class="title">Последние добавленные организации:</span>
+	<ul>
+				<li>
+			<a class="name" href="http://www.bizspravka.su/Москва/Аптечный-пункт-70000001007386308-id/" title="Аптечный пункт">Аптечный пункт</a>
+			<br/>
+			<div class="dark_gray">Космонавтов, 22</div>
+			<span>
+				Рубрика:
+			</span>
+						<a href="http://www.bizspravka.su/Москва/Аптеки/" class="dark_gray" title="Аптеки">Аптеки</a>					</li>
+				<li>
+			<a class="name" href="http://www.bizspravka.su/Москва/Женская-консультация-Андреевская-городская-поликлиника-4504128908595601-id/" title="Женская консультация, Андреевская городская поликлиника">Женская консультация, Андреевская городская поликлиника</a>
+			<br/>
+			<div class="dark_gray">Заводская (Зеленоград), 6</div>
+			<span>
+				Рубрика:
+			</span>
+						<a href="http://www.bizspravka.su/Москва/Женские-консультации/" class="dark_gray" title="Женские консультации">Женские консультации</a>					</li>
+				<li>
+			<a class="name" href="http://www.bizspravka.su/Москва/Лотерейный-магазин-на-Большой-Дорогомиловской-4-70000001006947955-id/" title="Лотерейный магазин на Большой Дорогомиловской, 4">Лотерейный магазин на Большой Дорогомиловской, 4</a>
+			<br/>
+			<div class="dark_gray">Большая Дорогомиловская, 4</div>
+			<span>
+				Рубрика:
+			</span>
+						<a href="http://www.bizspravka.su/Москва/Продажа-лотерейных-билетов/" class="dark_gray" title="Продажа лотерейных билетов">Продажа лотерейных билетов</a>					</li>
+				<li>
+			<a class="name" href="http://www.bizspravka.su/Москва/Мицар-Н-сеть-аптек-70000001006694742-id/" title="Мицар-Н, сеть аптек">Мицар-Н, сеть аптек</a>
+			<br/>
+			<div class="dark_gray">Агрохимиков, 2</div>
+			<span>
+				Рубрика:
+			</span>
+						<a href="http://www.bizspravka.su/Москва/Аптеки/" class="dark_gray" title="Аптеки">Аптеки</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Изготовление-лекарственных-препаратов-на-заказ/" class="dark_gray" title="Изготовление лекарственных препаратов на заказ">Изготовление лекарственных препаратов на заказ</a>					</li>
+				<li>
+			<a class="name" href="http://www.bizspravka.su/Москва/ПРОДЕСТ-ООО-универсальная-торговая-компания-70000001007009557-id/" title="ПРОДЕСТ, ООО, универсальная торговая компания">ПРОДЕСТ, ООО, универсальная торговая компания</a>
+			<br/>
+			<div class="dark_gray">Прянишникова, 19а ст4</div>
+			<span>
+				Рубрика:
+			</span>
+						<a href="http://www.bizspravka.su/Москва/Строительные-материалы/" class="dark_gray" title="Строительные материалы">Строительные материалы</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Отделочные-материалы/" class="dark_gray" title="Отделочные материалы">Отделочные материалы</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Алкогольные-напитки/" class="dark_gray" title="Алкогольные напитки">Алкогольные напитки</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Мясо-Полуфабрикаты/" class="dark_gray" title="Мясо / Полуфабрикаты">Мясо / Полуфабрикаты</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Рыба-Морепродукты/" class="dark_gray" title="Рыба / Морепродукты">Рыба / Морепродукты</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Медицинское-оборудование-инструмент/" class="dark_gray" title="Медицинское оборудование / инструмент">Медицинское оборудование / инструмент</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Лакокрасочные-материалы/" class="dark_gray" title="Лакокрасочные материалы">Лакокрасочные материалы</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Межкомнатные-двери/" class="dark_gray" title="Межкомнатные двери">Межкомнатные двери</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Пиломатериалы-Лесоматериалы/" class="dark_gray" title="Пиломатериалы / Лесоматериалы">Пиломатериалы / Лесоматериалы</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Теплоизоляционные-материалы/" class="dark_gray" title="Теплоизоляционные материалы">Теплоизоляционные материалы</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Гидроизоляционные-материалы/" class="dark_gray" title="Гидроизоляционные материалы">Гидроизоляционные материалы</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Оборудование-для-предприятий-общественного-питания/" class="dark_gray" title="Оборудование для предприятий общественного питания">Оборудование для предприятий общественного питания</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Бытовая-техника/" class="dark_gray" title="Бытовая техника">Бытовая техника</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Чай-Кофе/" class="dark_gray" title="Чай / Кофе">Чай / Кофе</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Жир-Маслопродукты/" class="dark_gray" title="Жир / Маслопродукты">Жир / Маслопродукты</a>,&nbsp;						<a href="http://www.bizspravka.su/Москва/Медицинские-приборы-аппараты/" class="dark_gray" title="Медицинские приборы / аппараты">Медицинские приборы / аппараты</a>					</li>
+			</ul>
+</div>
+	<!--<div class="block_links">
+	<span class="title">Последние отзывы:</span>
+	<a href="#"><img src="http://bizspravka.su/images/ico-positive.png" alt="ДЕТСКИЙ САД № 696">Положительный отзыв о ДЕТСКИЙ САД № 696</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-negative.png" alt="ДЕТСКИЙ САД № 696">Отрицательный отзыв о ДЕТСКИЙ САД № 696</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-negative.png" alt="КОМТЕКС">Отрицательный отзыв о КОМТЕКС</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-negative.png" alt="EXECUTIVE FASHIONS">Отрицательный отзыв о EXECUTIVE FASHIONS</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-comment.png" alt="Cocktail">Комментарий о Cocktail</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-positive.png" alt="Cocktail">Положительный отзыв о Cocktail</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-negative.png" alt="ЕВРОСЕТЬ">Отрицательный отзыв о ЕВРОСЕТЬ</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-positive.png" alt="РАДА-БАГАЖ">Положительный отзыв о РАДА-БАГАЖ</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-comment.png" alt="ПЕНСИОННЫЙ ФОНД РФ">Комментарий о ПЕНСИОННЫЙ ФОНД РФ</a>
+	<a href="#"><img src="http://bizspravka.su/images/ico-positive.png" alt="GRAVIS">Положительный отзыв о GRAVIS</a>
+</div>-->
+<div class="block_links">
+	<span class="title">Последние отзывы:</span>
+		<a href="http://www.bizspravka.su/Нижний-Новгород/Автомойка-на-Ясной-4Б-70000001007345163-id/#отзывы"><img src="http://bizspravka.su/images/ico-negative.png" alt="Автомойка на Ясной, 4Б">Отрицательный отзыв о Автомойка на Ясной, 4Б</a>
+		<a href="http://www.bizspravka.su/Нижний-Новгород/Автомойка-на-Ясной-4Б-70000001007345163-id/#отзывы"><img src="http://bizspravka.su/images/ico-negative.png" alt="Автомойка на Ясной, 4Б">Отрицательный отзыв о Автомойка на Ясной, 4Б</a>
+		<a href="http://www.bizspravka.su/Йошкар-Ола/Бристоль-алко-маркет-70000001006193095-id/#отзывы"><img src="http://bizspravka.su/images/ico-negative.png" alt="Бристоль, алко-маркет">Отрицательный отзыв о Бристоль, алко-маркет</a>
+		<a href="http://www.bizspravka.su/Краснодар/Дочки-Сыночки-детский-развивающий-центр-70000001006308422-id/#отзывы"><img src="http://bizspravka.su/images/ico-comment.png" alt="Дочки & Сыночки, детский развивающий центр">Комментарий о Дочки & Сыночки, детский развивающий центр</a>
+		<a href="http://www.bizspravka.su/Москва/Хонда-Авторусь-сеть-автосалонов-4504127912929877-id/#отзывы"><img src="http://bizspravka.su/images/ico-positive.png" alt="Хонда Авторусь, сеть автосалонов">Положительный отзыв о Хонда Авторусь, сеть автосалонов</a>
+		<a href="http://www.bizspravka.su/Краснодар/Perfect-beauty-салон-красоты-70000001006796450-id/#отзывы"><img src="http://bizspravka.su/images/ico-positive.png" alt="Perfect beauty, салон красоты">Положительный отзыв о Perfect beauty, салон красоты</a>
+		<a href="http://www.bizspravka.su/Уфа/Япона-Бог-служба-доставки-2393066583491491-id/#отзывы"><img src="http://bizspravka.su/images/ico-positive.png" alt="Япона Бог, служба доставки">Положительный отзыв о Япона Бог, служба доставки</a>
+		<a href="http://www.bizspravka.su/Казань/Интер-Восток-бюро-переводов-70000001006535649-id/#отзывы"><img src="http://bizspravka.su/images/ico-positive.png" alt="Интер-Восток, бюро переводов">Положительный отзыв о Интер-Восток, бюро переводов</a>
+		<a href="http://www.bizspravka.su/Казань/Интер-Восток-бюро-переводов-70000001006535649-id/#отзывы"><img src="http://bizspravka.su/images/ico-positive.png" alt="Интер-Восток, бюро переводов">Положительный отзыв о Интер-Восток, бюро переводов</a>
+		<a href="http://www.bizspravka.su/Волгоград/Империал-Тобакко-Волга-ООО-табачная-фабрика-4644865396801964-id/#отзывы"><img src="http://bizspravka.su/images/ico-positive.png" alt="Империал Тобакко Волга, ООО, табачная фабрика">Положительный отзыв о Империал Тобакко Волга, ООО, табачная фабрика</a>
+	</div>
+<div id="mc-last"></div>
+<!--<script type="text/javascript">
+var mcSite = '25114';
+var mcSize = '5';
+var mcAvatarSize = '32';
+var mcTextSize = '150';
+var mcTitleSize = '40';
+(function() {
+    var mc = document.createElement('script');
+    mc.type = 'text/javascript';
+    mc.async = true;
+    mc.src = '//cackle.me/mc.last-min.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(mc);
+})();
+</script>
+<a href="http://cackle.me" id="mc-link">система комментирования <b style="color:#4FA3DA">CACKL</b><b style="color:#F65077">E</b></a>-->	
+<div class="some_firms">
+	<span class="title">Некоторые компании из нашего справочника:</span>
+		<a href="http://www.bizspravka.su/Екатеринбург/Уральский-камень-торгово-производственная-компания-1267165676579472-id/" title="Уральский камень, торгово-производственная компания в Екатеринбурге">Уральский камень, торгово-производственная компания</a>
+		<a href="http://www.bizspravka.su/Екатеринбург/Дом-Камня-Екатеринбург-ООО-торгово-производственная-компания-1267165677156049-id/" title="Дом Камня-Екатеринбург, ООО, торгово-производственная компания в Екатеринбурге">Дом Камня-Екатеринбург, ООО, торгово-производственная компания</a>
+		<a href="http://www.bizspravka.su/Санкт-Петербург/Грань-торгово-монтажная-фирма-5348552838709109-id/" title="Грань, торгово-монтажная фирма в Санкт-Петербурге">Грань, торгово-монтажная фирма</a>
+		<a href="http://www.bizspravka.su/Хабаровск/Единая-транспортная-служба-ООО-70000001006441708-id/" title="Единая транспортная служба, ООО в Хабаровске">Единая транспортная служба, ООО</a>
+	</div></div><div class="block_news">
+	<span class="title">Новости партнеров</span>
+		<div class="news">
+		<a onclick="return false;" href="#">Банки начали ограничивать продажу валюты</a>
+		<p>
+			 
+                                    Рост курсов доллара и евро привел к ажиотажному спросу населения на наличную валюту. За октябрь ее продажи в отделениях банков выросли в два-три раза по сравнению с сентябрем. Из-за наплыва...		</p>
+	</div>
+		<div class="news">
+		<a onclick="return false;" href="#">Вице-спикером Госдумы станет председатель комитета по труду</a>
+		<p>
+			 
+                                    Новым вице-спикером Госдумы вместо Людмилы Швецовой станет Андрей Исаев, который сейчас возглавляет комитет по труду и соцполитике. Комитету подберут нового руководителя,...		</p>
+	</div>
+		<div class="news">
+		<a onclick="return false;" href="#">Renault исключила из программы утилизации самые продаваемые модели</a>
+		<p>
+			 
+                                    Renault исключила из программы утилизации три свои самые популярные модели – Logan, Sandero и Duster. За счет этого компания рассчитывает подогреть спрос на...		</p>
+	</div>
+		<a rel="nofollow" href="http://www.bizspravka.su/новости/" class="all_news" title="Новости в справочнике организаций России, Москвы">все новости</a>
+</div>	</div>
+	<div class="footer">
+	<div class="wrapper">
+		<div class="col1">
+			<span class="h2">Поддержка</span>
+			<!--<li >-->
+				<a href="http://www.bizspravka.su/#Россия" title="Бесплатный онлайн каталог компаний России 2014 - телефонный справочник, адреса официальных сайтов">
+					Главная
+				</a>
+			<!--</li>-->
+			<a href="http://www.bizspravka.su/О-каталоге/" title="Информация о каталоге фирм и организаций">О каталоге</a>
+			<a href="http://www.bizspravka.su/Связаться-с-нами/" title="Связаться с администрацией справочника">Связаться с нами</a>
+			<a href="http://www.bizspravka.su/Реклама-на-сайте/" title="Реклама в каталоге организаций">Реклама на сайте</a>
+			<p>Наши партнеры:</p>
+			<!--<a target="_blank" href="http://B2Bpoisk.ru" class="blue">B2Bpoisk.ru</a>-->
+			<div>
+			<script type="text/javascript">
+			document.write("<a href='http://www.liveinternet.ru/click' "+"target=_blank><img src='//counter.yadro.ru/hit?t42.6;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+""+screen.height+""+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random()+"' alt='' title='LiveInternet' "+"border='0' width='31' height='31'><\/a>");
+			</script>
+			</div>
+		</div>
+		<div class="col2">
+			<span class="h2">О проекте Bizspravka.su</span>
+			<p>На сайте проекта БизнесСправка представлена актуальная и полная информация о более чем 1 370 000 компаний и свыше 1 930 000 POI России и СНГ в виде удобного рубрикатора по сферам деятельности компаний и географического справочника организаций. Материалы на сайте представлены исключительно в справочных целях и получены из открытых источников или от представителей соответствующих организаций.<br /><br />
+			<!--Торговая площадка ProPartner.ru - предприятия, товары и услуги.--></p>
+		</div>
+		<div class="col3">
+			<span class="h2">О конфиденциальности</span>
+			<a href="#"><img src="http://bizspravka.su/images/logo-truste.png" alt="TRUSTe" /></a>
+			<a class="blue" href="http://www.bizspravka.su/Условия-использования/" title="Условия использования каталога предприятий и организаций">Условия использования</a>
+			<span class="dot">&middot;</span>
+			<a class="blue" href="http://www.bizspravka.su/Политика-конфиденциальности/" title="Политика конфиденциальности справочника BizSpravka.su">Политика конфиденциальности</a>
+		</div>
+		<div class="bottom_links">
+			<a href="http://www.bizspravka.su/Москва/" title="Телефонный справочник организаций">
+				Город Москва - телефонный справочник
+			</a>
+			|<a href="http://www.bizspravka.su/Москва/" title="Организации, компании, фирмы, учреждения">
+				Справочник организаций 2ГИС (ДубльГИС) Москва			</a>
+			|<a href="http://www.bizspravka.su/Москва/" title="Справочник организаций">
+				Справочник
+			</a>
+			|<a href="http://www.bizspravka.su/статистика/" title="Популярные разделы сайта Россия">
+				Популярные разделы
+			</a>
+			|<a href="http://www.bizspravka.su/Москва/статистика/" title="Популярные разделы сайта по городу">
+				Популярные разделы - Москва			</a>
+		</div>
+	</div>
+</div>	<div style="margin:0 auto;width: 25%;">Время загрузки страницы: 0.06 секунды <span id="load_time_script"></span></div></body>
+</html>

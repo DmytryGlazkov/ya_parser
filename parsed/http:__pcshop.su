@@ -1,0 +1,1465 @@
+<!DOCTYPE html>
+<!--[if IE 7]>         <html class="ie-7"> <![endif]-->
+<!--[if IE 8]>         <html class="ie-8"> <![endif]-->
+<!--[if gt IE 8]> 		<html class="ie-9"> <![endif]-->
+<!--[if !IE]>-->
+  <html>
+<!--<![endif]-->
+    <head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"be2e1c4ca5","applicationID":"4617","transactionName":"dl5ZRkRbCFoBRxlCDFpBRB1EWwtCS1xYVQFNC1pbRUc=","queueTime":0,"applicationTime":170,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+		  <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+        <title>Интернет-магазин компьютерной техники www.pcshop.su Ростов-на-Дону , Батайск , Аксай ,Чалтырь ,Рассвет,интернет магазины ростова на дону</title>
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+     	<meta name="robots" content="index,follow" />
+      <meta name='yandex-verification' content='59c885752d853094' />
+		<meta name="viewport" content="width=1024">
+	
+		  <meta property="og:title" content="PCSHOP.su" />
+		  <meta property="og:image" content="http://www.pcshop.suhttp://assets3.insales.ru/assets/1/4226/331906/v_1414436037/loaded_logo.png" />
+		  <meta property="og:type" content="website" />
+		  <meta property="og:url" content="http://www.pcshop.su" />
+      
+        <meta name="keywords" content="компьютерные магазины,интернет магазины ростова на дону,pc shop, интернет магазин игровых компьютеров">
+        <meta name="description" content="Главная страница,  компьютерные магазины">
+		<link rel="alternate" type="application/rss+xml" title="Блог..." href="/blogs/blog-2.atom" />
+		  
+            <link rel="icon" href="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/favicon.ico" type="image/x-icon" />   
+            <link rel="shortcut icon" href="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/favicon.ico" type="image/x-icon" /> 
+  		     
+		<link rel="stylesheet" href="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/fonts.css">
+		<link rel="stylesheet" href="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/default.css">
+		<link rel="stylesheet" href="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/style.css">
+		<link rel="stylesheet" href="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/plugins.css">
+		<link type="text/css" rel="stylesheet" media="all" href="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/jquery.rating.css" />  
+		<link type="text/css" rel="stylesheet" media="all" href="/served_assets/public/shop/jquery.fancybox-2.1.4/jquery.fancybox.css?1415376608" />   
+		 <!--[if IE ]>
+
+		<link href="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/ie.css" type="text/css" rel="stylesheet" />
+
+		<![endif]-->  
+	
+       
+<meta name='yandex-verification' content='59c885752d853094' />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> 
+    <script type="text/javascript" src="/served_assets/public/shop/common_ru.js?1415376591"></script> 
+    <script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/common.js"></script>
+    <script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/jq.cookies.js"></script> 
+	<script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/jquery.MetaData.js"> </script>
+	<script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/jquery.rating.pack.js"> </script>
+	<script type="text/javascript" src="/served_assets/public/jquery.fancybox-2.1.4/jquery.mousewheel.pack.js?1415376591"></script>
+	<script type="text/javascript" src="/served_assets/public/jquery.fancybox-2.1.4/jquery.fancybox.pack.js?1415376591"></script>
+	<script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/jquery.slides.min.js"></script>
+	<script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/jquery.carouFredSel-6.2.1-packed.js"></script>
+	<script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/jquery.ui-slider.js"></script> 
+    <script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/countdown.js"></script> 
+    <script type="text/javascript" src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/jquery.maskedinput.min.js"></script> 
+
+    <script type="text/javascript">
+       var cv_currency_format = "{\"delimiter\":\" \",\"separator\":\".\",\"format\":\"%n&nbsp;%u\",\"unit\":\"\\u0440\\u0443\\u0431\",\"show_price_without_cents\":0}";
+      
+        function initAjaxAddToCartButton(handle, onAddToCart) {    
+      jQuery('body').on('click', handle, function(e){
+        console.log('привет')
+        e.preventDefault();
+        addOrderItem(jQuery(this).parents("form:first"), onAddToCart);
+   });
+    }
+    </script>
+	 
+        <script type="text/javascript">    
+        jQuery(function() {
+          
+ 
+          
+            
+		 $("a.add_to_compare").click(function(e){ e.preventDefault() });
+            new InSales.Compare({
+            selector: '.add_to_compare',
+            draw: function(products) {
+    
+              var text = '<h2>Сравнение товаров</h2>';
+             
+              if (products.length == 0) {
+                $('#compares-link').removeClass('active');
+                text += '<i>Пока ни одного товара к сравнению не добавлено.</i>';
+                	$('#compare_table').empty();
+                    $('.compare-title').html('Товары для сравнения не выбраны');
+                    $('#compare_div').html('<h1 class="page-title">Товары для сравнения не выбраны</h1>')
+                
+              } else {
+                $('#compares-link').addClass('active');
+                text += '<ul class="compare-sidebar">';
+                $(products).each(function(index,product) {
+                  index = index +1;
+                  text += '<li><i class="fl">'+index+'.</i><a class="comp-info fl" href="/product/?product_id=' + product.id + '">'+product.title+'</a><a href="#" rel="' + product.id + '" class="remove_compare del fr" href="#">×</a></li>';  
+                });
+                text += '</ul><input type="submit" value="Сравнить" onclick="location.href=\'/compares\'" name="" class="fr send-but">';
+              }
+              $('.compare-wrap').html(text);
+              $('.compare-sidebar-hide').html(text)
+            },
+              _textLink:'+ Сравнить'
+          });
+          
+            new InSales.Cart({
+                selector: '.buy',
+                draw: function(cart) 
+				{
+					var text = '<div class="head"><h4>Корзина</h4> ';
+					if (cart.order_lines.length == 0) {
+						text += '<p>Корзина пуста. Добавьте интересующий товар в корзину и перейдите к оформлению заказа.</p></div>';
+					} else {
+                      $('#order-link').addClass('active');
+							text += '</div><ol id="cart-sidebar"  class="parse_items">';
+							$(cart.order_lines).each(function(index,order_line) {
+								text += '<li class="parse_item">';
+								text += '<div class="product-images"><a href="#"><img src="' + order_line.image('micro')  + '" class="parse_image" /></a></div>';
+								text += '<div class="product-details">';
+								text += '<span class="remove_item"><a href="#" id="delete_' + order_line.variant_id + '" class="parse_remove_action widget-btn">';
+								text += '<img src="" alt="" /></a></span>';
+								text += '<a href="/product/?product_id=' + order_line.product_id + '" class="parse_product_url">' + order_line.title + '</a>';
+								text += '<br /><strong class="parse_item_quantity">' + order_line.quantity + '</strong> x ';
+								text += '<span class="price parse_sale_price">' + InSales.formatMoney(order_line.sale_price, "{\"delimiter\":\" \",\"separator\":\".\",\"format\":\"%n&nbsp;%u\",\"unit\":\"\\u0440\\u0443\\u0431\",\"show_price_without_cents\":0}") + ' </span>';
+								text += '</div></li>';
+							});
+							text += '</ol><div class="head">Товаров в корзине: <a href="/cart_items/"><strong class="items_count">' + cart.items_count + '</strong></a></div>';
+							text += '<div class="actions"><a href="/cart_items/"><button onclick="location.href=\'/cart_items/\'" class="form-button"><span>Оформить</span></button></a>';
+							text += '</div>';
+							}
+							
+					if( cart.items_count == 1){
+               $(".parse_total_word").html("товар");
+                 } else if (cart.items_count >  4  ){
+               $(".parse_total_word").html("товаров");}
+               else if (cart.items_count == 0){
+               $(".parse_total_word").html("0 товаров");
+               } else {
+                   $(".parse_total_word").html("товар");
+               }		
+							
+					$('#cart').html(text);
+					$('.cart_items_count').html(cart.items_count);
+					$('.cart_total_price').html(InSales.formatMoney(cart.items_price, "{\"delimiter\":\" \",\"separator\":\".\",\"format\":\"%n&nbsp;%u\",\"unit\":\"\\u0440\\u0443\\u0431\",\"show_price_without_cents\":0}"));
+                 
+				}
+			});
+		
+    });
+          
+        </script>
+      <!--[if lte IE 8]>
+    <div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0016_russian.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div>
+<![endif]-->
+     <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-49206592-1']);
+  _gaq.push(['_setDomainName',"www.pcshop.su"]);
+  
+_gaq.push(['_addOrganic','mail.ru','q']);_gaq.push(['_addOrganic','rambler.ru','query']);_gaq.push(['_addOrganic','nigma.ru','s']);_gaq.push(['_addOrganic','blogs.yandex.ru','text']);_gaq.push(['_addOrganic','aport.ru','r']);_gaq.push(['_addOrganic','akavita.by','z']);_gaq.push(['_addOrganic','meta.ua','q']);_gaq.push(['_addOrganic','tut.by','query']);_gaq.push(['_addOrganic','all.by','query']);_gaq.push(['_addOrganic','i.ua','q']);_gaq.push(['_addOrganic','online.ua','q']);_gaq.push(['_addOrganic','a.ua','s']);_gaq.push(['_addOrganic','ukr.net','search_query']);_gaq.push(['_addOrganic','search.com.ua','q']);_gaq.push(['_addOrganic','search.ua','query']);_gaq.push(['_addOrganic','poisk.ru','text']);_gaq.push(['_addOrganic','km.ru','sq']);_gaq.push(['_addOrganic','liveinternet.ru','ask']);_gaq.push(['_addOrganic','quintura.ru','request']);_gaq.push(['_addOrganic','nova.rambler.ru','query']);_gaq.push(['_addOrganic','search.qip.ru','query']);_gaq.push(['_addOrganic','go.mail.ru','q']);_gaq.push(['_addOrganic','gde.ru','keywords']);_gaq.push(['_addOrganic','search.ukr.net','search_query']);_gaq.push(['_addOrganic','gogo.ru','q']);_gaq.push(['_addOrganic','search.otvet.mail.ru','q']);_gaq.push(['_addOrganic','metabot.ru','st']);_gaq.push(['_addOrganic','bigmir.net','q']);_gaq.push(['_addOrganic','start.qip.ru','query']);_gaq.push(['_addOrganic','gogle.com.ua','q']);_gaq.push(['_addOrganic','google.com.ua','q']);_gaq.push(['_addOrganic','images.google.com.ua','q']);_gaq.push(['_addOrganic','search.winamp.com','query']);_gaq.push(['_addOrganic','search.icq.com','q']);_gaq.push(['_addOrganic','m.yandex.ru','query']);_gaq.push(['_addOrganic','genon.ru','QuestionText']);_gaq.push(['_addOrganic','otsing.delfi.ee','q']);_gaq.push(['_addOrganic','www.ee','query']);_gaq.push(['_addOrganic','neti.ee','query']);        _gaq.push(['_trackPageview']);
+        (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>      <!-- Yandex.Metrika counter -->
+      <script type="text/javascript">
+      var yaParams = {};
+      </script>
+
+      <div style="display:none;"><script type="text/javascript">
+      (function(w, c) {
+          (w[c] = w[c] || []).push(function() {
+              try {
+                  w.yaCounter23799133 = new Ya.Metrika({id:23799133,
+                          enableAll: true,
+                          webvisor: true,
+                          accurateTrackBounce:true,params:window.yaParams||{ }});
+              }
+              catch(e) { }
+          });
+      })(window, "yandex_metrika_callbacks");
+      </script></div>
+      <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+      <noscript><div><img src="//mc.yandex.ru/watch/23799133" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+      <!-- /Yandex.Metrika counter -->
+
+   <noscript>
+      <div class="noscript-wrap">
+        <div class="center-content">
+          <div class="noscript">
+            <h1>Внимание! В Вашем браузере отключена функция JavaScript!!!</h1> 
+            <br> 
+            <h2>Пожалуйста включите JavaScript, затем обновите страницу.</h2> 
+          </div>
+        </div>
+      </div>
+    </noscript>
+	<div class="wrapper">
+      <div class="compare-sidebar-hide"></div>
+      <div class="top-wrapper">
+      	<div class="layout group">
+          <div class="top-wrapper-left fl">
+            
+             <ul class="fl top-menu">
+		  
+            <li>
+              <a href="/">Главная</a>
+			</li>
+             
+               <li><span>/</span></li>   
+           
+		  
+            <li>
+              <a href="/page/o-kompanii">О компании</a>
+			</li>
+             
+               <li><span>/</span></li>   
+           
+		  
+            <li>
+              <a href="/page/kontakty">Контакты</a>
+			</li>
+             
+               <li><span>/</span></li>   
+           
+		  
+            <li>
+              <a href="/page/feedback">Связь</a>
+			</li>
+            
+		  	   
+          </ul>
+            
+            
+          <div class="fl top-phone">+7 (863) 292-33-22</div>
+          <a href="#" id="mod-fast-call-link" class="top-phone-link fl">Заказать звонок</a>
+         	 <div id="mod-fast-call">
+  <div class="errors"></div>
+  <form method="post" action="/client_account/feedback" id="mod-fast-call_form">
+    <label for="cb-phone">Перезвоните мне на номер</label>
+    <input type="text" size="30" id="cb-phone" autocomplete="off" name="feedback[phone]" class="required" tabindex="1"  value="" />
+    <label for="cb-name">Меня зовут</label>
+    <input type="text" size="30" id="cb-name" name="feedback[name]" autocomplete="off" class="required" tabindex="2"  value=""/>
+    <label for="cb-message">Комментарии:</label>
+    <input type="hidden" value="звонок" name="feedback[subject]" />
+   <input id="mod-fast-call_from" name="feedback[from]" type="hidden" size="30" value="call-me-back@asap.com">
+    <textarea rows="8" cols="20" id="cb-message" name="feedback[content]" tabindex="3"></textarea>
+    <button class="send-but" name="commit" id="mod-fast-call_submit" tabindex="4">Отправить</button>
+    <button class="send-but" name="close" id="mod-fast-call-close" tabindex="4">Закрыть</button>
+         <script type="text/javascript">
+jQuery(function() {
+$("#dirtyemail").remove();
+});
+</script>
+        <input type="hidden" value="true" name="feedback[dirtyemail]" id="dirtyemail"/>
+    
+ </form>
+</div>
+<div id="opaco-mod-fast-call-link"><!-- --></div>
+
+
+<script type="text/javascript">
+/* == POPUP == */
+
+$(document).ready(function(){
+  var modCallMeBack = $("#mod-fast-call");
+  $("body").append($("div#opaco-mod-fast-call-link"),modCallMeBack);
+  $("#mod-fast-call-link, #mod-fast-call-close").click(function(e){ e.preventDefault(); modCallMeBack.togglePopup(); });
+
+   $.fn.togglePopup = function(){
+     var popup = $(this);
+     //detect whether popup is visible or not
+     if(!popup.is(':visible')) { //hidden - then display
+       if($.browser.msie) { //when IE - fade immediately
+         $('#opaco-mod-fast-call-link').height($(document).height()).show().fadeTo('slow', 0.7).click(function(){popup.togglePopup();});
+       } else {
+       //in all the rest browsers - fade slowly
+         $('#opaco-mod-fast-call-link').height($(document).height()).show().fadeTo('slow', 0.7).click(function(){popup.togglePopup();});
+       }
+
+       popup.css({'margin-left':- $(this).width()/2 + 'px', 'margin-top':- $(this).height()/2 + 'px'}).show();
+     } else { //visible - then hide
+       $('#opaco-mod-fast-call-link').hide().removeAttr('style').unbind('click');
+       popup.hide();
+     }
+   };
+
+    /* CallMeBack */
+    $("#mod-fast-call_submit", modCallMeBack).bind("click",function(e){
+        e.preventDefault();
+
+        var is_error = false;
+        var errors = $('#mod-fast-call .errors').html("");
+        var arr = [];
+
+        // проверка на дефолт
+        $("input.required, textarea.required", modCallMeBack).each( function(){
+          if(this.value==this.defaultValue){
+            is_error = true;
+            arr.push("Поле '"+$(this).prev().text()+"' должно быть заполнено!");
+          }
+        });
+
+        if(is_error == true) {
+          modCallMeBackShowMessage(errors_to_arr(arr).join("<br />"),5000); return;
+        }
+
+        var form = $('#mod-fast-call_form',modCallMeBack);
+        var fields = form.serialize();
+        $.ajax({
+            url:      form.attr('action') + '.json',
+            type:     'post',
+            data:     fields,
+            dataType: 'json',
+            beforeSend: function() { show_preloader(); },
+            complete: function() { },
+            success:  function(response) {
+                if ( response.status == 'ok' ) {
+                    $("textarea#mod-fast-call_content, #cb-message", modCallMeBack).val("");
+                    modCallMeBack.togglePopup();
+                    modCallMeBackShowMessage('<strong>Спасибо!</strong><br />В ближайшее время наш менеджер<br />свяжется&nbsp;с&nbsp;вами.', 3000);
+                } else {
+                    modCallMeBackShowMessage(errors_to_arr(response['errors']).join("<br />"),5000);
+                }
+            }
+        });
+    });
+});
+
+function modCallMeBackShowMessage(text, time){
+    var delay = 1000;
+    if (arguments.length > 1) { delay = time; }
+    show_preloader();
+    set_preloaders_message('<div id="add_product_notification">'+text.replace(" ","&nbsp;")+'</div>');
+    changeCss(jQuery("#own_preloader"));
+    window.setTimeout( hide_preloader, delay);
+}
+</script>
+
+          
+          </div>
+          <div class="top-wrapper-right fr">
+            <ul class="fl top-menu top-right-menu">
+              
+              <li>
+                <a href="/client_account/contacts/new">Регистрация</a>
+              </li>
+              <li><span>/</span></li>  
+              <li>
+                <a href="/client_account/login">Вход</a>
+              </li>
+              
+         	 </ul>
+            <div class="top-basket fl">
+              <a href="/cart_items">
+                <span class="top-basket-title">Корзина</span>
+                
+                <span class="cart_items_count"></span>&nbsp;<span class="cart_total_price"></span>
+                
+				</a>
+            </div>  
+          </div>
+        </div>
+      </div>
+	  <header>
+        <div class="header-wrapper color-blocks">
+          <div class="layout">
+            <div class="header-left">
+               
+           <a href="/" class="logo">
+              <img src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/loaded_logo.png" alt="PCSHOP.su" />
+			</a>
+          
+            </div>
+            <div class="header-right">
+              <form class="fr search top-search" action="/search" method="get">
+              
+                <input type="text" name="q" value="поиск" class="inp-search" />
+                <button type="submit" style="color: #fff;font-size: 17px;">Найти</button>
+			</form>
+              
+            </div>
+          </div>
+        </div>
+         <nav class="group layout">
+           <ul class="head-catalog group head-catalog-sale ">
+               
+               <li><a href="/collection/Tehnika" class="">Комплектующие ПК</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/planshety" class="">Блоки питания</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/noutbuki" class="">Видеокарты</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kategoriya" class="">Жесткие диски</a>
+                     
+                     <ul>
+                       
+                       <li ><a href="/collection/vnutrennie" class="">Внутренние диски</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/vneshnie" class="">Внешние диски</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/ssd-diski" class="">SSD-диски</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/konteynery-i-adaptery-dlya-hdd" class="">Контейнеры и адаптеры для HDD</a></li>
+                       
+                     </ul>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/korpusa" class="">Корпуса</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kategoriya-2" class="">Материнские платы</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/moduli-pamyati" class="">Модули памяти</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kategoriya-3" class="">Приводы</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/po" class="">Программное обеспечение</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/protsessory" class="">Процессоры</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/setevye-karty-i-kontrollery" class="">Сетевые карты и контроллеры</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/sistemy-ohlazhdeniya" class="">Системы охлаждения</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/platformy-dlya-sborki" class="">Платформы для сборки</a>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/noutbuki-i-planshety" class="">Ноутбуки моноблоки планшеты</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/kategoriya-1389957821" class="">Планшеты</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kategoriya-1389957769" class="">Ноутбуки ультрабуки</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kompyutery-i-monobloki" class="">Компьютеры и моноблоки</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/aksessuary-k-noutbukam" class="">Аксессуары к ноутбукам и планшетам</a>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/Aksessuary" class="">Офисная техника</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/kategoriya-1389958077" class="">ИБП, сетевые фильтры</a>
+                     
+                     <ul>
+                       
+                       <li ><a href="/collection/ibp" class="">Источники бесперебойного  питания</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/akkumulyatory-dlya-ibp" class="">Аккумуляторы для ИБП</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/setevye-filtry-i-udliniteli" class="">Сетевые фильтры и удлинители</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/stabilizatorry" class="">Стабилизаторы</a></li>
+                       
+                     </ul>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/monitory" class="">Мониторы</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kategoriya-1389796542" class="">Принтеры, копиры и мфу</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kategoriya-1389796647" class="">Плоттеры</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kategoriya-1389796599" class="">Сканеры</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kategoriya-1389796807" class="">Телефония и Факсы</a>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/poleznye-melochi" class="">Полезные мелочи</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/govoryaschie-igrushki" class="">Говорящие игрушки</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/usb-kontsentratory" class="">USB-концентраторы</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kartridery" class="">Картридеры</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/chistyaschie-sredstva" class="">Чистящие средства</a>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/v-avto" class="">В автомобиль</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/v-salon" class="">В салон</a>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/pereferiya-i-rashodnye-materialy" class="">Периферия и расходные материалы</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/batareyki-i-akkumulyatory" class="">Батарейки и аккумуляторы</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/dlya-pechati" class="">Для печати</a>
+                     
+                     <ul>
+                       
+                       <li ><a href="/collection/bumaga" class="">Бумага</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/zip" class="">ЗИП</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/kartridzhi" class="">Картриджи</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/termoplenki" class="">Термопленки</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/tonery" class="">Тонеры</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/snpch-i-pzk" class="">СНПЧ И ПЗК</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/chernila" class="">Чернила</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/chipy-dlya-kartridzhey" class="">Чипы для картриджей</a></li>
+                       
+                     </ul>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/igry-igrovye-konsoli-manipulyatory" class="">Игровые консоли и джойстики</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kabelya-i-udliniteli" class="">Кабели и удлинители</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/klaviatury-myshki-kovriki" class="">Клавиатуры,мышки, коврики</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/kolonki" class="">Колонки</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/naushniki-i-garnitury" class="">Наушники,гарнитуры, микрофоны</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/nositeli-informatsii" class="">Носители информации</a>
+                     
+                     <ul>
+                       
+                       <li ><a href="/collection/diski-dlya-zapisi" class="">Диски для записи</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/usb-flesh" class="">USB - флэшки</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/karty-pamyati" class="">Карты памяти</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/vneshnie-diski" class="">Внешние диски</a></li>
+                       
+                     </ul>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/web-kamery" class="">WEB и IP камеры</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/podstavki-kronshteyny-derzhateli" class="">Подставки,кронштейны, держатели</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/sumki-chehly-portmone-2" class="">Сумки, чехлы , портмоне</a>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/setevoe-i-servernoe-oborudovanie" class="">Сетевое  оборудование</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/wifi" class="">Сети Wi - Fi</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/provodnye-seti" class="">Проводные сети</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/setevye-hranilischa" class="">Сетевые хранилища</a>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/audio" class="">Аудио, видео, фото</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/audio-2" class="">Аудио</a>
+                     
+                     <ul>
+                       
+                       <li ><a href="/collection/audiomagnitoly" class="">Аудиомагнитолы</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/domashnie-kinoteatry" class="">Домашние кинотеатры</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/muzykalnye-tsentry" class="">Музыкальные центры</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/pleery" class="">Плееры</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/portativnaya-akustika" class="">Портативная акустика</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/radiopriyomniki" class="">Радиоприёмники</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/sintezatory" class="">Синтезаторы</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/chasyradio" class="">Часы+радио</a></li>
+                       
+                     </ul>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/televizory" class="">Телевизоры</a>
+                     
+                     <ul>
+                       
+                       <li ><a href="/collection/antenny-dlya-televizorov" class="">Антенны для телевизоров</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/dvb-t-pristavki" class="">DVB-T приставки</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/kronshteyny" class="">Кронштейны</a></li>
+                       
+                     </ul>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/mediapleery" class="">Медиаплееры</a>
+                     
+                   </li>
+                   
+                   <li style="border-top:1px dotted #232323;">
+                     <a href="/collection/fotoapparaty" class="">Фотоаппараты</a>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/melkobytovaya-tehnika" class="">Мелкобытовая техника</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/krasota-i-zdorovie" class="">Красота и здоровье</a>
+                     
+                     <ul>
+                       
+                       <li ><a href="/collection/britvy" class="">Бритвы</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/vesy-napolnye" class="">Весы напольные</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/manikyurno-pedikyurnye-nabory" class="">Маникюрно-педикюрные наборы</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/massazhery" class="">Массажеры</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/mashinki-dlya-strizhki" class="">Машинки для стрижки</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/uhod-za-litsom" class="">Уход за лицом</a></li>
+                       
+                     </ul>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+               
+               <li><a href="/collection/bytovaya-tehnika" class="">Бытовая техника</a>
+                 
+                 <ul>
+                   
+                   <li >
+                     <a href="/collection/klimaticheskaya-tehnika" class="">Климатическая техника</a>
+                     
+                     <ul>
+                       
+                       <li ><a href="/collection/aksessuary" class="">Аксессуары</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/ventilyatory" class="">Вентиляторы</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/vodonagrevateli" class="">Водонагреватели</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/vozduhoochistiteli" class="">Воздухоочистители</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/konditsionery" class="">Кондиционеры</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/obogrevateli" class="">Обогреватели</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/sushilki-dlya-ruk" class="">Сушилки для рук</a></li>
+                       
+                       <li style="border-top:1px dotted #232323;"><a href="/collection/uvlazhniteli" class="">Увлажнители</a></li>
+                       
+                     </ul>
+                     
+                   </li>
+                   
+                 </ul>
+                 
+               </li>
+                   
+			 </ul>
+           
+           <a class="top-sale-button" href="/collection/rasprodazha">Распродажа</a>
+           
+		</nav>
+      </header>
+     <div id="container">
+       
+       
+     	 
+<div class="slider-wrapper">
+	<div id="slides">
+	 
+	
+		<div class="slider-item">
+			
+			<a href="http://etrinity.myinsales.ru/page/priglashaem-k-sotrudnichestvu">
+				<img src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/loaded_main_image_2.jpg" />
+			</a>
+            
+		</div>	
+	
+		
+		<div class="slider-item">
+			
+			<a href="http://www.pcshop.su/collection/po?order=&page_size=1000&characteristics[]=5615931&price_min=200&price_max=10000">
+				<img src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/loaded_main_image_3.jpg" />
+			</a>
+            
+		</div>	
+	
+	
+		<div class="slider-item">
+			
+			<a href="http://www.pcshop.su/page/kak-oplatit-tovar">
+				<img src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/loaded_main_image_4.jpg" />
+			</a>
+            
+		</div>	
+	
+	
+      <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="icon-chevron-left"></i></a>
+      <a href="#" class="slidesjs-next slidesjs-navigation"><i class="icon-chevron-right"></i></a>
+	</div>
+  
+<script>
+$(function(){
+	$("#countdown_dashboard").countDown({targetDate:{"year":2014,"month":12,"day":26,"hour":12,"min":0,"sec":0},onComplete:function(){$(".countdown-wrap").fadeOut()}});
+})
+</script>
+   
+      <div class="counter-wrap product-item">
+        <div class="c">
+      
+          
+          <div class="img">
+            <a href="/collection/action/product/adapter-tp-link-tl-wn727n-150m-ralink-wifi-usb"><img src="http://static12.insales.ru/images/products/1/2205/33319069/medium_24940.jpg" alt=""></a></div>
+          <div class="price-wrap clearfix"> <del>299&nbsp;руб</del>
+            <div class="price">272&nbsp;руб</div>
+            <div class="countdown-wrap">
+              <div id="countdown_counter">
+                <div id="countdown_dashboard"> <span class="d d-hours">часов</span> <span class="d d-min">минут</span> <span class="d d-sec">секунд</span>
+                 <div class="dash-wrapper"> 
+                  <div class="dash hours_dash">
+                    <div class="digit">0</div>
+                    <div class="digit">0</div>
+                  </div>
+                  <div class="dash minutes_dash">
+                    <div class="digit">0</div>
+                    <div class="digit">0</div>
+                  </div>
+                  <div class="dash seconds_dash">
+                    <div class="digit">0</div>
+                    <div class="digit">0</div>
+                  </div>
+                  </div>
+                </div>
+                <form action="/cart_items" method="post" id="order">
+                  <input type="hidden" name="variant_id" value="39177450" />
+                  <a href="javascript:;" class="send-but buy">Купить сейчас<i class="icon-chevron-right"></i></a> 
+            	 </form>
+                  
+             
+              </div>
+            </div>
+          	 
+            </div>
+       		
+        </div>
+      </div> 
+</div>	
+
+
+<div class="main-blocks color-blocks">
+  <div class="layout main-blocks-wrap">
+    <div class="main-blocks-item fl">
+      <a href="http://www.pcshop.su/collection/dlya-pechati">
+        <img src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/loaded_main_block_1.jpg" />
+        <p>Всё для печати <i class="icon-chevron-right"></i></p>
+      </a>  
+    </div>
+     <div class="main-blocks-item fl">
+      <a href="http://www.pcshop.su/collection/wifi">
+        <img src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/loaded_main_block_2.jpg" />
+        <p>Оборудование WI-FI <i class="icon-chevron-right"></i></p>
+      </a>  
+    </div>
+    <div class="main-blocks-item fr">
+      <a href="http://www.pcshop.su/page/zapravka-kartridzhey">
+        <img src="http://assets3.insales.ru/assets/1/4226/331906/v_1414436037/loaded_main_block_3.jpg" />
+        <p>Заправка картриджей <i class="icon-chevron-right"></i></p>
+      </a>  
+    </div>
+  </div>
+</div>
+
+<div class="prod-grid-wrapper">	
+  <div id="prod-carousel-1" class="prod-grid-carousel">
+    
+    <div class="prod-grid-carousel-item ">
+      <figure>
+         <a href="#" class="add_to_compare" rel="28404145">+ Сравнить</a>
+           
+        <p style="text-align: left; font-size:80%;margin-left:20px;"><span>Артикул:</span> <span id="sku-field">25476</span></p>
+          
+        <a href="/collection/frontpage/product/karta-pamyati-microsdhc-16-gb-smartbay-klass-10-bez-adaptera">
+          <p><img src="http://static12.insales.ru/images/products/1/6321/38353073/medium_25476.jpg" /></p>
+          <figcaption>
+            <div class="prod-grid-title">Карта памяти microSDHC 16 GB SmartBay, класс 10, без адаптера</div>
+             <div class="prod-grid-text">microSDHC 16 Гб</div>
+            <form action="/cart_items" method="post" style="text-align: center;">
+              
+              <input type="hidden" class="qty quantity_input" name="quantity" size="3" value="1" />
+                   
+              <input type="hidden" name="variant_id" value="43296359" />
+              
+                
+              	<a id="buy-button" class="buy-button buy red" href="#">
+                	<span class="add_button">Купить</span>
+              <!--    <i class="icon-chevron-right"></i> -->
+            	  </a>
+                
+              <ul class="aval"><li>В наличии</li></ul>
+              
+            </form>
+            <div class="clear"></div>
+            <div class="prod-grid-price price" style="padding:10px;">354&nbsp;руб 
+              </div>
+          </figcaption>
+        </a>
+      </figure>
+  
+</div>
+    
+    <div class="prod-grid-carousel-item ">
+      <figure>
+         <a href="#" class="add_to_compare" rel="28300217">+ Сравнить</a>
+           
+        <p style="text-align: left; font-size:80%;margin-left:20px;"><span>Артикул:</span> <span id="sku-field">20642</span></p>
+          
+        <a href="/collection/frontpage/product/karta-pamyati-microsdhc-4gb-transcend-kl4-sd-adapter-ts4gusdhc4">
+          <p><img src="http://static12.insales.ru/images/products/1/3926/33386326/medium_20642.JPG" /></p>
+          <figcaption>
+            <div class="prod-grid-title">Карта памяти microSDHC 4GB TRANSCEND кл.4 SD-адаптер TS4GUSDHC4</div>
+             <div class="prod-grid-text">— карта памяти microSDHC, Class 4 — объем 4 Гб — в комплекте адаптер на SD</div>
+            <form action="/cart_items" method="post" style="text-align: center;">
+              
+              <input type="hidden" class="qty quantity_input" name="quantity" size="3" value="1" />
+                   
+              <input type="hidden" name="variant_id" value="43144686" />
+              
+                
+              	<a id="buy-button" class="buy-button buy red" href="#">
+                	<span class="add_button">Купить</span>
+              <!--    <i class="icon-chevron-right"></i> -->
+            	  </a>
+                
+              <ul class="aval"><li>В наличии</li></ul>
+              
+            </form>
+            <div class="clear"></div>
+            <div class="prod-grid-price price" style="padding:10px;">172&nbsp;руб 
+              </div>
+          </figcaption>
+        </a>
+      </figure>
+  
+</div>
+    
+    <div class="prod-grid-carousel-item ">
+      <figure>
+         <a href="#" class="add_to_compare" rel="24644902">+ Сравнить</a>
+           
+        <p style="text-align: left; font-size:80%;margin-left:20px;"><span>Артикул:</span> <span id="sku-field">14646</span></p>
+          
+        <a href="/collection/frontpage/product/kartridzh-canon-fx-10-chernyy-0263b002-2">
+          <p><img src="http://static12.insales.ru/images/products/1/5632/28866048/medium_14646.jpg" /></p>
+          <figcaption>
+            <div class="prod-grid-title">Картридж CANON FX-10</div>
+             <div class="prod-grid-text">Картридж CANON лазерный FX10 Fax-L100/L120/МФУ 4120/4018/4100/4150/4270/4320/4370/4660PL/4690PL (2000л.) (0263B002)</div>
+            <form action="/cart_items" method="post" style="text-align: center;">
+              
+              <input type="hidden" class="qty quantity_input" name="quantity" size="3" value="1" />
+                   
+              <input type="hidden" name="variant_id" value="37248724" />
+              
+                
+              	<a id="buy-button" class="buy-button buy red" href="#">
+                	<span class="add_button">Купить</span>
+              <!--    <i class="icon-chevron-right"></i> -->
+            	  </a>
+                
+              <ul class="aval"><li>В наличии</li></ul>
+              
+            </form>
+            <div class="clear"></div>
+            <div class="prod-grid-price price" style="padding:10px;">1 962&nbsp;руб 
+              </div>
+          </figcaption>
+        </a>
+      </figure>
+  
+</div>
+    
+    <div class="prod-grid-carousel-item ">
+      <figure>
+         <a href="#" class="add_to_compare" rel="32126673">+ Сравнить</a>
+           
+        <p style="text-align: left; font-size:80%;margin-left:20px;"><span>Артикул:</span> <span id="sku-field">26020</span></p>
+          
+        <a href="/collection/frontpage/product/korpus-atx-boost-302-400w-black">
+          <p><img src="http://static12.insales.ru/images/products/1/3238/38399142/medium_26020.png" /></p>
+          <figcaption>
+            <div class="prod-grid-title">Корпус ATX BOOST 302 400W Black</div>
+             <div class="prod-grid-text">Корпус с блоком питания 400 Вт , 2 разьема USB , разьем для наушников и микрофона на передней панели</div>
+            <form action="/cart_items" method="post" style="text-align: center;">
+              
+              <input type="hidden" class="qty quantity_input" name="quantity" size="3" value="1" />
+                   
+              <input type="hidden" name="variant_id" value="49188961" />
+              
+                
+              	<a id="buy-button" class="buy-button buy red" href="#">
+                	<span class="add_button">Купить</span>
+              <!--    <i class="icon-chevron-right"></i> -->
+            	  </a>
+                
+              <ul class="aval"><li>В наличии</li></ul>
+              
+            </form>
+            <div class="clear"></div>
+            <div class="prod-grid-price price" style="padding:10px;">1 063&nbsp;руб 
+              
+				<span class="old-price">1 599&nbsp;руб</span>  
+			   </div>
+          </figcaption>
+        </a>
+      </figure>
+  
+</div>
+    
+    <div class="prod-grid-carousel-item ">
+      <figure>
+         <a href="#" class="add_to_compare" rel="32010505">+ Сравнить</a>
+           
+        <p style="text-align: left; font-size:80%;margin-left:20px;"><span>Артикул:</span> <span id="sku-field">80G00050RK</span></p>
+          
+        <a href="/collection/frontpage/product/noutbuk-lenovo-ideapad-g5030-celeron-n2830-2162g320g156hd-glintintel-hddvd-smbtdos-80g00050rk-black">
+          <p><img src="http://static12.insales.ru/images/products/1/5867/38942443/medium_80G00050RK-1.jpg" /></p>
+          <figcaption>
+            <div class="prod-grid-title">Ноутбук Lenovo IdeaPad G5030 Celeron N2830 (2.16)/2G/320G/15.6"HD GL/Int:Intel HD/DVD-SM/BT/DOS (80G00050RK) (Black)</div>
+             <div class="prod-grid-text"></div>
+            <form action="/cart_items" method="post" style="text-align: center;">
+              
+              <input type="hidden" class="qty quantity_input" name="quantity" size="3" value="1" />
+                   
+              <input type="hidden" name="variant_id" value="49010127" />
+              
+              
+              <a href="#" id="buy-button" class="buy-button buy red">
+                   <span class="add_button">Купить</span>
+              <!--    <i class="icon-chevron-right"></i> -->
+            	  </a>
+              <ul class="aval not"><li>Под заказ</li></ul>
+              
+            </form>
+            <div class="clear"></div>
+            <div class="prod-grid-price price" style="padding:10px;">11 967&nbsp;руб 
+              
+				<span class="old-price">11 990&nbsp;руб</span>  
+			   </div>
+          </figcaption>
+        </a>
+      </figure>
+  
+</div>
+    
+    <div class="prod-grid-carousel-item ">
+      <figure>
+         <a href="#" class="add_to_compare" rel="23475776">+ Сравнить</a>
+           
+        <p style="text-align: left; font-size:80%;margin-left:20px;"><span>Артикул:</span> <span id="sku-field">23520</span></p>
+          
+        <a href="/collection/frontpage/product/derzhatel-dlya-mobilnyh-ustroystv-defender-102-do-5-20-95mm">
+          <p><img src="http://static12.insales.ru/images/products/1/1414/28599686/medium_23520_копия.jpg" /></p>
+          <figcaption>
+            <div class="prod-grid-title">Универсальный автомобильный держатель Defender 102 до 5" (20-95мм)</div>
+             <div class="prod-grid-text">Для устройств с диагональю: до 5" Расстояние между зажимами: 20 - 95 мм Крепление: присоска + жесткое крепление регулируемое… винтами Материал: пластик Выдерживает устройства весом до: 1 кг Размеры упаковки: 10,5 х 6 х 10,5 см Вес: 0,06 кг (без упаковки) / 0,11 кг ( в упаковке)</div>
+            <form action="/cart_items" method="post" style="text-align: center;">
+              
+              <input type="hidden" class="qty quantity_input" name="quantity" size="3" value="1" />
+                   
+              <input type="hidden" name="variant_id" value="35459333" />
+              
+                
+              	<a id="buy-button" class="buy-button buy red" href="#">
+                	<span class="add_button">Купить</span>
+              <!--    <i class="icon-chevron-right"></i> -->
+            	  </a>
+                
+              <ul class="aval"><li>В наличии</li></ul>
+              
+            </form>
+            <div class="clear"></div>
+            <div class="prod-grid-price price" style="padding:10px;">146&nbsp;руб 
+              </div>
+          </figcaption>
+        </a>
+      </figure>
+  
+</div>
+    
+    <div class="prod-grid-carousel-item ">
+      <figure>
+         <a href="#" class="add_to_compare" rel="30090186">+ Сравнить</a>
+           
+        <p style="text-align: left; font-size:80%;margin-left:20px;"><span>Артикул:</span> <span id="sku-field">22397</span></p>
+          
+        <a href="/collection/frontpage/product/fleshka-4-gb-smartbuy-cobra">
+          <p><img src="http://static12.insales.ru/images/products/1/3536/35835344/medium_22397.jpg" /></p>
+          <figcaption>
+            <div class="prod-grid-title">флешка 4 Gb SmartBuy Cobra</div>
+             <div class="prod-grid-text"></div>
+            <form action="/cart_items" method="post" style="text-align: center;">
+              
+              <input type="hidden" class="qty quantity_input" name="quantity" size="3" value="1" />
+                   
+              <input type="hidden" name="variant_id" value="46022551" />
+              
+                
+              	<a id="buy-button" class="buy-button buy red" href="#">
+                	<span class="add_button">Купить</span>
+              <!--    <i class="icon-chevron-right"></i> -->
+            	  </a>
+                
+              <ul class="aval"><li>В наличии</li></ul>
+              
+            </form>
+            <div class="clear"></div>
+            <div class="prod-grid-price price" style="padding:10px;">171&nbsp;руб 
+              </div>
+          </figcaption>
+        </a>
+      </figure>
+  
+</div>
+    	
+  </div>
+  <div class="cr"></div>
+  <a class="prev carousel-nav icon-chevron-left" id="foo1_prev" href="#"></a>
+  <a class="next carousel-nav icon-chevron-right" id="foo1_next" href="#"></a>
+</div>
+
+<div class="main-news-wrapper color-blocks">
+  <div class="blogs-wrapper layout">
+  
+    <section class="blogs-item  blogs-item-2 ">
+      <h1>Акции  PCSHOP.su <a href="/blogs/blog-2">Все записи <i class="icon-chevron-right"></i></a></h1>
+       
+    	<article>
+            <p class="blogs-item-date">18.09.2014</p>
+            <a class="blogs-item-preview edit-content" href="/blogs/blog-2/spetsialnaya-tsena-na-tovar-mesyatsa"><p class="page-title"><span style="color: #0000ff; font-size: medium;">Только до 24.00 30 сентября 2014 года действует специальная цена 995 рублей вместо 1599 рублей на Корпус ATX BOOST 302 400W Black</span></p></a>
+ 	    </article> 
+       
+    	<article>
+            <p class="blogs-item-date">24.04.2014</p>
+            <a class="blogs-item-preview edit-content" href="/blogs/blog-2/besplatnaya-dostavka-2"><p>Бесплатная доставка на все товары. Подробности далее.</p></a>
+ 	    </article> 
+       
+    	<article>
+            <p class="blogs-item-date">19.03.2014</p>
+            <a class="blogs-item-preview edit-content" href="/blogs/blog-2/usb-fleshki-po-vygodnym-tsenam"><p>&nbsp;&nbsp; Весеннее снижение цен на USB флеш-накопители! Цены от 151 рубля !</p></a>
+ 	    </article> 
+      
+  </section> 
+
+    <section class="blogs-item  blogs-item-2 ">
+      <h1>Новости <a href="/blogs/novosti">Все записи <i class="icon-chevron-right"></i></a></h1>
+       
+    	<article>
+            <p class="blogs-item-date">22.06.2014</p>
+            <a class="blogs-item-preview edit-content" href="/blogs/novosti/nedorogoy-wi-fi-marshrutizator-ot-tp-link"><p><span style="color: #0000ff;">Недорогой Wi-Fi маршрутизатор от TP-LINK TL-WR720N</span></p></a>
+ 	    </article> 
+       
+    	<article>
+            <p class="blogs-item-date">19.06.2014</p>
+            <a class="blogs-item-preview edit-content" href="/blogs/novosti/dvuhdiapazonnyy-marshrutizator-tp-link-tl-wdr4300"><h2 class="sub-title"><span style="color: #0000ff;">Двухдиапазонный маршрутизатор TP-LINK TL-WDR4300</span></h2></a>
+ 	    </article> 
+       
+    	<article>
+            <p class="blogs-item-date">18.06.2014</p>
+            <a class="blogs-item-preview edit-content" href="/blogs/novosti/superbystryy-dvuhdiapazonnyy-wi-fi-router-tenda-w1800r"><p><span style="color: #0000ff;">Супербыстрый двухдиапазонный Wi-Fi роутер Tenda W1800R доступен для предзаказа.</span></p></a>
+ 	    </article> 
+      
+  </section> 
+
+  </div>  
+</div> 
+
+
+
+
+<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);
+</script>
+<div data-share-size="40" data-like-text-enable="false" data-background-alpha="0.0" data-pid="1268237" data-mode="share" data-background-color="#ffffff" data-hover-effect="scale" data-share-shape="round-rectangle" data-share-counter-size="14" data-icon-color="#ffffff" data-text-color="#000000" data-buttons-color="#ffffff" data-counter-background-color="#ffffff" data-share-counter-type="disable" data-orientation="fixed-right" data-following-enable="false" data-sn-ids="fb.vk.tw.ok.gp.em.pr.bm." data-selection-enable="true" data-exclude-show-more="true" data-share-style="1" data-counter-background-alpha="1.0" data-top-button="false" class="uptolike-buttons" ></div>
+
+      
+          
+     <article class="bottom-dop-block layout edit-content">  
+       
+    	 <p><span style="font-size: small;"><em><span style="font-family: verdana,geneva;">Добро пожаловать в <strong>интернет магазин офисной техники PCSHOP.su</strong> товары для дома и офиса !</span></em></span></p>
+<p><span style="font-size: small;"><em><span style="font-family: verdana,geneva;">Мы с радостью принимаем и обслуживаем заказы 7 дней в неделю. Доставка возможна как по Ростову-на-Дону, так и по области. Сделайте заказ через сайт и мы Вам перезвоним для согласования времени доставки .Действует накопительная система скидок, за каждый заказ начисляются бонусные баллы. 1балл=1 рубль.</span></em></span></p>
+<p><span style="font-size: small;"><em><span style="font-family: verdana,geneva;">&nbsp; Для совершения покупки необходимо зарегистрироваться в компьютерном магазине " pc shop" , выбрать понравившийся товар, указать необходимое количество и нажать кнопку "купить" , перейти в корзину и подтвердить заказ&nbsp; .Форма оплаты для физ. лиц - наличные, для юр.лиц - безналичная (банковский перевод на расчетный счет) или наличный расчет, предоставляется полный пакет документов с НДС по каждому заказу.</span></em></span></p>
+<p><span style="font-size: small;"><em><span style="font-family: verdana,geneva;">&nbsp;</span></em></span></p>
+<p><span style="font-size: small;"><em><span style="font-family: verdana,geneva;">&nbsp; <span style="color: #000000;">Качество - это тогда, когда клиент возвращается !</span></span></em></span></p>
+<p><span style="color: #333399;"><em><span style="font-family: verdana,geneva;"><span style="font-size: small;"></span> <span style="font-size: small;">Сервисный центр магазина PCSHOP.su оказывает следующие виды услуг по диагностике, профилактике и ремонту компьютерных комплектующих, ноутбуков и печатующей техники :</span></span></em></span></p>
+<ul class="special-6">
+<li><span style="color: #333399;"><em><span style="font-size: small; font-family: verdana,geneva;"><b>Диагностика</b>. Включает в себя осмотр и, в случае необходимости, разбор аппарата и выявление неисправного блока, после чего определяется стоимость ремонта.</span></em></span></li>
+<li><span style="color: #333399;"><em><span style="font-size: small; font-family: verdana,geneva;"><b>Профилактика.</b> В профилактические работы входит регулировка, смазка, очистка и полный осмотр с целью выявления изношенных узлов.</span></em></span></li>
+<li><span style="color: #333399;"><em><span style="font-size: small; font-family: verdana,geneva;"><b>Ремонт.</b> Это комплекс работ по устранению неисправности и приведения техники в рабочее состояние.</span></em></span></li>
+<li class="affinity" href="http://www.lancer-it.ru/printer/pricecartidge.html"><span style="color: #333399;"><em><span style="font-size: small; font-family: verdana,geneva;"><b>Заправка и восстановление картриджей.</b> Мы предоставляем эту услугу прямо в Вашем &nbsp;офисе по заявке.&nbsp;</span></em></span></li>
+<li><span style="color: #333399;"><em><span style="font-size: small; font-family: verdana,geneva;"><span class="affinity"><b>Прошивка лазерных принтеров</b></span> марки <span class="affinity"><b>Samsung</b></span> и <span class="affinity"><b>Xerox</b></span>.</span></em></span></li>
+<li><span style="color: #333399;"><em><span style="font-size: small; font-family: verdana,geneva;"><b>Консультации.</b> Наши специалисты дадут Вам исчерпывающую информацию и рекомендации по поводу приобретения новых моделей оргтехники и &nbsp;правил эксплуатации уже имеющихся принтеров, копиров и МФУ.</span></em></span></li>
+</ul>
+<meta name="yandex-verification" content="59c885752d853094" />
+       
+       	 
+       </article>
+     
+     </div>
+ <footer class="color-blocks">
+   <div class="layout group">
+	  <div class="nav-footer">
+	  <h1>Наши сервисы</h1>
+	  <ul>
+		
+		<li><a href="/page/delivery">Доставка</a></li>
+		
+		<li><a href="/page/zapravka-kartridzhey">Заправка картриджей</a></li>
+			
+	  </ul>
+	 </div>
+     <div class="nav-footer">
+	  <h1>Акции</h1>
+	  <ul>
+		
+		<li><a href="/page/nakopitelnye-skidki">Накопительные скидки</a></li>
+		
+		<li><a href="/page/bonusnaya-sistema">Бонусная система</a></li>
+			
+	  </ul>
+    </div>          
+
+	<div class="nav-footer">
+	  <h1>Мы</h1>
+	  <ul>
+		
+		<li><a href="/page/o-kompanii">О компании</a></li>
+		
+		<li><a href="/page/feedback">Обратная связь</a></li>
+		
+		<li><a href="/page/kontakty">Контакты</a></li>
+		
+		<li><a href="/page/rekvizity">Наши реквизиты</a></li>
+			
+	  </ul>
+	</div>
+	<div class="nav-footer">
+	  <h1>Помощь</h1>
+	  <ul>
+		
+		<li><a href="/page/garantiya">Условия гарантии</a></li>
+		
+		<li><a href="/page/pomosch">Корпоративным клиентам</a></li>
+		
+		<li><a href="/page/pomosch">Розничным клиентам</a></li>
+		
+		<li><a href="/page/kak-oplatit-tovar">Как оплатить товар ?</a></li>
+			
+	  </ul>
+	</div>
+     
+     	<div class="nav-footer nav-footer-subscribe ">
+           <h1>Подпишитесь на рассылку</h1>
+          <form class="search bottom-search" action="">
+            <input type="text" name="q" value="Ваш e-mail" class="inp-search" />
+            <button type="submit"><i class="icon-chevron-right"></i></button>
+            
+          </form>
+    	 </div>
+     
+     <div class="footer-bottom">
+     	<div class="footer-bottom-left fl">
+         PCSHOP.su © 2014 | Все права защищены
+       </div>
+       <div class="footer-bottom-right fr">
+    	 <a href="http://www.insales.ru/">Сделано в InSales</a>
+       </div> 
+     </div>
+   </div>
+ </footer>
+</div>  
+  
+<div id="bottom-panel-wrapper">
+  <div id="bottom-panel">
+    <a href="#" id="scroll-top-arrow"></a>
+    <a href="http://www.pcshop.su/page/feedback" id="feedback-link">Обратная связь</a>
+    <a href="/compares" id="compares-link">Сравнить товары</a>
+    <div class="top-basket">
+      <a href="/cart_items">
+        <span class="top-basket-title">Корзина</span>
+        
+        <span class="cart_items_count"></span>&nbsp;<span class="cart_total_price"></span>
+        
+      </a>
+    </div>
+    <a href="/auth/new" id="order-link" >Оформить</a>
+  </div>
+</div>
+
+      <script src="http://s1.loginza.ru/js/widget.js" type="text/javascript"></script>
+      <script type='text/javascript'>
+        if (window.jQuery) {
+          jQuery(function($) {
+            $('.mailru_login').replaceWith('<a style="text-decoration:none;" href="https://loginza.ru/api/widget?lang=ru&amp;token_url=http%3A%2F%2Fwww.pcshop.su%2Fclient_account%2Fside_logins%2Floginza_shop?back_url='+encodeURIComponent(window.location)+'&amp;provider=mailruapi">               <img title="Mail.ru" alt="Mail.ru" class="mail_ru_login" src="/served_assets/checkout/mailru-connect-button-new.png"/>             </a>');
+          });
+        }
+      </script>
+        <!--InsalesCounter -->
+        <script type="text/javascript">
+        if (typeof(__id) == 'undefined') {
+          var __id=118944;
+          document.write(unescape('%3Cscript type="text/javascript" src="/javascripts/insales_counter.js"%3E%3C/scr' + 'ipt%3E'));
+        }
+        </script>
+        <!-- /InsalesCounter -->
+<script> 
+  $ (".b:contains('Заказы и скидки')").text('Мои заказы и бонусы');	
+</script>
+
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=23799133&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/23799133/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:23799133,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter23799133 = new Ya.Metrika({id:23799133,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/23799133" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<a href="http://clck.yandex.ru/redir/dtype=stred/pid=47/cid=1248/*http://market.yandex.ru/shop/206704/reviews/add"><img src="http://clck.yandex.ru/redir/dtype=stred/pid=47/cid=1248/*http://img.yandex.ru/market/informer2.png" border="0" alt="Оцените качество магазина на Яндекс.Маркете." /></a>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-49206592-1']);
+  _gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<head> 
+<meta name="google-site-verification" content="_IlHsjfDDmzddoTxwI8CFI8q8P2JZwXbViPYXSlZzgU" />
+
+
+</script>
+<div data-background-alpha="0.0" data-orientation="horizontal" data-text-color="000000" data-share-shape="round-rectangle" data-buttons-color="ff9300" data-sn-ids="fb.tw.ok.vk.gp.mr." data-counter-background-color="ffffff" data-share-counter-size="11" data-share-size="30" data-background-color="ededed" data-share-counter-type="common" data-pid="1268237" data-counter-background-alpha="1.0" data-share-style="1" data-mode="share" data-following-enable="false" data-like-text-enable="false" data-selection-enable="true" data-icon-color="ffffff" class="uptolike-buttons" ></div>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'mchTBabZWY';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+
+
+
+
+</body>
+</html>
+

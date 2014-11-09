@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"  />   
+    <title>Интернет магазин (Россия и Беларусь)</title>    
+    <link href="/Content/jquery.ui.all.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/main.css?a=1" rel="stylesheet" type="text/css" />
+    <script src="/Scripts/jquery-1.5.1.min.js" type="text/javascript"></script>
+    <script src="/Scripts/modernizr-1.7.min.js" type="text/javascript"></script>
+    <script src="/Scripts/popup.js"  type="text/javascript"></script>    
+    <script src="../../Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>  
+
+</head>
+<body>
+    <div class="page">
+        <section id="main">
+            
+
+<style type="text/css">
+  html { height: 100% }
+  body { height: 100%; margin: 0; padding: 0 }
+  #map_canvas { height: 90% }
+</style>
+
+<link href="/Content/start.css?a=1" rel="stylesheet" type="text/css" />
+<script src="/Scripts/start.js?a=1" type="text/javascript"></script>
+<script src="/Scripts/jquery.cookie.js" type="text/javascript"></script>
+
+<div class="dPage">
+.
+<!-- Country Box -->
+<div id="countriesDialog" class="messageBox" style="text-align: left; max-width: 908px; width: 908px !important; z-index: 150; display:none">
+  <div style="float: right; padding-left: 20px; padding-top: 4px;">
+    <a href="#" class="closeCountrySelector">Закрыть</a>
+  </div>
+  <div class="countryBoxTitle">Выберите страну для доставки заказа</div>
+
+  <div class="countryBoxBorder"><!-- --></div>    
+            <ul class="countryList" style="float: left; width: 250px;">
+       
+                    <li name="BES">
+                    <img src="../../Content/img/flags/BY.png" alt="" width="16" height="11" />
+                    Беларусь</li>               
+        </ul>
+            <ul class="countryList" style="float: left; width: 250px;">
+       
+                    <li name="01">
+                    <img src="../../Content/img/flags/RU.png" alt="" width="16" height="11" />
+                    Россия</li>               
+        </ul>
+            <ul class="countryList" style="float: left; width: 250px;">
+       
+        </ul>
+  <div style="clear: both;"><!-- --></div>
+  <div class="countryBoxBorder"><!-- --></div>
+  <div style="float: right; padding-top: 21px; padding-bottom: 4px;">
+    <a href="#" class="closeCountrySelector">Закрыть </a>
+  </div>
+</div>
+
+<div class="dPageHeader">
+    
+    <div class="dLogo"> 
+       <img src="../../Content/img/logo.jpg"  alt="Vision International People Group Public Limited" width="237" height="63" />    
+    </div>
+
+    <div class="dMotto">Качество жизни вместе с VISION – Выбор Отличного Здоровья </div>
+  </div>
+  <table class="tblSelect" cellpadding="0" cellspacing="0">
+      <tr>
+          <td class="tdSelLang">            
+            <div class="dCornRowLang">
+              <div class="dCornSm cTleft"><!-- --></div>
+              <div class="dCornSm cTright"><!-- --></div>
+            </div>
+            <div class="dInpRowLang arDef">
+              <input type="button" value="Русский" class="selText wInp2" 
+                style="padding-left: 40px;background-image: url('../Content/img/flag-ru.png');" />    
+            </div>
+            <div class="dCornRowLang">
+              <div class="dCornSm cBleft"><!-- --></div>
+              <div class="dCornSm cBright"><!-- --></div>
+            </div>
+
+            <ul class="selBox" id="selLang" style="width: 248px;">
+                   <li style="background-image: url('../Content/img/flag-ru.png');" id="ru">Русский</li> 
+                   <li style="background-image: url('../Content/img/flag-en.png');" id="en">English</li> 
+            </ul>
+          </td>
+          <td class="tdSelShop">          
+              <div class="dCornRowShop ">
+                <div class="dCornSm cTleft"><!-- --></div>
+                <div class="dCornSm cTright"><!-- --></div>
+              </div>
+              <div class="dInpRowShop arDef"> 
+                <input type="button" value="Интернет магазин (Россия и Беларусь)" class="selText wInp3"  id="btnShopId"/>
+                <input name="country" type="hidden"  id="hidShopId" value="54" />
+              </div>
+              <div class="dCornRowShop ">
+                <div class="dCornSm cBleft"><!-- --></div>
+                <div class="dCornSm cBright"><!-- --></div>
+              </div>
+
+              <ul class="selBox" id="selShop"  style ="padding:5px 0px;width: 431px;"> 
+                       <li id="25">Интернет магазин (Австрия)</li> 
+                       <li id="26">Интернет магазин (Украина)</li> 
+                       <li id="54">Интернет магазин (Россия и Беларусь)</li> 
+                       <li id="67">Интернет магазин (Польша)</li> 
+                       <li id="71">Интернет магазин (Азербайджан)</li> 
+              </ul>           
+        </td>
+          <td style="width:10px"><div style="width:10px"></div></td>
+          <td id="tdCountry"  >
+            <div id="countryName"  >
+          
+              <div class="dInpRowCountry arDef" id="arrCountry" > 
+                <input type="button" value="Страна доставки" class="selText wInp4 " id="btnCountryName" style ="color:Black" />       
+              </div>                        
+            </div>        
+        </td>
+      </tr>    
+  </table>  
+  
+  <table class="tblEnter" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="tdPanel" style="padding-right: 20px">
+    <div class="f18px">Я первый раз в магазине </div>
+    <div>Введите код, который выдал Вам консультант: </div>
+<!-- input code -->
+<form action="/Start/LoginByCode" method="post">       <div class="">
+             <div class="dCornRow" style="margin-top: 15px;">
+              <div class="dCornSm cTleft"><!-- --></div>
+              <div class="dCornSm cTright"><!-- --></div>
+            </div>
+            <div class="dInpRow">  
+        
+              <input name="code" value="код консультанта" type="text" class="inpText wInp" /> 
+     
+            </div>
+            <div class="dCornRow">
+              <div class="dCornSm cBleft"><!-- --></div>
+              <div class="dCornSm cBright"><!-- --></div>
+            </div>
+            <div class="errorLabel" >Неверный код консультанта</div>
+      </div>
+    <!-- /input code -->
+       <input type="submit" name="unregUser" id="unregUser" value="Вход" class="btnEnter btnUp" />
+       <input type ="hidden" name="mapCountryCode" class="hidMapCountryCode"  value="" />
+       <input type ="hidden" name="delivCountryCode" class="hidListCountryCode"  value="" />
+       <input type ="hidden" name="hidConsultantCode" />         
+</form>    <div>Я не помню код. &nbsp;<a href="#" class="aInfo">Помогите восстановить. </a></div>
+    <div>У меня никогда не было кода.&nbsp;<a href="#" class="aInfo">Как получить код?</a></div>
+    <div id ="errDivLeft" runat ="server" visible ="false"  style="color:Red"></div>
+<!-- error -->
+    <div class="dErrorDesc">
+      <span>Введите, пожалуйста, код. </span>
+    </div>
+<!-- /error -->
+<!-- info -->
+    <div class="dInfo">
+     Если Вы забыли свой код, Вам необходимо обратиться к своему консультанту или обратиться по тел: 
+     <ul class="uList" >
+      <li id="callPhone">+7 800 200 18 20 </li>
+     </ul>
+    </div>
+    <div class="dInfo"  >
+      Если у Вас нет кода, пожалуйста: 
+      <ul class="uList" >
+        <li id="callUs">Позвоните нам по телефону бесплатной линии: 8-800-200-18-20; </li>
+        <li>Напишите сообщение на следующий e-mail: support@vip-rus.com</li>
+      </ul>
+      Мы с удовольствием поможем Вам! 
+    </div>
+<!-- /info -->
+    </td>
+ 
+    <td class="tdPanel panOverlay">
+      <div class="f18px">Я зарегистрированный покупатель </div>
+      <div>Введите Ваши e-mail и пароль:  </div>
+<!-- input email -->
+<form action="/Start/LoginByPassword" method="post">        <div  id="divEmail" class="" > 
+            <div class="dCornRow" style="margin-top: 15px;">
+              <div class="dCornSm cTleft"><!-- --></div>
+              <div class="dCornSm cTright"><!-- --></div>
+            </div> 
+            <div class="dInpRow">
+              <input name="email" type="text" value="Электронная почта" class="inpText wInp" id="email" runat="server" />     
+            </div>
+            <div class="dCornRow">
+              <div class="dCornSm cBleft"><!-- --></div>
+              <div class="dCornSm cBright"><!-- --></div>
+            </div>
+            <div class="errorLabel" >Формат поля Email неверный</div>
+       </div>
+    <!-- /input email -->
+    <!-- input passw -->
+        <div class="" id="divPassword" >
+            <div class="dCornRow" style="margin-top: 21px;">
+              <div class="dCornSm cTleft"><!-- --></div>
+              <div class="dCornSm cTright"><!-- --></div>
+            </div>
+            <div class="dInpRow">       
+              <input name="textpassw"  type="text" value="пароль" class="inpText wInp"  id="textpassw"  runat="server"  />
+              <input name="passw" id="passw"  type="password"  class="inpText wInp" style="display: none;"  runat="server"  />   
+            </div>
+            <div class="dCornRow">
+              <div class="dCornSm cBleft"><!-- --></div>
+              <div class="dCornSm cBright"><!-- --></div>
+            </div>
+           <div class="errorLabel" >Поле пароль не заполнено или пароль неправильный</div>
+        </div>
+    <!-- /input passw -->
+    <!-- checkbox -->
+        <input type="hidden" name="mem" value="false" />
+        <div class="dChbox boxUnchk"><!-- --></div>
+        <div class="chLabel">запомнить меня </div>
+<!-- /checkbox-->  
+        <input type="submit" name="regUser" id="regUser" value="Вход" class="btnEnter btnUp" />
+        <input type ="hidden" name="mapCountryCode" class="hidMapCountryCode"  value="" />
+        <input type ="hidden" name="delivCountryCode" class="hidListCountryCode"  value="" />
+</form>    <div> 
+     <a href="/Settings/RestorePassword">Забыли пароль?</a>
+    
+    </div>
+    <div> 
+       <a href="/Settings/ChangeEmail">У меня изменился e-mail.</a>
+    </div>
+    <div id ="errDiv" runat ="server" visible ="false" style="color:Red" ></div>
+<!-- error -->
+    <div class="dErrorDesc">
+      <span>Введите, пожалуйста, e-mail и пароль. </span>
+    </div>
+<!-- /error -->
+    </td>
+  </tr>
+  </table>
+
+     <div class="dPageFooter" style="font-size:large">
+  <div style="font-size:14px" class="dCopy">© 2014 
+    <a href="http://www.vipgroup.net">Vision International People Group</a> 
+  </div>
+
+      <ul ID="StandardBottomMenu" class="uBottomMenu" runat="server" visible="false" style="font-size:14px">
+        <li><a href="/Shared/SalesRules?active=SalesRules" target="_blank">Правила продаж</a></li> 
+
+           <li><a href="../Delivery/DeliveryConditions" target = "_blank">Условия доставки</a></li> 
+
+               <li><a href="/Shared/Contacts?active=Contacts" target="_blank">Контакты</a></li> 
+            <li><a href="/Shared/Feedback?active=Feedback" target="_blank">Обратная связь</a></li>  
+      </ul>
+   
+
+
+   <div class="paySystems">
+    <div><a href="#" ><img src="/Content/img/sclogo_140x75.gif" width="140" height="75" alt="" onclick="javascript:window.open('http://www.mastercardbusiness.com/mcbiz/index.jsp?template=/orphans&amp;content=securecodepopup','Chargeback','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=550,height=380')" /></a></div>
+    <div><a href="#" ><img  src="/Content/img/vbv-100.gif" width="100" height="74" alt="" onclick="javascript:window.open('vbvhelp.html','Chargeback','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=450,height=400')" /></a></div>
+
+       <div style="padding-right:30px">
+          <a href="https://www.sofort.com"
+            target="_blank">            
+             <img  src="/Content/img/sofort175x75.png"width="175" height="75" alt="Sofort Banking" />
+          </a>
+    </div>   
+
+   </div>
+   <div style="clear: both"><!-- --></div>
+ 
+      </div>
+</div>
+
+
+
+
+
+        </section>
+    </div>
+</body>
+</html>

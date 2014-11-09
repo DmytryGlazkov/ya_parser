@@ -1,0 +1,546 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru" dir="ltr id="nojs">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Корпоративный интернет-магазин Gnetwork Shop RSS" href="http://shop.gnetwork.biz/rss.xml" />
+<link rel="shortcut icon" href="/sites/all/themes/gnetwork/favicon.ico" type="image/x-icon" />
+		<title>Корпоративный интернет-магазин Gnetwork Shop</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+		<meta name="description" content="" />
+		<link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/gnetwork/favicon.ico" />
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/cck/theme/content-module.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/date/date.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/date/date_popup/themes/datepicker.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/date/date_popup/themes/jquery.timeentry.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/fckeditor/fckeditor.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/filefield/filefield.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/fivestar/css/fivestar.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/fivestar/intway/intway.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/ubercart/uc_file/uc_file.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/ubercart/uc_order/uc_order.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/ubercart/uc_product/uc_product.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/ubercart/uc_store/uc_store.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal.org/views/css/views.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/uc/uc_product_minmax/uc_product_minmax.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/comment/comment.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gnetwork/css/garland.css?D" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gnetwork/css/style.css?D" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/all/themes/gnetwork/css/print.css?D" />
+        <!--[if lte IE 7]><link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gnetwork/fix-ie.css" /><![endif]-->
+		<script type="text/javascript">document.documentElement.id = "js";</script>
+        <script type="text/javascript">
+            _shcp = [];
+            _shcp.push({widget_id : 489498, widget : "Chat", side : "bottom", position : "right", template : "red", title : "Help ONline", title_offline : "Help OFFline", devisions : "all", track : 1 });
+            (function() { var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true; hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://widget.siteheart.com/apps/js/sh.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hcc, s.nextSibling); })();
+        </script>
+        <script type="text/javascript" src="/misc/jquery.js?D"></script>
+<script type="text/javascript" src="/misc/drupal.js?D"></script>
+<script type="text/javascript" src="/sites/default/files/languages/ru_f23706c17a053525823adb2ca049a812.js?D"></script>
+<script type="text/javascript" src="/sites/all/modules/drupal.org/fivestar/js/fivestar.js?D"></script>
+<script type="text/javascript" src="/sites/all/modules/drupal.org/ubercart/uc_file/uc_file.js?D"></script>
+<script type="text/javascript" src="/sites/all/modules/uc/uc_multi_coupon/uc_multi_coupon.js?D"></script>
+<script type="text/javascript" src="/sites/all/themes/gnetwork/js/jquery-1.6.2.min.js?D"></script>
+<script type="text/javascript" src="/sites/all/themes/gnetwork/js/script.js?D"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Ваша оценка: ", "titleAverage": "Средняя: ", "feedbackSavingVote": "Сохраняем Ваш голос...", "feedbackVoteSaved": "Ваш голос учтён", "feedbackDeletingVote": "Удаляем Ваш голос...", "feedbackVoteDeleted": "Ваш голос удалён" }, "ucmURL": { "applyCoupon": "/cart/checkout/couponMulti", "getNewElement": "/ucCouponMulti/checkout/js" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function SubForm(name){document.forms[name].submit();}
+var init = false;
+var curLayer;
+var curName;
+var curLink;
+function switchTo(layer){
+  if(init && curLayer){
+      curLayer.style.display = 'none';
+      curLink.style.display = '';
+      curName.style.display = 'none';
+  }
+  curLayer = document.getElementById(layer);
+  curLink = document.getElementById(layer + '-link');
+  curName = document.getElementById(layer + '-name');
+  if (curLayer){
+      curLayer.style.display = '';
+      curLink.style.display = 'none';
+      curName.style.display = '';
+  }
+  init = true;
+}
+//--><!]]>
+</script>		<!--[if lte IE 8]><script type="text/javascript" src="/sites/all/themes/gnetwork/js/PIE.js"></script><![endif]-->
+		<!--[if IE 6]>
+			<script type="text/javascript" src="/sites/all/themes/gnetwork/js/DD_belatedPNG.min.js"></script>
+			<script type="text/javascript">DD_belatedPNG.fix('.js-png');</script>
+		<![endif]-->
+		<script type="text/javascript" src="/sites/all/themes/gnetwork/js/ga.js"></script>
+	</head>
+    <body class="sidebar-left">
+		<div class="layout-page">
+
+			<div class="layout-page-bg-grey-all"></div>
+			<div class="layout-page-bg-column-bottom"><div></div></div>
+			<div class="layout-page-bg-lines"></div>
+			<div class="layout-page-bg-column-top"></div>
+
+			<div class="layout-page-inner">
+				<div id="slider-region" class="block-panel block-panel_type_1 clear-block">
+					<div class="header js-pie"><div class="wrap"><span class="title"></span><span class="button"></span></div></div>
+					<div class="content">
+						<div class="inner">
+                                                        <!--
+							<table>
+								<tr>
+									<td>
+										<p class="title">Корпоративные сервисы</p>
+										<ul class="list">
+											<li><a href="#">mikhail.inspaceshop.com</a></li>
+											<li><a href="#">mikhail.inetworkspace.biz</a></li>
+											<li><a href="#">passport.inetworkspace.com</a></li>
+											<li><a href="#">log.inetworkspace.biz/pub/</a></li>
+											<li><a href="#">mikhail.inetworkspace.com</a></li>
+											<li><a href="#">inspaceweb.com</a></li>
+											<li><a href="#">blog.inetworkspace.com</a></li>
+										</ul>
+									</td>
+									<td>
+										<p class="title">Биржевые сервисы</p>
+										<ul class="list">
+											<li><a href="#">tradingaccess.com</a></li>
+											<li><a href="#">office.tradingaccess.com</a></li>
+										</ul>
+									</td>
+									<td>
+										<p class="title">Интернет-маркетинг</p>
+										<ul class="list">
+											<li><a href="#">www.inspaceworld.com</a></li>
+											<li><a href="#">mikhail.inspaceresponder.info</a></li>
+											<li><a href="#">inspacemail.com</a></li>
+										</ul>
+									</td>
+									<td>
+										<p class="title">Публичные сервисы</p>
+										<ul class="list">
+											<li><a href="#">mikhail.inspaceblog.net</a></li>
+											<li><a href="#">inspacewebconf.com</a></li>
+										</ul>
+									</td>
+									<td>
+										<p class="title">Другие сервисы</p>
+										<ul class="list">
+											<li><a href="#">inspaceacademy.com</a></li>
+											<li><a href="#">inspaceclub.net</a></li>
+											<li><a href="#">inspacecareer.com</a></li>
+											<li><a href="#">inspaceblago.com</a></li>
+										</ul>
+									</td>
+									<td>
+										<p class="title">Поддержка</p>
+										<ul class="list">
+											<li><a href="#">inspacesupport.com</a></li>
+										</ul>
+									</td>
+								</tr>
+							</table>
+                            -->
+						</div>
+					</div>
+				</div><!--/.block-panel-->
+                
+				<div id="header-region" class="block-header">
+					<!--<p class="logo"><a href="/"><img class="js-png" src="/sites/all/themes/gnetwork/logo.png" width="215" height="61" alt="Корпоративный интернет-магазин Gnetwork Shop" /></a></p>-->
+                    <div id="flashContent">
+                                            </div>
+                    					<ul class="nav">
+						<!--<li><a href="http://biz.gnetwork.biz">Войти</a></li>-->
+						<!--<li><a href="/passport/register">Регистрация</a></li>-->
+                        <li><a href="/cart">Корзина</a></li>
+                        <li><a href="/payment-methods">Оплата</a></li>
+                        <li><a href="/shipment-methods">Доставка</a></li>
+						<li><a href="/help">Помощь</a></li>
+						<li><a href="/contacts">Контакты</a></li>
+					</ul>
+					<form class="search" method="get" action="">
+						<fieldset>
+							<input type="text" name="q" value="Найти:" onblur="if (this.value == '') {this.value = 'Найти:'}" onfocus="if (this.value == 'Найти:') {this.value = ''}" />
+							<input type="image" src="/sites/all/themes/gnetwork/i/icon-zoom.png" />
+						</fieldset>
+					</form>
+				</div><!--/.block-header-->
+
+<!--                
+            <div class="block block-theme"><form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Поиск на сайте: </label>
+<input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Введите ключевые слова для поиска." class="form-text" /> </div>
+<input type="submit" name="op" id="edit-submit" value="Поиск"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-8b5a03d63a0b329d65ac1b78011d3631" value="form-8b5a03d63a0b329d65ac1b78011d3631"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>                                                                                                <a href="http://shop.gnetwork.biz/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="RSS-материал" title="Корпоративный интернет-магазин Gnetwork Shop RSS" width="16" height="16" /></a>            <div id="footer"></div>
+-->
+				<div class="layout-container">
+					<div class="layout-content">
+                        <div class="shopping_cart">
+                            <div class="shopping_cart_right_bg_top"></div>
+                            <div class="shp_crt_top"><a href="/cart">Корзина</a></div>
+                            <!--<div id="shopping_cart_button"></div>-->
+                            <div class="shp_center">
+                                <div class="shopping_cart_right_bg"></div>
+                                <ul>
+                                                                        <p class="cart-empty-msg">Корзина пуста</p>
+                                                                    </ul>
+                                <div class="shopping_cart_bottom_bg"></div>
+                            </div>
+                        </div>
+                        <div id="block-block-2" class="clear-block block block-block">
+  <div class="content"><h1>Добро пожаловать в интернет-магазин Gnetwork!</h1>
+<p>Прежде чем приступить к заказу товаров, задайте валюту, в которой будете оплачивать покупки.<br />
+<a href="/payment-methods">Подробнее о способах оплаты</a></p>
+</div>
+</div>                        <div class="shop_message_bg">
+                            <div id="block-block-3" class="clear-block block block-block">
+  <div class="content"><p>В целях предотвращения поступления денежных средств за оплаченные заказы на закрытые (недействующие) счета, убедительно просим вас производить перечисление денежных средств по тем реквизитам, которые будут для вас сформированы во время оформления заказа. В противном случае<br/><span class="msg_red">ЗАКАЗЫ НЕ СМОГУТ БЫТЬ АКТИВИРОВАНЫ!</span></br/></p>
+</div>
+</div>                            <!--<div class="msg_buttons"> <div style="float: left;"> <input type="checkbox" name=""> НЕ ПОКАЗЫВАТЬ БОЛЬШЕ</div><div class="msg_close"></div></div>-->
+                        </div>
+                        
+                        <div class="g-content">
+                                                            <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/gmatrix/gn-render"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/gn-render.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="108" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-441">
+<div><input type="hidden" name="qty" id="edit-qty" value="1"  />
+<input type="submit" name="op" id="edit-submit-441" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-fde27566d75c892500f3a227ffc0cf58" value="form-fde27566d75c892500f3a227ffc0cf58"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-441" value="uc_product_add_to_cart_form_441"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-441");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/gmatrix/gn-render">GN Render</a></p>
+                <div class='pricebtn'><strong>699.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/gnsoft/gem-up"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/gem-up.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="91" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-471">
+<div><input type="hidden" name="qty" id="edit-qty-1" value="1"  />
+<input type="submit" name="op" id="edit-submit-471" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-bcad6f094fc3f86c318d46fd885921ff" value="form-bcad6f094fc3f86c318d46fd885921ff"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-471" value="uc_product_add_to_cart_form_471"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-471");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/gnsoft/gem-up">GEM UP</a></p>
+                <div class='pricebtn'><strong>399.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/stream/gn-health-7"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/gn-pad-bio.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="93" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-470">
+<div><input type="hidden" name="qty" id="edit-qty-2" value="1"  />
+<input type="submit" name="op" id="edit-submit-470" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-ce4f92a73abe1f4ef3eb845ce0484d32" value="form-ce4f92a73abe1f4ef3eb845ce0484d32"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-470" value="uc_product_add_to_cart_form_470"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-470");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/stream/gn-health-7">BIO Planshet</a></p>
+                <div class='pricebtn'><strong>799.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/premium/premium-2000"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/premium-2000.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="102" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-460">
+<div><input type="hidden" name="qty" id="edit-qty-3" value="1"  />
+<input type="submit" name="op" id="edit-submit-460" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-2664d430d131d41d78f0032e5fb4c012" value="form-2664d430d131d41d78f0032e5fb4c012"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-460" value="uc_product_add_to_cart_form_460"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-460");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/premium/premium-2000">Premium-2000</a></p>
+                <div class='pricebtn'><strong>2000.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/premium/premium-1000"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/premium-1000.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="102" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-459">
+<div><input type="hidden" name="qty" id="edit-qty-4" value="1"  />
+<input type="submit" name="op" id="edit-submit-459" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-cf1dace609919416259e6ec9addf41c6" value="form-cf1dace609919416259e6ec9addf41c6"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-459" value="uc_product_add_to_cart_form_459"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-459");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/premium/premium-1000">Premium-1000</a></p>
+                <div class='pricebtn'><strong>1000.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/premium/premium-pro"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/premium-pro.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="102" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-458">
+<div><input type="hidden" name="qty" id="edit-qty-5" value="1"  />
+<input type="submit" name="op" id="edit-submit-458" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-bf202ad94937d03495dd50573f0e6ee7" value="form-bf202ad94937d03495dd50573f0e6ee7"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-458" value="uc_product_add_to_cart_form_458"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-458");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/premium/premium-pro">Premium Pro</a></p>
+                <div class='pricebtn'><strong>3000.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/stream/gn-health-5"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/gn-health-5.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="108" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-439">
+<div><input type="hidden" name="qty" id="edit-qty-6" value="1"  />
+<input type="submit" name="op" id="edit-submit-439" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-0769d892a47fce961c2e56e6901a9430" value="form-0769d892a47fce961c2e56e6901a9430"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-439" value="uc_product_add_to_cart_form_439"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-439");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/stream/gn-health-5">BIO Smartphone</a></p>
+                <div class='pricebtn'><strong>799.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/gmatrix/gn-health-4"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/gn-health-4.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="108" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-437">
+<div><input type="hidden" name="qty" id="edit-qty-7" value="1"  />
+<input type="submit" name="op" id="edit-submit-437" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-d8f00224f453d7bb12052511a15be315" value="form-d8f00224f453d7bb12052511a15be315"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-437" value="uc_product_add_to_cart_form_437"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-437");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/gmatrix/gn-health-4">GN Health 4</a></p>
+                <div class='pricebtn'><strong>799.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/gmatrix/gn-health-duo"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/GN-Health-Duo.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="108" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart" title="Нажмите для добавления в корзину"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-kit-add-to-cart-form-410">
+<div><input type="hidden" name="products[409][nid]" id="edit-products-409-nid" value="409"  />
+<input type="hidden" name="products[409][qty]" id="edit-products-409-qty" value="1"  />
+<input type="hidden" name="products[408][nid]" id="edit-products-408-nid" value="408"  />
+<input type="hidden" name="products[408][qty]" id="edit-products-408-qty" value="1"  />
+<input type="hidden" name="qty" id="edit-qty-8" value="1"  />
+<input type="submit" name="op" id="edit-submit-410" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-e74180ed40a7b8ba95187e30d3f56b0a" value="form-e74180ed40a7b8ba95187e30d3f56b0a"  />
+<input type="hidden" name="form_id" id="edit-uc-product-kit-add-to-cart-form-410" value="uc_product_kit_add_to_cart_form_410"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-kit-add-to-cart-form-410");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>  <div class="description"><div class="fivestar-summary fivestar-summary-user"><span class="user-rating">Ваша оценка: <span>Пусто</span></span></div></div>
+</div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/gmatrix/gn-health-duo">GN Health Duo</a></p>
+                <div class='pricebtn'><strong>1198.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/gmatrix/ghealth-3"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/gnhealth3.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="108" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-409">
+<div><input type="hidden" name="qty" id="edit-qty-9" value="1"  />
+<input type="submit" name="op" id="edit-submit-409" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-eb8efc6d4df98ae7f58edb7a5c07833b" value="form-eb8efc6d4df98ae7f58edb7a5c07833b"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-409" value="uc_product_add_to_cart_form_409"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-409");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/gmatrix/ghealth-3">GN Health 3</a></p>
+                <div class='pricebtn'><strong>649.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/gmatrix/ghealth-2"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/L-flash-400.png" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="108" height="120" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-408">
+<div><input type="hidden" name="qty" id="edit-qty-10" value="1"  />
+<input type="submit" name="op" id="edit-submit-408" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-ef77b6eea45f1e2899716a29ffe9a45b" value="form-ef77b6eea45f1e2899716a29ffe9a45b"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-408" value="uc_product_add_to_cart_form_408"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-408");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/gmatrix/ghealth-2">GN Health 2</a></p>
+                <div class='pricebtn'><strong>599.<sup>00</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+    <div class="catalog-item js-pie">
+        <div class="wrap">
+            <p class="image"><a href="/catalog/bs/bs-12-months"><!--<span class="new"></span>--><img src="http://shop.gnetwork.biz/sites/default/files/imagecache/120x120_Product_teaser/business-sup_1.gif" alt="" title=""  class="imagecache imagecache-120x120_Product_teaser imagecache-default imagecache-120x120_Product_teaser_default" width="120" height="103" /></a></p>
+            <div class="info">
+                <div class="buttons">
+                    <div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-362">
+<div><input type="hidden" name="qty" id="edit-qty-11" value="1"  />
+<input type="submit" name="op" id="edit-submit-362" value="Добавить в корзину"  class="form-submit node-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-8200e76e306b41d49abb487708a5a62f" value="form-8200e76e306b41d49abb487708a5a62f"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-362" value="uc_product_add_to_cart_form_362"  />
+
+</div></form>
+</div><a href='javascript:SubForm("uc-product-add-to-cart-form-362");' title='Добавить в корзину'><img class='buy' alt='' src='/sites/all/themes/gnetwork/images/button_buy.png'></a>                    <!--<div class="fivestar-static-form-item"><div class="form-item">
+<div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div> </div>
+</div>-->
+                    <!---->
+                </div>
+                <p class="title"><a href="/catalog/bs/bs-12-months">Business Support (12 месяцев)</a></p>
+                <div class='pricebtn'><span class="old-price">119.<sup>88</sup> <sup>USD</sup></span>&nbsp;<strong class='important'>99.<sup>99</sup> <sup>USD</sup></strong></div>            </div>
+        </div>
+    </div>
+                        </div>
+					</div>
+					<div class="layout-sidebar" id="left-region">
+                        <div id="block-intway_passport-0" class="clear-block block block-intway_passport">
+  <div class="content"><table class="user-info-block valign"><tr><td><p class="user-info-link"><a href="/passport/login">Войти</a></p><p class="user-info-link"><a href="/passport/register">Зарегистрироваться</a></p></td></tr></table></div>
+</div><div id="block-taxonomy_blocks-4-0" class="clear-block block block-taxonomy_blocks">
+  <h1>Каталог</h1>
+  <div class="content"><ul><li class='expanded'><a href="/taxonomy/term/36/sort%3D">Premium</a></li><li class='expanded'><a href="/taxonomy/term/20/sort%3D">GN HEALTH</a><ul><li class='leaf'><a href="/taxonomy/term/21/sort%3D">Бизнес-паки</a></li><li class='leaf'><a href="/taxonomy/term/30/sort%3D">ПИН-коды для Web-клиники</a></li><li class='leaf'><a href="/taxonomy/term/27/sort%3D">Разное</a></li></ul></li><li class='expanded'><a href="/taxonomy/term/76/sort%3D">GN SOFT</a></li><li class='expanded'><a href="/taxonomy/term/100/sort%3D">GN COMMUNITY</a><ul><li class='leaf'><a href="/taxonomy/term/19/sort%3D">SIM-карты</a></li><li class='leaf'><a href="/taxonomy/term/44/sort%3D">ПИН-коды для GN Community</a></li></ul></li><li class='expanded'><a href="/taxonomy/term/69/sort%3D">Gkit/Business Support</a></li><li class='expanded'><a href="/taxonomy/term/42/sort%3D">Потоки</a></li><li class='expanded'><a href="/taxonomy/term/40/sort%3D">ПИН-коды</a><ul><li class='leaf'><a href="/taxonomy/term/61/sort%3D">Web-клиника</a></li><li class='leaf'><a href="/taxonomy/term/90/sort%3D">GN Community</a></li><li class='leaf'><a href="/taxonomy/term/23/sort%3D">Gnresponder</a></li><li class='leaf'><a href="/taxonomy/term/65/sort%3D">GN Sender и Конструктор сайтов</a></li></ul></li><li class='expanded'><a href="/taxonomy/term/18/sort%3D">Атрибутика</a><ul><li class='leaf'><a href="/taxonomy/term/22/sort%3D">Корпоративная атрибутика</a></li></ul></li><li class='expanded'><a href="/taxonomy/term/88/sort%3D">Разное</a><ul><li class='leaf'><a href="/taxonomy/term/60/sort%3D">Web Assist</a></li></ul></li><li class='expanded'><a href="/taxonomy/term/28/sort%3D">Почтовые услуги</a></li></ul></div>
+</div>                        <!--
+						<div class="block-navigation-sidebar">
+							<ul>
+								<li><a class="current" href="#">О Gnetwork</a>
+									<ul>
+										<li><a href="#">Gnetwork коротко</a></li>
+										<li><a href="#">Видение и Миссия</a></li>
+										<li><a class="current" href="#">Менеджмент</a></li>
+										<li><a href="#">Контакты</a></li>
+										<li><a href="#">Техническая поддержка</a></li>
+									</ul>
+								</li>
+								<li><a href="#">Новости</a></li>
+								<li><a href="#">Продукты и сервисы</a></li>
+								<li><a href="#">Бизнес возможности</a></li>
+								<li><a href="#">G-Club</a></li>
+								<li><a href="#">Социальные медиа</a></li>
+								<li><a href="#">Благотворительность</a></li>
+							</ul>
+						</div>
+						<div class="block-news-sidebar">
+							<div class="news">
+								<p><a href="#"><span>17 августа, 2011</span> <strong>Вывод средств и новые способы оплаты</strong></a></p>
+								<p><a href="#"><span>17 августа, 2011</span> <strong>Вывод средств и новые способы оплаты</strong></a></p>
+								<p><a href="#"><span>17 августа, 2011</span> <strong>Вывод средств и новые способы оплаты</strong></a></p>
+								<p><a href="#"><span>17 августа, 2011</span> <strong>Вывод средств и новые способы оплаты</strong></a></p>
+								<p><a href="#"><span>17 августа, 2011</span> <strong>Вывод средств и новые способы оплаты</strong></a></p>
+							</div>
+							<div class="bg"></div>
+							<div class="bottom">
+								<p class="rss"><a href="#"><img class="js-png" src="/sites/all/themes/gnetwork/i/icon-rss.png" width="15" height="15" alt="" />RSS</a></p>
+								<p class="archive"><a href="#">Архив новостей</a></p>
+							</div>
+						</div>
+                        -->
+					</div>
+				</div>
+
+			</div><!--/.layout-page-inner-->
+		</div><!--/.layout-page-->
+		<div class="layout-footer">
+			<div class="layout-footer-inner js-pie">
+				<div class="block-footer">
+					<p class="links">
+                        <a href="#">Все проекты Gnetwork</a>
+                        <span class="delim">|</span>
+                        <a href="/public-offer">Публичная оферта</a>
+                        <span class="delim">|</span>
+                        <a href="/return_of_goods">Положение о возврате товара</a>
+                        <span class="delim">|</span>
+                        <a href="/privacy-policy">Политика безопасности</a>
+                    </p>
+                    <p class="copyright">2014 © <a href="http://www.gn-biz.com/">www.gn-biz.com</a></p>
+                    <p class="logo">
+                                                <img src="/sites/default/files/pay_logos.png" width="106" height="27" alt="" />
+                    </p>
+				</div>
+			</div>
+		</div>
+    	</body>
+</html>

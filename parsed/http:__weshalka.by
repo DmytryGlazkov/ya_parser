@@ -1,0 +1,572 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Интернет магазин белорусской одежды - трикотаж в розницу</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="description" content="Интернет магазин белорусской одежды - трикотаж в розницу" />
+  <meta name="keywords" content="интернет магазин белорусской одежды белорусский трикотаж оптом розница почтой купить продажа красивая модная женская одежда платья юбки костюмы куртки туники большие размеры производитель фирма Брест 2013 Москва Екатеринбург Новосибирск Украина" />
+  <META NAME="subject" CONTENT="Интернет магазин. Оптовая и розничная продажа белорусской женской одежды и трикотажа">
+  <META NAME="copyright" CONTENT="weshalka.by Copyright 2012">
+  <base href="http://weshalka.by/" />
+  <link href="assets/templates/sk/style.css" rel="stylesheet" type="text/css" media="screen" />
+
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type="text/javascript">
+(function() { var widget_id = '15136';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss); })(); </script>
+<!-- {/literal} END JIVOSITE CODE -->
+<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?17"></script>
+<script type="text/javascript">VK.init({apiId: 3147858, onlyWidgets: true});</script>
+
+	<script type="text/javascript" src="http://weshalka.by/assets/snippets/shopkeeper/js/jquery-1.7.min.js"></script>
+
+	<script type="text/javascript">
+	<!--
+      var site_url = 'http://weshalka.by/';
+      var shkOptions = {
+         stuffCont: 'div.shk-item',
+         lang: 'russian-UTF8',
+         currency: '$',
+         orderFormPage: 'index.php?id=86',
+         cartTpl: ['shopCart','@FILE:chunk_shopCartRow.tpl',''],
+         priceTV: 'price',
+	 cartType: 'small',
+	 counterField: true,
+	 flyToCart: 'image'
+	};
+      jQuery(document).ready(function(){
+        jQuery(shkOptions.stuffCont).shopkeeper();
+      });
+	//-->
+	</script>
+    <script src="http://weshalka.by/assets/snippets/shopkeeper/lang/russian-UTF8.js" type="text/javascript"></script>
+    <script src="http://weshalka.by/assets/snippets/shopkeeper/js/jquery.livequery.js" type="text/javascript"></script>
+    <script src="http://weshalka.by/assets/snippets/shopkeeper/js/shopkeeper.js" type="text/javascript"></script>
+  
+</head>
+<body>
+<div id="main_container">
+<div class="top_header">
+<div class="login">
+    <script type="text/JavaScript">
+    <!--//--><![CDATA[//><!--
+        function getElementById(id){
+            var o, d=document;
+            if (d.layers) {o=d.layers[id];if(o) o.style=o};
+            if (!o && d.getElementById) o=d.getElementById(id);
+            if (!o && d.all) o = d.all[id];
+            return o;
+        }
+    
+        function webLoginShowForm(i){
+            var a = getElementById('WebLoginLayer0');
+            var b = getElementById('WebLoginLayer2');
+            if(i==1 && a && b) {
+                a.style.display="block";
+                b.style.display="none";
+                document.forms['loginreminder'].txtpwdrem.value = 0;
+            }
+            else if(i==2 && a && b) {
+                a.style.display="none";
+                b.style.display="block";    
+                document.forms['loginreminder'].txtpwdrem.value = 1;
+            }
+        };        
+        function webLoginCheckRemember () {
+            if(document.loginfrm.rememberme.value==1) {
+                document.loginfrm.rememberme.value=0;    
+            } else {
+                document.loginfrm.rememberme.value=1;
+            }
+        }
+        function webLoginEnter(nextfield,event) {
+            if(event && event.keyCode == 13) {
+                if(nextfield.name=='cmdweblogin') {
+                    document.loginfrm.submit();
+                    return false; 
+                }
+                else {
+                    nextfield.focus();
+                    return false; 
+                }
+            } else {
+                return true;
+            }
+        }
+    //--><!]]>
+    </script>
+    <div id='WebLoginLayer0' style='position:relative'> 
+<!-- login form section-->
+<noindex>
+<form style="margin: 0px; padding: 0px;" action="/index.php?id=13" method="post">
+<input name="rememberme" type="hidden" value="0" /> 
+<table style="margin-left: auto; margin-right: auto;" border="0" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<td><strong>Логин:</strong></td>
+<td><input style="width: 150px;" onkeypress="return webLoginEnter(document.loginfrm.password);" name="username" size="8" type="text" value="" /></td>
+<td><strong>Пароль:</strong></td>
+<td><input style="width: 150px;" onkeypress="return webLoginEnter(document.loginfrm.cmdweblogin);" name="password" type="password" /></td>
+<td><input name="cmdweblogin" type="submit" value="Войти" /></td>
+<td>
+<ul>
+<li><a onclick="webLoginShowForm(2);return false;" href="#">Забыли пароль?</a></li>
+<li><a href="index.php?id=69">Регистрация</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</noindex>
+</div><div id='WebLoginLayer2' style='position:relative;display:none'>
+<!-- Password reminder form section -->
+<noindex>
+<form name="loginreminder" style="margin: 0px; padding: 0px;" action="/index.php?id=13" method="post">
+<input name="txtpwdrem" type="hidden" value="0" />
+<table style="margin-left: auto; margin-right: auto;" border="0" cellpadding="3">
+<tbody>
+<tr>
+<td style="text-align: center;">Введите свой электронный адрес, указанный при регистрации и через несколько минут Вы получите письмо с паролем.</td>
+<td><input name="txtwebemail" size="24" type="text" /></td>
+<td><input name="cmdweblogin" type="submit" value="Отправить" /></td>
+<td><input onclick="webLoginShowForm(1);" name="cmdcancel" type="reset" value="Отмена" /></td>
+</tr>
+</tbody>
+</table>
+</form>
+</noindex></div>    <script type="text/javascript">
+        if (document.loginfrm) document.loginfrm.username.focus();
+    </script>
+    
+</div>
+</div>
+
+<div align="right" class="top_menu_cart">
+<div id="shopCart" align="right" class="top-shop-cart">
+  <span class="cart-img"></span>
+  <table><tbody>
+   <tr>
+    <td rowspan="2" style="width:10%;padding-right: 5px;"><span class="top-shop-cart-head">Корзина</span></td><td style="text-align: left;"><span id="cartInner" class="empty"></span><span id="topCartEmpty">[ 0 шт. ]</span></td>
+   </tr>
+   <tr>
+     <td> - </td>
+   </tr>
+  </tbody></table>
+  
+</div>
+
+</div>
+
+<div id="menu_tab">
+
+<span class="preload1"></span>
+<span class="preload2"></span>
+ <ul id="nav" class="menu">
+<li class="top"><a href="http://weshalka.by/" class="top_link"><span>Интернет магазин</span></a></li>
+<li class="top"><a href="/index.php?id=14" class="top_link"><span>Каталог</span></a></li>
+<li class="top"><a href="/index.php?id=22" class="top_link"><span>О компании</span></a></li>
+<li class="top"><a href="/index.php?id=23" class="top_link"><span>Доставка / Оплата</span></a></li>
+<li class="top"><a href="/index.php?id=25" class="top_link"><span>Оптовикам</span></a></li>
+<li class="top"><a href="/index.php?id=26" class="top_link"><span>Контакты</span></a></li>
+
+</ul>
+
+</div>
+
+<div class="left_content">
+
+<div class="side_block">
+<div class="side_block_header"><h2>Каталог одежды</h2></div>
+<ul id="vert_menu">
+<li><a href="/index.php?id=33"><span>Блузки</span></a></li>
+<li><a href="/index.php?id=38"><span>Брюки</span></a></li>
+<li><a href="/index.php?id=251"><span>Детская одежда</span></a></li>
+<li><a href="/index.php?id=123"><span>Жакеты</span></a></li>
+<li><a href="/index.php?id=304"><span>Жилеты</span></a></li>
+<li><a href="/index.php?id=31"><span>Костюмы</span></a></li>
+<li><a href="/index.php?id=36"><span>Куртки</span></a></li>
+<li><a href="/index.php?id=34"><span>Пальто</span></a></li>
+<li><a href="/index.php?id=32"><span>Платья</span></a></li>
+<li><a href="/index.php?id=35"><span>Плащи</span></a></li>
+<li><a href="/index.php?id=41"><span>Разное</span></a></li>
+<li><a href="/index.php?id=39"><span>Свитеры</span></a></li>
+<li><a href="/index.php?id=40"><span>Туники</span></a></li>
+<li><a class="last" href="/index.php?id=37"><span>Юбки</span></a></li>
+
+<li><a href="index.php?id=9539"><span>Распродажа</span></a></li>
+</ul>
+</div>
+
+<div class="side_block">
+<div class="side_block_header"><h2>Производители</h2></div>
+<ul id="vert_menu">
+<li><a href="/index.php?id=20029"><span>AIRA STYLE</span></a></li>
+<li><a href="/index.php?id=4814"><span>ALLEN DE LUX</span></a></li>
+<li><a href="/index.php?id=22178"><span>Anastasia</span></a></li>
+<li><a href="/index.php?id=995"><span>ANDREA STYLE</span></a></li>
+<li><a href="/index.php?id=14216"><span>ASPO</span></a></li>
+<li><a href="/index.php?id=60"><span>AXXA</span></a></li>
+<li><a href="/index.php?id=1606"><span>BALUNOVA</span></a></li>
+<li><a href="/index.php?id=20598"><span>BEAUTY</span></a></li>
+<li><a href="/index.php?id=1287"><span>BURVIN</span></a></li>
+<li><a href="/index.php?id=16476"><span>CONDRA DELUXE</span></a></li>
+<li><a href="/index.php?id=14920"><span>DEVITA</span></a></li>
+<li><a href="/index.php?id=707"><span>DJERZA</span></a></li>
+<li><a href="/index.php?id=1763"><span>EDELWEISS</span></a></li>
+<li><a href="/index.php?id=5574"><span>ELZA</span></a></li>
+<li><a href="/index.php?id=866"><span>EOLA STYLE</span></a></li>
+<li><a href="/index.php?id=2872"><span>FASHION LUX</span></a></li>
+<li><a href="/index.php?id=1887"><span>FAUFILURE</span></a></li>
+<li><a href="/index.php?id=1254"><span>FAVORINI</span></a></li>
+<li><a href="/index.php?id=335"><span>IVELTA PLUS</span></a></li>
+<li><a href="/index.php?id=1727"><span>JeRusi</span></a></li>
+<li><a href="/index.php?id=2349"><span>JUANTA</span></a></li>
+<li><a href="/index.php?id=636"><span>KIARA</span></a></li>
+<li><a href="/index.php?id=3444"><span>LADY LINE</span></a></li>
+<li><a href="/index.php?id=1358"><span>LADY SECRET</span></a></li>
+<li><a href="/index.php?id=1011"><span>LAKBI</span></a></li>
+<li><a href="/index.php?id=16552"><span>LaKona</span></a></li>
+<li><a href="/index.php?id=18862"><span>LEA LEA</span></a></li>
+<li><a href="/index.php?id=1628"><span>LISSANA</span></a></li>
+<li><a href="/index.php?id=881"><span>MATINI</span></a></li>
+<li><a href="/index.php?id=1414"><span>MILANA</span></a></li>
+<li><a href="/index.php?id=1171"><span>MIRA FASHION</span></a></li>
+<li><a href="/index.php?id=168"><span>MIRA SHIC</span></a></li>
+<li><a href="/index.php?id=3501"><span>NADIN-N</span></a></li>
+<li><a href="/index.php?id=70"><span>NELVA</span></a></li>
+<li><a href="/index.php?id=1449"><span>NICOLE&NICOLE</span></a></li>
+<li><a href="/index.php?id=456"><span>NIKA</span></a></li>
+<li><a href="/index.php?id=320"><span>NOCHE MIO</span></a></li>
+<li><a href="/index.php?id=701"><span>NOVA LINE</span></a></li>
+<li><a href="/index.php?id=5653"><span>OLEGRAN</span></a></li>
+<li><a href="/index.php?id=366"><span>PANDA</span></a></li>
+<li><a href="/index.php?id=766"><span>PRESTIGE</span></a></li>
+<li><a href="/index.php?id=22006"><span>Pretty</span></a></li>
+<li><a href="/index.php?id=3150"><span>PRIO</span></a></li>
+<li><a href="/index.php?id=17231"><span>RUNELLA</span></a></li>
+<li><a href="/index.php?id=13745"><span>VELONA</span></a></li>
+<li><a href="/index.php?id=524"><span>VESNALETTO</span></a></li>
+<li><a href="/index.php?id=16650"><span>VLADINI</span></a></li>
+<li><a href="/index.php?id=21129"><span>ИВА</span></a></li>
+<li><a href="/index.php?id=487"><span>КСЕНИЯ СТИЛЬ</span></a></li>
+<li><a href="/index.php?id=14742"><span>ЛадисЛайн</span></a></li>
+<li><a href="/index.php?id=2431"><span>ЛИЛИАНА</span></a></li>
+<li><a href="/index.php?id=913"><span>ЛИНИЯ Л</span></a></li>
+<li><a href="/index.php?id=21285"><span>ЛЮШе</span></a></li>
+<li><a href="/index.php?id=536"><span>МАГИЯ МОДЫ</span></a></li>
+<li><a href="/index.php?id=4680"><span>НОВЕЛЛА ШАРМ</span></a></li>
+<li><a href="/index.php?id=429"><span>ОРХИДЕЯ</span></a></li>
+<li><a href="/index.php?id=186"><span>ФАНТАЗИЯ МОД</span></a></li>
+<li><a href="/index.php?id=2649"><span>ЭЛТРИГА</span></a></li>
+<li><a class="last" href="/index.php?id=3589"><span>Юрс</span></a></li>
+
+</ul>
+</div>
+
+</div>
+
+<div class="center_content">
+<div align="center"><script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<table>
+<tbody>
+<tr>
+<td><div class="yashare-auto-init" data-yashareType="button" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,gplus"></div></td>
+<td style="width:20%;"><div class="vklike"><div id="vk_like"></div><script type="text/javascript">VK.Widgets.Like("vk_like", {type: "button"});</script></div></td>
+</tr>
+</tbody>
+</table></div>
+<div class="side_block">
+<div class="side_block_header"><h1>Интернет магазин белорусской одежды. Брест / Беларусь.</h1></div>
+  <div class="news-block">
+   <img style="float:left;width:137px;border: 1px solid black;margin: 3px;" src="assets/images/site/main.jpg" alt="Главное фото интернет магазина белорусской одежды"/>
+    <p style="text-align:center;">22.08.2014</p>
+    <p style="text-align:justify;color:blue">Воспользуйтесь новым, более дешевым видом доставки <a href="index.php?id=23">АВИАПОЧТОЙ</a>!</p>
+    <p style="text-align:center;">07.08.2014</p>
+    <p style="text-align:justify;">Интернет магазин weshalka.by постоянно обновляет свой ассортимент. Появилось большое количество новых моделей от известных производителей, грядущий сезон отмечен прекрасными осенними коллекциями, а также моделями для полных женщин. Спешите приобрести их у нас!</p>
+    <p style="text-align:center;">25.03.2014</p>
+    <p style="text-align:center;">Уважаемые ценители белорусской моды!</p>
+    <p style="text-align:justify;">Каждый день каталог интернет магазина интенсивно обновляется весенне-летними коллекциями ведущих белорусских швейных фабрик! Нарядные платья и женские костюмы! Лето 2014 приближается, приобретайте уже сейчас то, что будет в моде совсем скоро!</p>
+    <p style="text-align:center;">28.10.2013</p>
+    <p style="text-align:justify;">Брестские производители женской одежды без устали трудятся над обновлениями своих модельных рядов, а интернет магазин белорусской одежды weshalka.by старается побыстрее представить их нашим дорогим покупателям. Сезон осень-зима 2013/2014 в самом разгаре, а впереди всех ожидают новые коллекции, посвященные близящемуся Новому году. Время приготовиться к нему вместе с нами, ведь красивые нарядные платья по-особенному украсят наших милых женщин в это праздничное время.</p>
+  </div>
+</div>
+<div class="side_block">
+<div class="side_block_header"><h2>Белорусский трикотаж: новинки</h2></div>
+<div class="item_box_main">
+<center>
+<table border="0" cellpadding="0" cellspacing="0">
+ <tbody>
+  <tr>
+   <td>
+     <center>
+     <a href="index.php?id=23072">
+       <img src="http://weshalka.by/assets/cache/phpthumbof/assets_images_NOVA_LINE_5342.jpg.6cfcf7da1c6e735c548eab90e0be1435.jpeg" src2="assets/images/NOVA_LINE/5342.jpg" alt="Фото одежды - 5342" />
+     </a>
+    </center>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <div class="item_info">
+       <noindex>
+        <b>Модель: <a href="index.php?id=23072">5342</a></b><br>
+        <b>Производитель: </b>«<a href="index.php?id=701">NOVA LINE</a>»<br>
+        <b>Размеры: </b> 42-48<br>
+       </noindex>
+      </div>
+      <div class="item_price">
+	<font style="font-size:16px;"><span class="curr-price">88</span></font>
+      </div>
+    </td>
+   </tr>
+ </tbody>
+</table>
+</center>
+</div><div class="item_box_main">
+<center>
+<table border="0" cellpadding="0" cellspacing="0">
+ <tbody>
+  <tr>
+   <td>
+     <center>
+     <a href="index.php?id=23071">
+       <img src="http://weshalka.by/assets/cache/phpthumbof/assets_images_NOVA_LINE_5341.jpg.6cfcf7da1c6e735c548eab90e0be1435.jpeg" src2="assets/images/NOVA_LINE/5341.jpg" alt="Фото одежды - 5341" />
+     </a>
+    </center>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <div class="item_info">
+       <noindex>
+        <b>Модель: <a href="index.php?id=23071">5341</a></b><br>
+        <b>Производитель: </b>«<a href="index.php?id=701">NOVA LINE</a>»<br>
+        <b>Размеры: </b> 44-48<br>
+       </noindex>
+      </div>
+      <div class="item_price">
+	<font style="font-size:16px;"><span class="curr-price">98</span></font>
+      </div>
+    </td>
+   </tr>
+ </tbody>
+</table>
+</center>
+</div><div class="item_box_main">
+<center>
+<table border="0" cellpadding="0" cellspacing="0">
+ <tbody>
+  <tr>
+   <td>
+     <center>
+     <a href="index.php?id=23070">
+       <img src="http://weshalka.by/assets/cache/phpthumbof/assets_images_NOVA_LINE_5339.jpg.6cfcf7da1c6e735c548eab90e0be1435.jpeg" src2="assets/images/NOVA_LINE/5339.jpg" alt="Фото одежды - 5339" />
+     </a>
+    </center>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <div class="item_info">
+       <noindex>
+        <b>Модель: <a href="index.php?id=23070">5339</a></b><br>
+        <b>Производитель: </b>«<a href="index.php?id=701">NOVA LINE</a>»<br>
+        <b>Размеры: </b> 44-50<br>
+       </noindex>
+      </div>
+      <div class="item_price">
+	<font style="font-size:16px;"><span class="curr-price">88</span></font>
+      </div>
+    </td>
+   </tr>
+ </tbody>
+</table>
+</center>
+</div><div class="item_box_main">
+<center>
+<table border="0" cellpadding="0" cellspacing="0">
+ <tbody>
+  <tr>
+   <td>
+     <center>
+     <a href="index.php?id=23069">
+       <img src="http://weshalka.by/assets/cache/phpthumbof/assets_images_NOVA_LINE_5338.jpg.6cfcf7da1c6e735c548eab90e0be1435.jpeg" src2="assets/images/NOVA_LINE/5338.jpg" alt="Фото одежды - 5338" />
+     </a>
+    </center>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <div class="item_info">
+       <noindex>
+        <b>Модель: <a href="index.php?id=23069">5338</a></b><br>
+        <b>Производитель: </b>«<a href="index.php?id=701">NOVA LINE</a>»<br>
+        <b>Размеры: </b> 44-50<br>
+       </noindex>
+      </div>
+      <div class="item_price">
+	<font style="font-size:16px;"><span class="curr-price">84</span></font>
+      </div>
+    </td>
+   </tr>
+ </tbody>
+</table>
+</center>
+</div>
+<br clear="all" />
+<div style="text-align:right;margin: 10px 10px 10px 10px;"><a href="index.php?id=14">Каталог</a></div>
+</div>
+<div class="side_block">
+<div class="side_block_header"><h3>Белорусский трикотаж в розницу</h3></div>
+ <p style="text-align:justify;margin: 1px 5px 1px 5px;">Ценителям белорусского трикотажа предоставляется хорошая возможность купить отличную белорусскую женскую и детскую одежду, заказав одну или несколько понравившихся моделей <b>розницей</b>. Лучшие экземпляры белорусского трикотажа доступны посредством интернета каждому, находясь в любой точке земного шара!</p>
+ <p style="text-align:justify;margin: 1px 5px 1px 5px;">Торговля белорусской одеждой <i>в розницу</i> осуществляется через "<a href="index.php?id=23">доставку почтой</a>".</p>
+
+</div>
+<div class="side_block">
+<div class="side_block_header"><h3>Одежда белорусских производителей</h3></div>
+ <p style="text-align: justify;margin: 1px 5px 1px 5px">Добро пожаловать в интернет магазин белорусской женской одежды. Приятно видеть Ваш интерес к качественному белорусскому трикотажу и мы сделаем всё, чтобы он оказался полностью удовлетворён. Этот проект создан с целью, чтобы любая женщина могла здесь найти то, что поможет ей выглядеть еще лучше и привлекательнее.</p>
+ <p style="text-align: justify;margin: 1px 5px 1px 5px">Удобный просмотр <a href="index.php?id=14">каталога</a>, отдельных моделей, расширенный поиск по размерам, категориям и производителю - значит, в нашем интернет магазине Вы легко подберете подходящую женскую одежду. Именно здесь можно приобрести самый новый <a href="index.php?id=25">белорусский трикотаж оптом</a> и в розницу по приемлемым ценам. Отличное качество, которым всегда славилась <b>белорусская женская одежда из Бреста</b>, доступно теперь каждому покупателю, независимо от того, где он проживает, а также места, откуда будет сделан заказ. Ведь мы позаботились о том, чтобы <b>белорусский трикотаж купить</b> было легко во всех городах России, Украины, Беларуси, Казахстана, других стран.</p>
+ <p style="text-align: justify;margin: 1px 5px 1px 5px"><b>Одежда белорусских производителей</b> уже давно покорила многие большие российские города, такие как Москва, Санкт Петербург, Екатеринбург, Новосибирск, Нижний Новгород, Самара, Омск, Казань, Уфа и др. Тамошние покупатели по достоинству оценили качество, доступные цены предлагаемых ими моделей и можно быть уверенным - народный выбор, проверенный временем, не подведет.</p>
+ <p style="text-align: justify;margin: 1px 5px 1px 5px"><b>Белорусская одежда больших размеров</b> (для полных женщин) не была обойдена стороной - это вполне востребованная продукция. Поэтому каталог содержит достаточное количество моделей для такой категории покупателей. Помимо всего прочего, конечно, многие покупательницы - замечательные мамы, заботящиеся о своих любимых детях. Раздел <a href="index.php?id=251">детский белорусский трикотаж</a> обязательно окажется популярен у желающих красиво одеваться самим и красиво одевать своих чад.</p>
+ <p style="text-align: justify;margin: 1px 5px 1px 5px">Большой выбор женских моделей, как правило, обязательное условие. Только тогда покупательница сможет удовлетворить свой утонченный вкус. Мы прекрасно понимаем и постоянно работаем над увеличением ассортимента магазина, привлечением новых производителей к сотрудничеству, обновлением модельных рядов уже существующих. Следовательно, посетя наш сайт некоторое время спустя, в интернет магазине обязательно найдется что-то новое в предлагаемой продукции. Посетитель сможет заказать белорусскую одежду сразу же после выпуска производителем, удивив окружающих тем, чего еще нету у остальных.</p>
+ <p style="text-align: justify;margin: 1px 5px 1px 5px"><b>Где купить белорусскую одежду</b>? Конечно там, где Вам легко задать вопрос, быстро получить ответ и, вообще, любую консультацию. Доступность получения информации нужна всем покупателям, при этом не важно, конечная цель - мелкая розница или крупная покупка оптом. Онлайн-консультант, расположенный в нижнем правом углу поможет быстро получить помощь, а также ответы на вопросы, возникшие по мере просмотра сайта. Просто кликайте по кнопке зеленого цвета и спрашивайте, оставляйте пожелания, отзывы - всё это будет также использовано в целях постоянно проводимого анализа работы интернет магазина, усовершенствования сервиса и улучшения качества обслуживания покупателей.</p>
+</div>
+</div>
+
+<div class="right_content">
+
+<noindex>
+<div class="side_block">
+ <div class="currency-block">
+ <b>Валюта: </b><select class="currency" style="width: 170px;" name="curr_select" onchange="jQuery.setCurrency(this);">
+ <option selected value="USD">Доллар США</option>
+ <option value="EUR">Евро</option>
+ <option value="RUR">Росс. рубль</option>
+ <option value="RURUSD">Росс. рубль / Доллар США</option>
+ <option value="BYR">Бел. рубль</option>
+ <option value="UAH">Гривна</option>
+ <option value="TEN">Тенге</option>
+ </select>
+ </div>
+</div>
+<script type="text/javascript">
+var rate = []; rate['USD'] = 1; rate['RUR'] = 48; rate['EUR'] = 0.78; rate['BYR'] = 10800; rate['UAH'] = 14.5; rate['TEN'] = 185;
+</script>
+</noindex>
+
+<noindex>
+<div class="side_block">
+<div class="search_box">
+<form action="index.php?id=93" method="post">
+<b>Модель: </b>
+<input class="search_input" type="text" size="13" name="searchc" onfocus="if (this.value=='Поиск') this.value='';" onblur="if (this.value==''){this.value='Поиск'}" />
+<input class="b_search" type="submit" value=" " name="searchb" onfocus="this.blur()" />
+</form>
+</div>
+</div>
+<div style="height:20px;"><center><a href="index.php?id=3111">Информация покупателям</a> | <a href="index.php?id=15071">Отзывы</a></center></div>
+</noindex>
+
+<div class="side_block">
+<div class="side_block_header">Расширенный поиск</div>
+<div class="search_box">
+<form action="index.php?id=93" method="post">
+<div class="search-size-block">
+<div class="side_block_header"><h3>Размеры:</h3></div>
+<noindex><div class="search-radio-block"><div style="float:left;width:70px;"><input type="radio" name="select_size" value="0" onclick="jQuery.setCheckboxes(&#039;size_ch&#039;,true);">Все</div><div><input type="radio" name="select_size" value="1" onclick="jQuery.setCheckboxes(&#039;size_ch&#039;,false);" checked="yes">Выбрать</div></div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__78__36" name="size__36">36</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__79__38" name="size__38">38</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__80__40" name="size__40">40</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__81__42" name="size__42">42</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__82__44" name="size__44">44</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__83__46" name="size__46">46</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__84__48" name="size__48">48</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__85__50" name="size__50">50</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__99__52" name="size__52">52</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__100__54" name="size__54">54</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__101__56" name="size__56">56</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__102__58" name="size__58">58</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__103__60" name="size__60">60</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__104__62" name="size__62">62</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__105__64" name="size__64">64</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__106__66" name="size__66">66</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__107__68" name="size__68">68</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__1560__70" name="size__70">70</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__13661__72" name="size__72">72</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__13662__74" name="size__74">74</div><div class="search-size-item"><input class="size_ch" type="checkbox" value="size__13663__76" name="size__76">76</div><br clear="all" /></noindex>
+</div>
+<div class="search-height-block">
+<div class="side_block_header"><h3>Рост:</h3></div>
+<noindex><div class="search-height-item"><input class="height_ch" type="checkbox" value="height__2385__164" name="height__164">164</div><div class="search-height-item"><input class="height_ch" type="checkbox" value="height__2386__170" name="height__170">170</div><br clear="all" /></noindex>
+</div>
+<div class="search-category-block">
+<div class="side_block_header"><h3>Типы одежды:</h3></div>
+<noindex><div class="search-radio-block"><div style="float:left;width:70px;"><input type="radio" name="select_category" value="0" onclick="jQuery.setCheckboxes(&#039;category_ch&#039;,true);">Все</div><div><input type="radio" name="select_category" value="1" onclick="jQuery.setCheckboxes(&#039;category_ch&#039;,false);" checked="yes">Выбрать</div></div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__33__Блузки" name="category__Блузки">Блузки</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__38__Брюки" name="category__Брюки">Брюки</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__251__Детская одежда" name="category__Детская одежда">Детская одежда</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__123__Жакеты" name="category__Жакеты">Жакеты</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__304__Жилеты" name="category__Жилеты">Жилеты</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__31__Костюмы" name="category__Костюмы">Костюмы</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__36__Куртки" name="category__Куртки">Куртки</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__34__Пальто" name="category__Пальто">Пальто</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__32__Платья" name="category__Платья">Платья</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__35__Плащи" name="category__Плащи">Плащи</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__41__Разное" name="category__Разное">Разное</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__39__Свитеры" name="category__Свитеры">Свитеры</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__40__Туники" name="category__Туники">Туники</div><div class="search-category-item"><input class="category_ch" type="checkbox" value="category__37__Юбки" name="category__Юбки">Юбки</div><br clear="all" /></noindex>
+</div>
+<div class="search-brand-block">
+<div class="side_block_header"><h3>Производители:</h3></div>
+<noindex><div class="search-radio-block"><div style="float:left;width:70px;"><input type="radio" name="select_brand" value="0" onclick="jQuery.setCheckboxes(&#039;brand_ch&#039;,true);">Все</div><div><input type="radio" name="select_brand" value="1" onclick="jQuery.setCheckboxes(&#039;brand_ch&#039;,false);" checked="yes">Выбрать</div></div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__20029__AIRA STYLE" name="brand__AIRA STYLE">AIRA STYLE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__4814__ALLEN DE LUX" name="brand__ALLEN DE LUX">ALLEN DE LUX</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__22178__Anastasia" name="brand__Anastasia">Anastasia</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__995__ANDREA STYLE" name="brand__ANDREA STYLE">ANDREA STYLE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__14216__ASPO" name="brand__ASPO">ASPO</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__60__AXXA" name="brand__AXXA">AXXA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1606__BALUNOVA" name="brand__BALUNOVA">BALUNOVA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__20598__BEAUTY" name="brand__BEAUTY">BEAUTY</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1287__BURVIN" name="brand__BURVIN">BURVIN</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__16476__CONDRA DELUXE" name="brand__CONDRA DELUXE">CONDRA DELUXE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__14920__DEVITA" name="brand__DEVITA">DEVITA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__707__DJERZA" name="brand__DJERZA">DJERZA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1763__EDELWEISS" name="brand__EDELWEISS">EDELWEISS</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__5574__ELZA" name="brand__ELZA">ELZA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__866__EOLA STYLE" name="brand__EOLA STYLE">EOLA STYLE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__2872__FASHION LUX" name="brand__FASHION LUX">FASHION LUX</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1887__FAUFILURE" name="brand__FAUFILURE">FAUFILURE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1254__FAVORINI" name="brand__FAVORINI">FAVORINI</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__335__IVELTA PLUS" name="brand__IVELTA PLUS">IVELTA PLUS</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1727__JeRusi" name="brand__JeRusi">JeRusi</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__2349__JUANTA" name="brand__JUANTA">JUANTA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__636__KIARA" name="brand__KIARA">KIARA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__3444__LADY LINE" name="brand__LADY LINE">LADY LINE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1358__LADY SECRET" name="brand__LADY SECRET">LADY SECRET</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1011__LAKBI" name="brand__LAKBI">LAKBI</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__16552__LaKona" name="brand__LaKona">LaKona</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__18862__LEA LEA" name="brand__LEA LEA">LEA LEA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1628__LISSANA" name="brand__LISSANA">LISSANA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__881__MATINI" name="brand__MATINI">MATINI</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1414__MILANA" name="brand__MILANA">MILANA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1171__MIRA FASHION" name="brand__MIRA FASHION">MIRA FASHION</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__168__MIRA SHIC" name="brand__MIRA SHIC">MIRA SHIC</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__3501__NADIN-N" name="brand__NADIN-N">NADIN-N</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__70__NELVA" name="brand__NELVA">NELVA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__1449__NICOLE&NICOLE" name="brand__NICOLE&NICOLE">NICOLE&NICOLE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__456__NIKA" name="brand__NIKA">NIKA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__320__NOCHE MIO" name="brand__NOCHE MIO">NOCHE MIO</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__701__NOVA LINE" name="brand__NOVA LINE">NOVA LINE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__5653__OLEGRAN" name="brand__OLEGRAN">OLEGRAN</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__366__PANDA" name="brand__PANDA">PANDA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__766__PRESTIGE" name="brand__PRESTIGE">PRESTIGE</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__22006__Pretty" name="brand__Pretty">Pretty</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__3150__PRIO" name="brand__PRIO">PRIO</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__17231__RUNELLA" name="brand__RUNELLA">RUNELLA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__13745__VELONA" name="brand__VELONA">VELONA</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__524__VESNALETTO" name="brand__VESNALETTO">VESNALETTO</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__16650__VLADINI" name="brand__VLADINI">VLADINI</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__21129__ИВА" name="brand__ИВА">ИВА</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__487__КСЕНИЯ СТИЛЬ" name="brand__КСЕНИЯ СТИЛЬ">КСЕНИЯ СТИЛЬ</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__14742__ЛадисЛайн" name="brand__ЛадисЛайн">ЛадисЛайн</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__2431__ЛИЛИАНА" name="brand__ЛИЛИАНА">ЛИЛИАНА</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__913__ЛИНИЯ Л" name="brand__ЛИНИЯ Л">ЛИНИЯ Л</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__21285__ЛЮШе" name="brand__ЛЮШе">ЛЮШе</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__536__МАГИЯ МОДЫ" name="brand__МАГИЯ МОДЫ">МАГИЯ МОДЫ</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__4680__НОВЕЛЛА ШАРМ" name="brand__НОВЕЛЛА ШАРМ">НОВЕЛЛА ШАРМ</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__429__ОРХИДЕЯ" name="brand__ОРХИДЕЯ">ОРХИДЕЯ</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__186__ФАНТАЗИЯ МОД" name="brand__ФАНТАЗИЯ МОД">ФАНТАЗИЯ МОД</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__2649__ЭЛТРИГА" name="brand__ЭЛТРИГА">ЭЛТРИГА</div><div class="search-brand-item"><input class="brand_ch" type="checkbox" value="brand__3589__Юрс" name="brand__Юрс">Юрс</div><br clear="all" /></noindex>
+</div>
+<center><input class="adv-search-button" type="submit" value="Искать" name="advsearchb" onfocus="this.blur()" /></center>
+</form>
+</div>
+</div>
+
+<div class="side_block">
+<div class="side_block_header">О магазине</div>
+ <p style="text-align: justify;margin: 1px 5px 1px 5px">Одно из основных предназначений магазина белорусской одежды - дать клиентам возможность заказать <b>белорусский трикотаж</b> посредством интернета прямо из дому. Более полная информация об услуге содержится в секции "<a href="index.php?id=23">Белорусская одежда почтой</a>".</p>
+ <p style="text-align: center;margin: 1px 5px 1px 5px">Приятных покупок!</p>
+</div>
+
+</div>
+
+
+
+<noindex>
+<div class="footer">
+<div class="footer-info">
+</div>
+<div align="center" style="display:none">
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2766562"></script>
+<!-- end of Top100 code -->
+<!-- HotLog -->
+ <script type="text/javascript" language="javascript">
+ hotlog_js="1.0"; hotlog_r=""+Math.random()+"&amp;s=2249730&amp;im=301&amp;r="+
+ escape(document.referrer)+"&amp;pg="+escape(window.location.href);
+ </script>
+ <script type="text/javascript" language="javascript1.1">
+ hotlog_js="1.1"; hotlog_r+="&amp;j="+(navigator.javaEnabled()?"Y":"N");
+ </script>
+ <script type="text/javascript" language="javascript1.2">
+ hotlog_js="1.2"; hotlog_r+="&amp;wh="+screen.width+"x"+screen.height+"&amp;px="+
+ (((navigator.appName.substring(0,3)=="Mic"))?screen.colorDepth:screen.pixelDepth);
+ </script>
+ <script type="text/javascript" language="javascript1.3">
+ hotlog_js="1.3";
+ </script>
+ <script type="text/javascript" language="javascript">
+ hotlog_r+="&amp;js="+hotlog_js;
+ document.write('<img '+'src="http://hit41.hotlog.ru/cgi-bin/hotlog/count?'+hotlog_r+'" border="0" width="88" height="31" alt="HotLog">');
+ </script>
+ <noscript>
+<img src="http://hit41.hotlog.ru/cgi-bin/hotlog/count?s=2249730&amp;im=301" border="0" width="88" height="31" alt="HotLog">
+ </noscript>
+ <!-- /HotLog -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter16959982 = new Ya.Metrika({id:16959982,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    ut:"noindex"});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/16959982?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</div>
+</div>
+<div id="item_img_hover" style="display: none; position:fixed; z-index: 1000;"></div>
+</noindex>
+<script src="assets/templates/sk/js/main.js" type="text/javascript"></script>
+<script src="assets/templates/sk/js/jquery.jqzoom-core-pack.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="assets/templates/sk/jquery.jqzoom.css">
+</body>
+</html>

@@ -1,0 +1,289 @@
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+	<html>
+	<head>
+	<!-- Begin Title -->
+	<title>KnigMan - интернет-магазин с мгновенной доставкой</title>
+	<!-- End Title -->
+	<meta name="description" content="KnigMan-универсальный интернет-магазин с мгновенной доставкой и оплатой. Программы,книги,цифровые товары,скрипты,эксклюзивные товары. Партнерская программа и агентский магазин. Обменный пункт.">
+	<meta name="keywords" content="KnigMan, интернет, магазин, on-line, shop, webmoney, WM, цифровые, товары, программы, покупка, купить, книга, карточка, скрипт, flash, free, бесплатно, моментальная, доставка, получение, pin, коды, хостинг, домены">
+	<meta name="Author" content="Copyright 2004-2008 - http://knigman.net">
+	<meta name="URL" content="http://knigman.net">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Language" content="ru">
+	<link rel="stylesheet" href="images/style.css" type="text/css">
+	</head>
+	
+	<body>
+		
+		<!-- Begin Knigman Head -->
+		<table width="100%" border="0" cellpadding="0" cellspacing="0" height="100" background="images/bg_head_tbl.gif">
+			<tr>
+			<td width="30%" align="center" style="padding-left: 20px" valign="middle">
+				<img src="images/main_logo.gif" width="278" height="37" alt="Интернет-портал KnigMan">
+			</td>
+			<td width="50%" align="center" style="padding-left: 20px" valign="middle">
+				&nbsp;
+			</td>
+			<td align="right" valign="center" style="padding-right: 15px">
+			<table border="0" cellpadding="0" cellspacing="0">
+			  <tr>
+			    <td width="100%" align="right" style="padding-right: 5px" valign="middle" nowrap><div class="menu">магазин</div></td>
+			    <td valign="middle" width="25px"><a href="index.php"><img src="images/m_shop.jpg" border="0" alt="Перейти в интернет-магазин" width="25" height="24"></a></td>
+			  </tr>
+			  <tr>
+			    <td width="100%" align="right" style="padding-right: 5px" valign="middle" nowrap><div class="menu">обмен валют</div></td>
+			    <td valign="middle" style="padding-top: 5px; padding-bottom: 5px;"><a href="exchange.php"><img src="images/m_exchange.jpg" border="0" alt="Перейти в обменный пункт" width="25" height="24"></a></td>
+			  </tr>
+			  <tr>
+			    <!-- <td width="100%" align="right" style="padding-right: 5px" valign="middle" nowrap><div class="menu">интернет-казино</div></td>
+			    <td valign="middle"><a href="casino.php"><img src="images/m_casino.jpg" border="0" alt="Перейти в интернет-казино" width="25" height="24"></a></td> -->
+			    <td width="100%" align="right" style="padding-right: 5px" valign="middle" nowrap><div class="menu">получить бонус</div></td>
+			    <td valign="middle"><a href="bonus.php"><img src="images/m_casino.jpg" border="0" alt="WMR бонусы" width="25" height="24"></a></td>
+			  </tr>	  	  
+			</table>
+			</td>
+			</tr>
+		</table>
+		<!-- End Knigman Head -->
+	
+	<!-- Begin Knigman Menu -->
+	<script type="text/javascript" language="JavaScript1.2" src="images/menu/stmenu.js"></script>
+	<script type="text/javascript" language="JavaScript1.2" src="images/menu/kn_shop_menu.js"></script>	<!-- End Knigman Menu -->
+
+<BR>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" style="padding-left: 10px">
+	<!-- Begin Box Information -->
+	<table class="table_green_table" width="200px" cellpadding="0" cellspacing="2" align="center">
+  	<tr>
+    	<td class="table_green_caption">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td style="padding-right: 8px"><img src="images/pencil_green.gif" width="11" height="17"></td>
+						<td width="100%"><div class="box_green_caption">Информация</div></td>
+					</tr>
+				</table>
+          </td>
+        </tr>
+        <tr>
+	    <td class="bgcol_green_light">
+	    <p class="box_green_text">Хотите иметь постоянный и стабильный доход с интернета? Тогда участвуйте в нашей партнерской программе или станьте продавцом нашего магазина. Участие абсолютно бесплатно. В нашем магазине самая продвинутая агентская программа!
+	    </p>
+	    </td>
+	  </tr>
+	  <tr>
+          <td width="100%" class="table_green_caption" align="right">
+          	<img src="images/arrow_more.gif"><a href="agent.php" class="link_green"> подробнее</a>&nbsp;&nbsp;
+          </td>
+        </tr>
+	</table>
+	<!-- End Box Information -->
+	
+	<BR>
+	
+	<!-- Begin Box Enter Seller -->
+	<SCRIPT language=javascript>
+	function frmpost_enter(){
+		document.getElementById('enter_seller').submit();
+	}
+	</SCRIPT>
+	<form method="POST" action="enter.php" name="enter_seller" id="enter_seller">
+	<input type="hidden" name="com" value="post">
+	<table class="table_blue_table" width="200px" cellpadding="0" cellspacing="2" align="center">
+        <tr>
+          <td class="table_blue_caption">
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td style="padding-right: 8px"><img src="images/tool_blue.gif" width="8" height="15"></td>
+				<td width="100%"><div class="box_blue_caption">Вход для продавцов</div></td>
+			</tr>
+		</table>
+          </td>
+        </tr>
+        <tr>
+	    <td class="bgcol_blue_light" style="padding-top:10px; padding-bottom: 10px">
+		<table width="100%" cellpadding="2" cellspacing="0" border="0" align="center">
+		  <tr>
+		    <td><div class="text_blue" style="font-size: 11px" align="right">Логин:</div></td>
+		    <td><input type="text" name="flogin" size="16" class="blue_input" maxlength="20"></td>
+		  </tr>
+		  <tr>
+		    <td><div class="text_blue" style="font-size: 11px" align="right">Пароль:</div></td>
+		    <td><input type="password" name="fpassword" size="16" class="blue_input" maxlength="20"></td>
+		  </tr>
+		</table>
+	    </td>
+	  </tr>
+	  <tr>
+          <td width="100%" class="table_blue_caption" align="right">
+          	<img src="images/arrow_more.gif"><a href="#" onClick="frmpost_enter();return false;" class="link_blue"> войти</a>&nbsp;&nbsp;
+          </td>
+        </tr>
+	</table>
+	</form>
+	<!-- End Box Enter Seller -->
+	<BR>
+	
+	<!-- Begin Box Search -->
+	<SCRIPT language=javascript>
+		function frmpost_search(){
+			if(document.getElementById('search_string').value.length == 0) {
+				alert("Заполните поисковое поле!");
+				return;
+			}
+		document.form_search.submit();
+		}
+	</SCRIPT>
+	<form method="POST" action="buy_sort.php" name="form_search">
+	<input type="hidden" name="com" value="find">
+	<table class="table_green_table" width="200px" cellpadding="0" cellspacing="2" align="center">
+        <tr>
+          <td class="table_green_caption">
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td style="padding-right: 8px"><img src="images/search_green.gif" width="8" height="15"></td>
+				<td width="100%"><div class="box_green_caption">Поиск товара</div></td>
+			</tr>
+		</table>
+          </td>
+        </tr>
+        <tr>
+	    <td class="bgcol_green_light" style="padding-top:10px; padding-bottom: 10px">
+		<table width="100%" cellpadding="2" cellspacing="0" border="0" align="center">
+		  <tr>
+		    <td align="center"><input type="text" name="search_string" id="search_string" size="26" class="green_input"  maxlength="100"></td>
+		  </tr>
+		  <tr>
+		    <td><div class="text_green" style="font-size: 11px" align="center">
+		    <input type="radio" name="r1" value="1" checked>В названии <input type="radio" name="r1" value="2">В описании 
+		    </div></td>
+		  </tr>
+		</table>
+	    </td>
+	  </tr>
+	  <tr>
+          <td width="100%" class="table_green_caption" align="right">
+          	<img src="images/arrow_more.gif"><a href="#" class="link_green" onClick="frmpost_search();"> искать</a>&nbsp;&nbsp;
+          </td>
+        </tr>
+	</table>
+	</form>
+	<!-- End Box Search -->
+	<BR>
+	<!-- Begin Box Sitemap -->
+	<table class="table_blue_table" width="200px" cellpadding="0" cellspacing="2" align="center">
+  	<tr>
+    	<td class="table_blue_caption">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td style="padding-right: 8px"><img src="images/stat_blue.gif" width="11" height="17"></td>
+						<td width="100%"><div class="box_blue_caption">Карта сайта</div></td>
+					</tr>
+				</table>
+          </td>
+        </tr>
+        <tr>
+	    <td class="bgcol_blue_light">
+	    <p class="box_blue_text">
+	    	<a href="sitemap.php?sm=0" class="link_" title="Перейти к 1 странице">Товары 1<BR></a><a href="sitemap.php?sm=150" class="link_" title="Перейти к 2 странице">Товары 2<BR></a><a href="sitemap.php?sm=300" class="link_" title="Перейти к 3 странице">Товары 3<BR></a><a href="sitemap.php?sm=450" class="link_" title="Перейти к 4 странице">Товары 4<BR></a><a href="sitemap.php?sm=600" class="link_" title="Перейти к 5 странице">Товары 5<BR></a><a href="sitemap.php?sm=750" class="link_" title="Перейти к 6 странице">Товары 6<BR></a>	    	
+	    	
+	    </p>
+	    </td>
+	  </tr>
+	  <tr>
+          <td width="100%" class="table_blue_caption" align="right">
+          </td>
+        </tr>
+	</table>
+	<!-- End Box Sitemap -->
+	
+	<BR>
+
+    </td>
+    <td valign="top" width="100%">
+
+	<table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="100%" valign="top" align="left">
+            <!--recomend-->
+      <table class="table_blue_table" width="97%" cellpadding="0" cellspacing="2" align="center">
+        <tr><td width="94%" class="table_blue_caption"><b>Рекомендуемые товары</b></td>
+          <td width="6%" class="table_blue_caption" style="text-align: right; padding-right: 5px"><b>Цена</b></td>
+        </tr><tr><td class="td_blue">Рекомендуемых товаров не найдено.</td></tr></table>      <!--/recomend-->
+			    	<BR>
+			<table border="0" width="97%" cellspacing="0" cellpadding="4" align="center"  class="table_green_table">
+			  <tr>
+			    <td width="20" valign="middle" align="center"><img border="0" src="images/attention.gif" alt="Внимание!"></td>
+			    <td><b>Внимание!</b> Теперь вы можете оплачивать товары и услуги в нашем магазине при помощи <b>SMS-сообщений</b>. Поддерживаются все операторы России и некоторых стран СНГ.
+			    	<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www2.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>			    </td>
+			  </tr>
+			</table>
+			<BR>
+		      <!--newgoods-->
+      
+<table class="table_green_table" width="97%" cellpadding="0" cellspacing="2" align="center">
+	<tr>
+		<td width="80%" class="table_green_caption"><b>Новые поступления</b></td>
+		<td width="14%" class="table_green_caption"><b>Продавец</b></td>
+		<td width="6%" class="table_green_caption" style="text-align: right; padding-right: 5px"><b>Цена</b></td>
+	</tr>
+
+<tr class="bgcol_green_dark">
+	   <td class="td_green"><a href="buy.php?tovid=23474" class="link_green">База Трастовых Форумов с Тиц от 300 и до 6500 из Яндекс Каталога</a></td>
+	   <td class="td_green"><a href="seller.php?name=wmmagnat" class="link_green">WMmagnat</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">10 $</div></td>
+	   </tr><tr class="bgcol_green_light">
+	   <td class="td_green"><a href="buy.php?tovid=23470" class="link_green">Аудио-версия закона &quot;О полиции&quot;</a></td>
+	   <td class="td_green"><a href="seller.php?name=zolotoff" class="link_green">zolotoff</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">2 $</div></td>
+	   </tr><tr class="bgcol_green_dark">
+	   <td class="td_green"><a href="buy.php?tovid=23469" class="link_green">портфель «Диоскуры»</a></td>
+	   <td class="td_green"><a href="seller.php?name=alexaner" class="link_green"><u>ALEXANER</u></a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">299 $</div></td>
+	   </tr><tr class="bgcol_green_light">
+	   <td class="td_green"><a href="buy.php?tovid=23467" class="link_green">Советник Forex Expert - работает круглосуточно</a></td>
+	   <td class="td_green"><a href="seller.php?name=krolik79" class="link_green">trade-sale</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">4.9 $</div></td>
+	   </tr><tr class="bgcol_green_dark">
+	   <td class="td_green"><a href="buy.php?tovid=23466" class="link_green">Чудо-советник Cobra Adrenaline  </a></td>
+	   <td class="td_green"><a href="seller.php?name=krolik79" class="link_green">trade-sale</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">6.9 $</div></td>
+	   </tr><tr class="bgcol_green_light">
+	   <td class="td_green"><a href="buy.php?tovid=23465" class="link_green">Новейший Советник Forex Growth Bot </a></td>
+	   <td class="td_green"><a href="seller.php?name=krolik79" class="link_green">trade-sale</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">6.9 $</div></td>
+	   </tr><tr class="bgcol_green_dark">
+	   <td class="td_green"><a href="buy.php?tovid=23463" class="link_green">Дорген для ленивых дорвейщиков Parsedor-02 (пакетка)</a></td>
+	   <td class="td_green"><a href="seller.php?name=34rus" class="link_green">34rus</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">10 $</div></td>
+	   </tr><tr class="bgcol_green_light">
+	   <td class="td_green"><a href="buy.php?tovid=23462" class="link_green">Советник Multi Baracuda 2011 - Мультивалютная версия</a></td>
+	   <td class="td_green"><a href="seller.php?name=krolik79" class="link_green">trade-sale</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">5.9 $</div></td>
+	   </tr><tr class="bgcol_green_dark">
+	   <td class="td_green"><a href="buy.php?tovid=23461" class="link_green">Лучшая Февральская База Каталогов и Статей + 2 Бонуса</a></td>
+	   <td class="td_green"><a href="seller.php?name=wmmagnat" class="link_green">WMmagnat</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">10 $</div></td>
+	   </tr><tr class="bgcol_green_light">
+	   <td class="td_green"><a href="buy.php?tovid=23451" class="link_green">База Трастовых Сайтов Тиц от 10 до 70(+41 сайт от 05.01.2011г.)</a></td>
+	   <td class="td_green"><a href="seller.php?name=baldima" class="link_green">Home</a></td>
+	   <td class="td_green" style="text-align: right; padding-right: 5px" nowrap><div class="text_green">10 $</div></td>
+	   </tr><tr><td colspan="5" style="padding-right:5px" align="right" valign="middle" class="table_green_caption"><a href="new_goods.php" class="link_green"><b>Далее</b></a>&nbsp; &nbsp;<img src="images/reccom_next.jpg"></td></tr></table><div style="padding-left: 15px;" class="text_green">Всего товаров:<b>835</b><BR></div>      <!--/newgoods-->
+      </td>
+    </tr>
+</table>    </td>
+  </tr>
+</table>
+
+<!-- Begin Counters --><table border="0" width="100%" cellspacing="0" cellpadding="0" height="70" style="margin-top: 10px;">
+	       <tr>
+	        <td width="100%" bgcolor="#D1DFBF" align="center" valign="middle" style="padding: 15px"></td></tr></table>
+<!-- End Counters -->
+</body>
+</html>
