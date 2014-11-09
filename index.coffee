@@ -54,7 +54,7 @@ checkPage = (url) ->
   console.log url
   page = getPage url
   if page?
-    results = /(магазин|купи|доставк|цен|покуп|зазаз)/.test page
+    results = /(магазин|купи|доставк|цен|покуп|заказ)/.test page
     return results
   return false
 
