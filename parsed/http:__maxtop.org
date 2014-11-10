@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]>
+
+<html class="ie ie7" lang="ru-RU">
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<html class="ie ie8" lang="ru-RU">
+
+<![endif]-->
+
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+
+<html lang="ru-RU">
+
+<!--<![endif]-->
+
+<head>
+
+<base href="http://maxtop.org" />
+
+<meta charset="UTF-8" />
+
+<meta name="viewport" content="width=device-width" />
+
+<title>Макстоп - создание и развитие сайта. Инфобизнес. Монетизация.</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="pingback" href="http://maxtop.org/xmlrpc.php" />
+
+
+<meta name="thumbnail" content="http://maxtop.org/wp-content/themes/twentytwelve/avatar.jpg" />
+
+<!--[if lt IE 9]>
+
+<script src="http://maxtop.org/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+
+
+	<style type="text/css">
+		#fancybox-close{right:-15px;top:-15px}
+		div#fancybox-content{border-color:#FFFFFF}
+		div#fancybox-title{background-color:#FFFFFF}
+		div#fancybox-outer{background-color:#FFFFFF}
+		div#fancybox-title-inside{color:#333333}
+	</style>
+
+	<link rel="alternate" type="application/rss+xml" title="Макстоп - создание и развитие сайта. Инфобизнес. Монетизация. &raquo; Лента" href="http://maxtop.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Макстоп - создание и развитие сайта. Инфобизнес. Монетизация. &raquo; Лента комментариев" href="http://maxtop.org/comments/feed/" />
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://maxtop.org/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://maxtop.org/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='notifybar-css'  href='http://maxtop.org/wp-content/plugins/notification-bar/css/notifybar.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://maxtop.org/wp-content/plugins/wp-to-twitter/css/twitter-feed.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://maxtop.org/wp-content/themes/twentytwelve/style.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://maxtop.org/wp-content/themes/twentytwelve/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>
+<script type='text/javascript' src='http://maxtop.org/wp-content/plugins/fancybox-for-wordpress/fancybox/jquery.fancybox.js'></script>
+<script type='text/javascript' src='http://maxtop.org/wp-content/plugins/notification-bar/js/notifybar.js'></script>
+
+<!-- Fancybox for WordPress v3.0.2 -->
+<script type="text/javascript">
+jQuery(function(){
+
+jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+	var arr = jQuery("a.fancybox");
+	jQuery.each(arr, function() {
+		var title = jQuery(this).children("img").attr("title");
+		jQuery(this).attr('title',title);
+	})
+}
+
+// Supported file extensions
+var thumbnails = jQuery("a:has(img)").not(".nolightbox").filter( function() { return /\.(jpe?g|png|gif|bmp)$/i.test(jQuery(this).attr('href')) });
+
+thumbnails.addClass("fancybox").attr("rel","fancybox").getTitle();
+jQuery("a.fancybox").fancybox({
+	'cyclic': false,
+	'autoScale': true,
+	'padding': 10,
+	'opacity': true,
+	'speedIn': 500,
+	'speedOut': 500,
+	'changeSpeed': 300,
+	'overlayShow': true,
+	'overlayOpacity': "0.3",
+	'overlayColor': "#666666",
+	'titleShow': true,
+	'titlePosition': 'inside',
+	'enableEscapeButton': true,
+	'showCloseButton': true,
+	'showNavArrows': true,
+	'hideOnOverlayClick': true,
+	'hideOnContentClick': false,
+	'width': 560,
+	'height': 340,
+	'transitionIn': "fade",
+	'transitionOut': "fade",
+	'centerOnScroll': true
+});
+
+
+})
+</script>
+<!-- END Fancybox for WordPress -->
+
+<script type="text/javascript">
+	function addHandler(object, event, handler) {
+		if (typeof object.addEventListener != 'undefined') 
+			object.addEventListener(event, handler, false);
+		else
+			if (typeof object.attachEvent != 'undefined')
+				object.attachEvent('on' + event, handler);
+			else 
+				throw 'Incompatible browser';
+	}
+</script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<!-- All in One SEO Pack 2.2.3.1 by Michael Torbert of Semper Fi Web Design[376,511] -->
+<link rel="author" href="https://plus.google.com/u/0/103589865583600833602" />
+<link rel="publisher" href="https://plus.google.com/u/0/103589865583600833602" />
+<meta name="description" itemprop="description" content="Инфобизнес и интернет-коммерция - практические советы. Заработок на своем сайте. Создание интернет-магазина. Канал на Youtube как инструмент заработка и продаж." />
+
+<meta name="keywords" itemprop="keywords" content="wordpress, инфобизнес, заработок на сайте, youtube монетизация, интернет-магазин бесплатно, woocommerce, интернет-магазин скачать" />
+<link rel='next' href='http://maxtop.org/page/2/' />
+
+<link rel="canonical" href="http://maxtop.org/" />
+<!-- /all in one seo pack -->
+
+</head>
+
+
+
+<body class="home blog custom-background single-author">
+
+
+<div id="page" class="hfeed site">
+
+	<header id="masthead" class="site-header" role="banner">
+
+		<hgroup>
+
+<div class="logodep"><a class="atitle" href="/"></a><h1 class="site-title">Макстоп &#8212; создание и развитие сайта. Инфобизнес. Монетизация.</h1></div>
+
+<h2 class="site-description">Практика инфобизнеса. Создаем, оптимизируем и монетизируем сайт.
+<div class="sh">
+
+<div class="depit">
+<a href="/about/">О нас</a>
+<a href="/help/">Помогу вам</a>
+<a href="https://www.youtube.com/user/InfobiznesMaxtop" target="_blank" rel="nofollow">Видеоуроки</a>
+</div>
+
+
+<div style="display:inline-block;vertical-align:bottom;width:24px;height:24px;margin:0 6px 6px 0;padding:0;outline:none;background:url(/wp-content/themes/twentytwelve/soctop.png) no-repeat">
+<a href="http://vk.com/infomaxtop" target="_blank" rel="nofollow" title="Мы в Контакте"><div style="width:24px;height:24px;"></div></a>
+</div>
+
+<div style="display:inline-block;vertical-align:bottom;width:24px;height:24px;margin:0 6px 6px 0;padding:0;outline:none;background:url(/wp-content/themes/twentytwelve/soctop.png) no-repeat -24px 0">
+<a href="http://twitter.com/infomaxtop" target="_blank" rel="nofollow" title="Мы в Twitter"><div style="width:24px;height:24px;"></div></a>
+</div>
+
+<div style="display:inline-block;vertical-align:bottom;width:24px;height:24px;margin:0 6px 6px 0;padding:0;outline:none;background:url(/wp-content/themes/twentytwelve/soctop.png) no-repeat -48px 0">
+<a href="/help/" target="_blank" title="Обратная связь"><div style="width:24px;height:24px;"></div></a>
+</div>
+
+</div>
+
+
+</h2>
+			</hgroup>
+
+
+<div class="mn"><nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Меню</h3>
+			
+			<div class="menu-sozdaem-svoj-sajt-container"><ul id="menu-sozdaem-svoj-sajt" class="nav-menu"><li id="menu-item-428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-428"><a href="http://maxtop.org/sitemake/">Создаем свой сайт</a>
+<ul class="sub-menu">
+	<li id="menu-item-431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-431"><a href="http://maxtop.org/sitemake/common/">Общие понятия</a></li>
+	<li id="menu-item-430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-430"><a href="http://maxtop.org/sitemake/progs/">Необходимые программы</a></li>
+	<li id="menu-item-429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-429"><a href="http://maxtop.org/sitemake/wordpress-sozdanie-bloga/">WordPress&nbsp;&mdash; создание блога</a></li>
+	<li id="menu-item-432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-432"><a href="http://maxtop.org/success/">Что такое успех</a></li>
+</ul>
+</li>
+<li id="menu-item-423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-423"><a href="http://maxtop.org/sitework/">Работаем с сайтом</a>
+<ul class="sub-menu">
+	<li id="menu-item-811" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-811"><a href="http://maxtop.org/sitework/bezopasnost-sajta/">Безопасность сайта</a></li>
+	<li id="menu-item-424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-424"><a href="http://maxtop.org/sitework/optimizaciya-zagruzki/">Оптимизация загрузки</a></li>
+	<li id="menu-item-427" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-427"><a href="http://maxtop.org/sitework/yuzabiliti/">Юзабилити</a></li>
+	<li id="menu-item-440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-440"><a href="http://maxtop.org/sitework/sbor-podpisnoj-bazy/">Сбор подписной базы</a></li>
+</ul>
+</li>
+<li id="menu-item-417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-417"><a href="http://maxtop.org/sitemoney/">Монетизируем сайт</a>
+<ul class="sub-menu">
+	<li id="menu-item-422" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-422"><a href="http://maxtop.org/sitemoney/strategii-monetizacii/">Стратегии монетизации</a></li>
+	<li id="menu-item-419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-419"><a href="http://maxtop.org/sitemoney/infoprodukty/">Инфопродукты</a></li>
+	<li id="menu-item-420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-420"><a href="http://maxtop.org/sitemoney/kontekstnaya-reklama/">Контекстная реклама</a></li>
+	<li id="menu-item-421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-421"><a href="http://maxtop.org/sitemoney/partnerskie-programmy/">Партнерские программы</a></li>
+</ul>
+</li>
+<li id="menu-item-1039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1039"><a href="http://maxtop.org/sozdaem-internet-magazin/">Создаем интернет-магазин</a>
+<ul class="sub-menu">
+	<li id="menu-item-1042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1042"><a href="http://maxtop.org/cms-im/">Выбор CMS для интернет-магазина</a></li>
+	<li id="menu-item-1043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1043"><a href="http://maxtop.org/im-create-optim/">Создание и оптимизация магазина</a></li>
+	<li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041"><a href="http://maxtop.org/internet-magazin-besplatno/">Интернет-магазин бесплатно</a></li>
+	<li id="menu-item-1040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040"><a href="http://maxtop.org/internet-magazin-besplatno/woocommerce-modifikaciya-i-tonkaya-nastrojka/">Оптимизация WooCommerce</a></li>
+</ul>
+</li>
+</ul></div>		</nav><!-- #site-navigation --></div>
+
+
+
+		
+	</header><!-- #masthead -->
+
+
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+		
+										
+	<article id="post-1691" class="post-1691 post type-post status-publish format-standard has-post-thumbnail hentry category-sitework category-straterii-razvitiya-sajta tag-obshhie-ponyatiya tag-optimizaciya">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/razvitie-sajta-prioritety-i-strategii-dlya-vebmastera/" title="Постоянная ссылка: Развитие сайта. Приоритеты и стратегии для вебмастера" rel="bookmark">Развитие сайта. Приоритеты и стратегии для вебмастера</a>
+			</h2>
+
+<a href="http://maxtop.org/razvitie-sajta-prioritety-i-strategii-dlya-vebmastera/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/11/razvitie-saita.jpg" class="attachment-post-thumbnail wp-post-image" alt="razvitie saita" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">8 ноября 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/obshhie-ponyatiya/" rel="tag">Общие понятия</a> • <a href="http://maxtop.org/tag/optimizaciya/" rel="tag">Оптимизация</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Многие начинающие вебмастера тратят огромное количество времени на то, что не дает значимого эффекта. Неверная расстановка приоритетов&nbsp;&mdash; основная ошибка новичков. Поговорим о том, как правильно работать с сайтом, чтобы обеспечить для него стабильное развитие, как расставлять приоритеты. <a href="http://maxtop.org/razvitie-sajta-prioritety-i-strategii-dlya-vebmastera/#more-1691" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/razvitie-sajta-prioritety-i-strategii-dlya-vebmastera/#respond" title="Прокомментировать запись &laquo;Развитие сайта. Приоритеты и стратегии для вебмастера&raquo;"><span class="leave-reply">Нет комментариев</span></a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1686" class="post-1686 post type-post status-publish format-standard has-post-thumbnail hentry category-progs category-sitemake tag-neobxodimye-programmy">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/5-xakov-yandeks-diska-bolshe-20gb-mesta-besplatno/" title="Постоянная ссылка: 5 хаков Яндекс Диска! Больше 20Гб места бесплатно" rel="bookmark">5 хаков Яндекс Диска! Больше 20Гб места бесплатно</a>
+			</h2>
+
+<a href="http://maxtop.org/5-xakov-yandeks-diska-bolshe-20gb-mesta-besplatno/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/10/yandex.disk-mesto.jpg" class="attachment-post-thumbnail wp-post-image" alt="yandex disk mesto" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">8 ноября 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/neobxodimye-programmy/" rel="tag">Необходимые программы</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Все знают, что изначально Яндекс Диск дает вам 10Гб дискового пространства, затем можно получить еще 10Гб, приглашая друзей. Причем за каждого друга вы получаете +0,5Гб, а сам приглашенный друг получает +1Гб. Таким путем можно набрать 20Гб места. Но есть способ получить больше! <a href="http://maxtop.org/5-xakov-yandeks-diska-bolshe-20gb-mesta-besplatno/#more-1686" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/5-xakov-yandeks-diska-bolshe-20gb-mesta-besplatno/#respond" title="Прокомментировать запись &laquo;5 хаков Яндекс Диска! Больше 20Гб места бесплатно&raquo;"><span class="leave-reply">Нет комментариев</span></a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1664" class="post-1664 post type-post status-publish format-standard has-post-thumbnail hentry category-common category-poiskovaya-optimizaciya category-sitework tag-seo tag-obshhie-ponyatiya">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/kak-uznat-poseshhaemost-chuzhogo-sajta/" title="Постоянная ссылка: Как узнать посещаемость чужого сайта?" rel="bookmark">Как узнать посещаемость чужого сайта?</a>
+			</h2>
+
+<a href="http://maxtop.org/kak-uznat-poseshhaemost-chuzhogo-sajta/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/10/statistika-saita.jpg" class="attachment-post-thumbnail wp-post-image" alt="statistika saita" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">18 октября 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/seo/" rel="tag">SEO</a> • <a href="http://maxtop.org/tag/obshhie-ponyatiya/" rel="tag">Общие понятия</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Вы нашли интересный сайт и хотите понять, сколько человек ежедневно данный сайт посещают? Хотите определить количество просмотров страниц, число визитов на сайт?<br />
+Примечание: если не знаете, чем отличаются уникальные посетители, визиты и просмотры, <a title="Яндекс-метрика: установка, настройка, использование, профит" href="http://maxtop.org/yandeks-metrika-ustanovka-nastrojka-ispolzovanie-profit/" target="_blank">читайте и смотрите тут</a>.<br />
+А сейчас поговорим о способах узнать максимум информации о посещаемости чужого сайта. <a href="http://maxtop.org/kak-uznat-poseshhaemost-chuzhogo-sajta/#more-1664" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/kak-uznat-poseshhaemost-chuzhogo-sajta/#respond" title="Прокомментировать запись &laquo;Как узнать посещаемость чужого сайта?&raquo;"><span class="leave-reply">Нет комментариев</span></a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1671" class="post-1671 post type-post status-publish format-standard has-post-thumbnail hentry category-common category-sitework category-sitemake tag-obshhie-ponyatiya">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/kak-uznat-vozrast-sajta/" title="Постоянная ссылка: Как узнать возраст сайта?" rel="bookmark">Как узнать возраст сайта?</a>
+			</h2>
+
+<a href="http://maxtop.org/kak-uznat-vozrast-sajta/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/10/kak-uznat-vozrast-domena.jpg" class="attachment-post-thumbnail wp-post-image" alt="kak uznat vozrast domena" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">14 октября 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/obshhie-ponyatiya/" rel="tag">Общие понятия</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Вы без проблем можете узнать возраст сайта, возраст домена. Для этого есть ряд сервисов, о которых мы сейчас поговорим. Рассмотрим сервисы Whois и интересный сайт для получения данных о возрасте домена. <a href="http://maxtop.org/kak-uznat-vozrast-sajta/#more-1671" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/kak-uznat-vozrast-sajta/#respond" title="Прокомментировать запись &laquo;Как узнать возраст сайта?&raquo;"><span class="leave-reply">Нет комментариев</span></a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1659" class="post-1659 post type-post status-publish format-standard has-post-thumbnail hentry category-wordpress-sozdanie-bloga category-sitemake tag-wordpress tag-sozdaem-sajt">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/postranichnaya-navigaciya-v-wordpress/" title="Постоянная ссылка: Постраничная навигация в WordPress" rel="bookmark">Постраничная навигация в WordPress</a>
+			</h2>
+
+<a href="http://maxtop.org/postranichnaya-navigaciya-v-wordpress/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/10/paginator-wordpress.jpg" class="attachment-post-thumbnail wp-post-image" alt="paginator wordpress" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">5 октября 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/wordpress/" rel="tag">WordPress</a> • <a href="http://maxtop.org/tag/sozdaem-sajt/" rel="tag">Создаем сайт</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Постраничная навигация в WordPress заменяет стандартные надписи &laquo;Предыдущие записи&raquo; и &laquo;Следующие записи&raquo; на удобный список страниц. Рассмотрим как создать постраничную навигацию при помощи плагина WP PageNavi. <a href="http://maxtop.org/postranichnaya-navigaciya-v-wordpress/#more-1659" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/postranichnaya-navigaciya-v-wordpress/#respond" title="Прокомментировать запись &laquo;Постраничная навигация в WordPress&raquo;"><span class="leave-reply">Нет комментариев</span></a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1652" class="post-1652 post type-post status-publish format-standard has-post-thumbnail hentry category-poiskovaya-optimizaciya category-sitework tag-wordpress tag-optimizaciya">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/ping-servisy-wordpress-uskoryaem-indeksaciyu-sajta/" title="Постоянная ссылка: Пинг-сервисы WordPress. Ускоряем индексацию сайта" rel="bookmark">Пинг-сервисы WordPress. Ускоряем индексацию сайта</a>
+			</h2>
+
+<a href="http://maxtop.org/ping-servisy-wordpress-uskoryaem-indeksaciyu-sajta/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/09/ping-wordpress.jpg" class="attachment-post-thumbnail wp-post-image" alt="ping wordpress" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">22 сентября 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/wordpress/" rel="tag">WordPress</a> • <a href="http://maxtop.org/tag/optimizaciya/" rel="tag">Оптимизация</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Рассмотрим пинг-сервисы WordPress, которые получают информацию о новых записях на вашем сайте и ускоряют индексацию новых страниц. Важно, что все это будет происходить в автоматическом режиме при добавлении новых записей. Вам нужно лишь один раз настроить эти сервисы (это сделать просто, см. ниже). <a href="http://maxtop.org/ping-servisy-wordpress-uskoryaem-indeksaciyu-sajta/#more-1652" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/ping-servisy-wordpress-uskoryaem-indeksaciyu-sajta/#respond" title="Прокомментировать запись &laquo;Пинг-сервисы WordPress. Ускоряем индексацию сайта&raquo;"><span class="leave-reply">Нет комментариев</span></a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1647" class="post-1647 post type-post status-publish format-standard has-post-thumbnail hentry category-common category-sitemake tag-moe-mnenie tag-sankcii">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/otklyuchenie-rossii-ot-interneta-chto-delat/" title="Постоянная ссылка: Отключение России от интернета. Что делать?" rel="bookmark">Отключение России от интернета. Что делать?</a>
+			</h2>
+
+<a href="http://maxtop.org/otklyuchenie-rossii-ot-interneta-chto-delat/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/09/off-internet.jpg" class="attachment-post-thumbnail wp-post-image" alt="Отключение интернета в России" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">20 сентября 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/moe-mnenie/" rel="tag">Мое мнение</a> • <a href="http://maxtop.org/tag/sankcii/" rel="tag">Санкции</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Это во всех новостях: в случае военных действий или внутренних беспорядков и волнений Россия может быть отключена от интернета. Данная практика успешно была применена в Египте и Сирии, а также по причине обрыва магистрального линка случалась в Армении.</p>
+<p>Что будет, если Россию отключат от всемирной сети Интернет? Кто пострадает больше всего? Что делать нам, простым пользователям всемирной паутины? Попробуем ответить на эти вопросы. <a href="http://maxtop.org/otklyuchenie-rossii-ot-interneta-chto-delat/#more-1647" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/otklyuchenie-rossii-ot-interneta-chto-delat/#comments" title="Прокомментировать запись &laquo;Отключение России от интернета. Что делать?&raquo;">Один комментарий</a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1634" class="post-1634 post type-post status-publish format-standard has-post-thumbnail hentry category-sitemake category-im-create-optim tag-woocommerce tag-temy-oformleniya">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/temy-oformleniya-woocommerce/" title="Постоянная ссылка: Темы оформления Woocommerce" rel="bookmark">Темы оформления Woocommerce</a>
+			</h2>
+
+<a href="http://maxtop.org/temy-oformleniya-woocommerce/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/08/woocommerce-themes.jpg" class="attachment-post-thumbnail wp-post-image" alt="woocommerce темы оформления" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">21 августа 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/woocommerce/" rel="tag">WooCommerce</a> • <a href="http://maxtop.org/tag/temy-oformleniya/" rel="tag">Темы оформления</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Существуют темы оформления, разработанные специально для компонента интернет-магазина Woocommerce, а также темы оформления, которые не предназначены для компонент интернет-магазина. Среди тем, не предназначенных для Woocommerce, все шаблоны можно подразделить на совместимые и не совместимы с компонентом интернет-магазина. <a href="http://maxtop.org/temy-oformleniya-woocommerce/#more-1634" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/temy-oformleniya-woocommerce/#respond" title="Прокомментировать запись &laquo;Темы оформления Woocommerce&raquo;"><span class="leave-reply">Нет комментариев</span></a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1631" class="post-1631 post type-post status-publish format-standard has-post-thumbnail hentry category-sitemake category-im-create-optim tag-woocommerce tag-wordpress tag-internet-magazin">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/ustanovka-woocommerce/" title="Постоянная ссылка: Установка Woocommerce" rel="bookmark">Установка Woocommerce</a>
+			</h2>
+
+<a href="http://maxtop.org/ustanovka-woocommerce/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/08/woocommerce-install.jpg" class="attachment-post-thumbnail wp-post-image" alt="woocommerce установка" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">21 августа 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/woocommerce/" rel="tag">WooCommerce</a> • <a href="http://maxtop.org/tag/wordpress/" rel="tag">WordPress</a> • <a href="http://maxtop.org/tag/internet-magazin/" rel="tag">Интернет-магазин</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Существует три способа установки компонента интернет-магазина Woocommerce: вы можете установить этот плагин непосредственно через менеджер плагинов административной панели вашего сайта, вы можете скачать компонент на сайте WordPress.org и установить его оттуда, вы можете загрузить скачанный плагин по FTP и затем потребуется лишь активировать его в админ. панели сайта. <a href="http://maxtop.org/ustanovka-woocommerce/#more-1631" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/ustanovka-woocommerce/#respond" title="Прокомментировать запись &laquo;Установка Woocommerce&raquo;"><span class="leave-reply">Нет комментариев</span></a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->							
+	<article id="post-1625" class="post-1625 post type-post status-publish format-standard has-post-thumbnail hentry category-wordpress-sozdanie-bloga category-poiskovaya-optimizaciya category-sitework category-sitemake tag-wordpress tag-obshhie-ponyatiya tag-optimizaciya">
+				<header class="entry-header">
+
+			
+			<h2 class="entry-title">
+				<a href="http://maxtop.org/kak-pravilno-pisat-stati-dlya-sajta/" title="Постоянная ссылка: Как правильно писать статьи для сайта" rel="bookmark">Как правильно писать статьи для сайта</a>
+			</h2>
+
+<a href="http://maxtop.org/kak-pravilno-pisat-stati-dlya-sajta/"><img width="625" height="180" src="http://maxtop.org/wp-content/uploads/2014/08/kak-pravilno-pisat-stati.jpg" class="attachment-post-thumbnail wp-post-image" alt="как правильно писать статьи" /></a>
+
+										<div class="comments-link"> 
+<div class="comdiv">16 августа 2014</div>
+<div class="comdivtag"><a href="http://maxtop.org/tag/wordpress/" rel="tag">WordPress</a> • <a href="http://maxtop.org/tag/obshhie-ponyatiya/" rel="tag">Общие понятия</a> • <a href="http://maxtop.org/tag/optimizaciya/" rel="tag">Оптимизация</a><br /></div>
+</div>
+
+
+			
+		</header><!-- .entry-header -->
+
+		
+
+		<div class="entry-content ">
+
+			<p>Поговорим о том, как правильно писать статьи для сайта.<br />
+Прежде всего, если вы хотите, чтобы ваши статьи читало как можно больше людей, пишите их под определённые поисковые запросы.  <a href="http://maxtop.org/kak-pravilno-pisat-stati-dlya-sajta/#more-1625" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-content -->
+
+		
+		<footer>		
+
+<div>					<div class="comdivbot"><a href="http://maxtop.org/kak-pravilno-pisat-stati-dlya-sajta/#comments" title="Прокомментировать запись &laquo;Как правильно писать статьи для сайта&raquo;">Один комментарий</a></div>
+			</div>
+
+
+</footer><!-- .entry-meta -->
+	</article><!-- #post -->			
+			                                    <div class='wp-pagenavi'>
+<span class='current'>1</span><a class="page larger" href="http://maxtop.org/page/2/">2</a><a class="page larger" href="http://maxtop.org/page/3/">3</a><a class="page larger" href="http://maxtop.org/page/4/">4</a><a class="page larger" href="http://maxtop.org/page/5/">5</a><span class='extend'>...</span><a class="nextpostslink" rel="next" href="http://maxtop.org/page/2/">»</a><a class="last" href="http://maxtop.org/page/8/">Последняя »</a>
+</div>            <br />
+            
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-9" class="widget widget_text">			<div class="textwidget"><a href="/internet-magazin-besplatno/"><img width="242" height="242" alt="Скачать интернет-магазин бесплатно" src="/wp-content/uploads/2013/08/woocommerce2.png"></img></a></div>
+		</aside><aside id="text-15" class="widget widget_text"><h3 class="widget-title">Рекомендую к ознакомлению:</h3>			<div class="textwidget"><a target="_blank" rel="nofollow" href="http://aristarov.ru/aff/free/11043/konoden/"><img width="242" height="242" alt="что такое партнерская программа" src="http://maxtop.org/wp-content/uploads/2014/05/partnerki.jpg"></img></a>
+<p><a target="_blank" rel="nofollow" href="http://aristarov.ru/aff/free/11043/konoden/">Как заработать на партнерских программах?</a><br>
+Проверенная эффективная методика работы.<br> Гарантия результата</p></div>
+		</aside><aside id="text-14" class="widget widget_text">			<div class="textwidget"><script type="text/javascript" src="//vk.com/js/api/openapi.js?112"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "242", height: "350", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 46724516);
+</script></div>
+		</aside><aside id="text-12" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- maxtop.org виджет -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7408317510735884"
+     data-ad-slot="7259740054"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><form style="border:1px solid #ccc;padding:3px;padding-bottom:10px;text-align:center;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=maxtop', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p style="line-height: 20px;
+padding-top: 10px;
+font-size: 16px;
+color: rgb(0, 0, 0);
+font-family: arial;
+font-weight: bold;
+font-style: normal;">Чтобы получать новые статьи, укажите Ваш E-mail:</p><p><input type="text" name="email"/></p><input type="hidden" value="maxtop" name="uri"/><input type="hidden" name="loc" value="ru_RU"/><input class="btnsra" style="width:80% !important; -webkit-border-radius:10px !important;-moz-border-radius:10px !important;border-radius:10px !important; border:1px solid gray !important;" type="submit" value="Получать статьи" /></form></div>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Новые статьи</h3>		<ul>
+					<li>
+				<a href="http://maxtop.org/razvitie-sajta-prioritety-i-strategii-dlya-vebmastera/">Развитие сайта. Приоритеты и стратегии для вебмастера</a>
+						</li>
+					<li>
+				<a href="http://maxtop.org/5-xakov-yandeks-diska-bolshe-20gb-mesta-besplatno/">5 хаков Яндекс Диска! Больше 20Гб места бесплатно</a>
+						</li>
+					<li>
+				<a href="http://maxtop.org/kak-uznat-poseshhaemost-chuzhogo-sajta/">Как узнать посещаемость чужого сайта?</a>
+						</li>
+					<li>
+				<a href="http://maxtop.org/kak-uznat-vozrast-sajta/">Как узнать возраст сайта?</a>
+						</li>
+					<li>
+				<a href="http://maxtop.org/postranichnaya-navigaciya-v-wordpress/">Постраничная навигация в WordPress</a>
+						</li>
+				</ul>
+		</aside>
+<!-- WordPress Popular Posts Plugin v3.1.1 [W] [all] [comments] [regular] -->
+<aside id="wpp-2" class="widget popular-posts">
+<h3 class="widget-title">Популярные статьи</h3>
+<ul class="wpp-list">
+<li><a href="http://maxtop.org/internet-magazin-besplatno/stranica-podderzhki-internet-magazin-na-wordpress-besplatno/" title="Страница поддержки: интернет-магазин на WordPress бесплатно" class="wpp-post-title" target="_self">Страница поддержки: интернет-магазин на WordPress бесплатно</a>  <span class="post-stats"><span class="wpp-date">posted on 18/08/2013</span></span> </li>
+<li><a href="http://maxtop.org/internet-magazin-besplatno/woocommerce-modifikaciya-i-tonkaya-nastrojka/" title="WOOCOMMERCE&nbsp;&mdash; модификация и тонкая настройка" class="wpp-post-title" target="_self">WOOCOMMERCE&nbsp;&mdash; модификация и тонкая настройка</a>  <span class="post-stats"><span class="wpp-date">posted on 30/08/2013</span></span> </li>
+<li><a href="http://maxtop.org/internet-magazin-besplatno/skachat-internet-magazin-besplatno/" title="Скачать интернет-магазин бесплатно" class="wpp-post-title" target="_self">Скачать интернет-магазин бесплатно</a>  <span class="post-stats"><span class="wpp-date">posted on 18/08/2013</span></span> </li>
+<li><a href="http://maxtop.org/help/" title="Помощь начинающим сайтостроителям" class="wpp-post-title" target="_self">Помощь начинающим сайтостроителям</a>  <span class="post-stats"><span class="wpp-date">posted on 08/12/2012</span></span> </li>
+<li><a href="http://maxtop.org/podpiska-podtverzhdena-ssylka-na-magazin-uzhe-u-vas-na-pochte/" title="Подписка подтверждена&nbsp;&mdash; ссылка на магазин уже у Вас на почте" class="wpp-post-title" target="_self">Подписка подтверждена&nbsp;&mdash; ссылка на магазин уже у Вас на почте</a>  <span class="post-stats"><span class="wpp-date">posted on 19/09/2013</span></span> </li>
+<li><a href="http://maxtop.org/podtverdite-vashu-podpisku-i-skachajte-magazin/" title="Подтвердите Вашу подписку и скачайте магазин" class="wpp-post-title" target="_self">Подтвердите Вашу подписку и скачайте магазин</a>  <span class="post-stats"><span class="wpp-date">posted on 19/09/2013</span></span> </li>
+<li><a href="http://maxtop.org/smartresponder-reshaem-problemy-s-formoj-podpiski/" title="Smartresponder&nbsp;&mdash; решаем проблемы с формой подписки" class="wpp-post-title" target="_self">Smartresponder&nbsp;&mdash; решаем проблемы с формой подписки</a>  <span class="post-stats"><span class="wpp-date">posted on 05/06/2013</span></span> </li>
+
+</ul>
+</aside>
+<!-- End WordPress Popular Posts Plugin v3.1.1 -->
+<aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Рубрики</h3>		<ul>
+	<li class="cat-item cat-item-58"><a href="http://maxtop.org/cms-im/" >Выбор CMS для интернет-магазина</a> (1)
+</li>
+	<li class="cat-item cat-item-29"><a href="http://maxtop.org/sitemoney/" >Монетизируем сайт</a> (3)
+<ul class='children'>
+	<li class="cat-item cat-item-41"><a href="http://maxtop.org/sitemoney/kontekstnaya-reklama/" >Контекстная реклама</a> (1)
+</li>
+	<li class="cat-item cat-item-40"><a href="http://maxtop.org/sitemoney/strategii-monetizacii/" >Стратегии монетизации</a> (2)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://maxtop.org/sitework/" >Работаем с сайтом</a> (34)
+<ul class='children'>
+	<li class="cat-item cat-item-55"><a href="http://maxtop.org/sitework/bezopasnost-sajta/" >Безопасность сайта</a> (7)
+</li>
+	<li class="cat-item cat-item-45"><a href="http://maxtop.org/sitework/optimizaciya-zagruzki/" >Оптимизация загрузки</a> (4)
+</li>
+	<li class="cat-item cat-item-46"><a href="http://maxtop.org/sitework/poiskovaya-optimizaciya/" >Поисковая оптимизация</a> (8)
+</li>
+	<li class="cat-item cat-item-51"><a href="http://maxtop.org/sitework/sbor-podpisnoj-bazy/" >Сбор подписной базы</a> (9)
+</li>
+	<li class="cat-item cat-item-50"><a href="http://maxtop.org/sitework/straterii-razvitiya-sajta/" >Стратерии развития сайта</a> (2)
+</li>
+	<li class="cat-item cat-item-48"><a href="http://maxtop.org/sitework/yuzabiliti/" >Юзабилити</a> (4)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://maxtop.org/sitemake/" >Создаем свой сайт</a> (30)
+<ul class='children'>
+	<li class="cat-item cat-item-38"><a href="http://maxtop.org/sitemake/wordpress-sozdanie-bloga/" >WordPress&nbsp;&mdash; создание блога</a> (11)
+</li>
+	<li class="cat-item cat-item-33"><a href="http://maxtop.org/sitemake/progs/" >Необходимые программы</a> (5)
+</li>
+	<li class="cat-item cat-item-30"><a href="http://maxtop.org/sitemake/common/" >Общие понятия</a> (12)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://maxtop.org/im-create-optim/" >Создание и оптимизация магазина</a> (7)
+</li>
+	<li class="cat-item cat-item-26"><a href="http://maxtop.org/success/" >Что такое успех</a> (6)
+</li>
+		</ul>
+</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Комментарии</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Евгений</span> к записи <a href="http://maxtop.org/internet-magazin-besplatno/woocommerce-modifikaciya-i-tonkaya-nastrojka/#comment-1861">WOOCOMMERCE&nbsp;&mdash; модификация и тонкая настройка</a></li><li class="recentcomments"><span class="comment-author-link">Денис</span> к записи <a href="http://maxtop.org/internet-magazin-besplatno/stranica-podderzhki-internet-magazin-na-wordpress-besplatno/#comment-1829">Страница поддержки: интернет-магазин на WordPress бесплатно</a></li><li class="recentcomments"><span class="comment-author-link">Денис</span> к записи <a href="http://maxtop.org/internet-magazin-besplatno/skachat-internet-magazin-besplatno/#comment-1828">Скачать интернет-магазин бесплатно</a></li><li class="recentcomments"><span class="comment-author-link">Антон</span> к записи <a href="http://maxtop.org/internet-magazin-besplatno/skachat-internet-magazin-besplatno/#comment-1826">Скачать интернет-магазин бесплатно</a></li><li class="recentcomments"><span class="comment-author-link">Антон</span> к записи <a href="http://maxtop.org/internet-magazin-besplatno/skachat-internet-magazin-besplatno/#comment-1824">Скачать интернет-магазин бесплатно</a></li></ul></aside><aside id="tag_cloud-3" class="widget widget_tag_cloud"><h3 class="widget-title">Тэги</h3><div class="tagcloud"><a href='http://maxtop.org/tag/denwer/' class='tag-link-36' title='2 записи' style='font-size: 10.172413793103pt;'>Denwer</a>
+<a href='http://maxtop.org/tag/robots-txt/' class='tag-link-66' title='1 запись' style='font-size: 8pt;'>robots.txt</a>
+<a href='http://maxtop.org/tag/seo/' class='tag-link-68' title='3 записи' style='font-size: 11.620689655172pt;'>SEO</a>
+<a href='http://maxtop.org/tag/woocommerce/' class='tag-link-60' title='7 записей' style='font-size: 15.241379310345pt;'>WooCommerce</a>
+<a href='http://maxtop.org/tag/wordpress/' class='tag-link-37' title='28 записей' style='font-size: 22pt;'>WordPress</a>
+<a href='http://maxtop.org/tag/youtube/' class='tag-link-63' title='1 запись' style='font-size: 8pt;'>Youtube</a>
+<a href='http://maxtop.org/tag/bezopasnost/' class='tag-link-56' title='7 записей' style='font-size: 15.241379310345pt;'>Безопасность</a>
+<a href='http://maxtop.org/tag/zarabotok-na-reklame/' class='tag-link-57' title='1 запись' style='font-size: 8pt;'>Заработок на рекламе</a>
+<a href='http://maxtop.org/tag/internet-magazin/' class='tag-link-61' title='6 записей' style='font-size: 14.637931034483pt;'>Интернет-магазин</a>
+<a href='http://maxtop.org/tag/kriterii-uspexa/' class='tag-link-19' title='3 записи' style='font-size: 11.620689655172pt;'>Критерии успеха</a>
+<a href='http://maxtop.org/tag/moe-mnenie/' class='tag-link-72' title='1 запись' style='font-size: 8pt;'>Мое мнение</a>
+<a href='http://maxtop.org/tag/monetizaciya-sajta/' class='tag-link-62' title='1 запись' style='font-size: 8pt;'>Монетизация сайта</a>
+<a href='http://maxtop.org/tag/neobxodimye-programmy/' class='tag-link-34' title='5 записей' style='font-size: 13.793103448276pt;'>Необходимые программы</a>
+<a href='http://maxtop.org/tag/obman-v-seti/' class='tag-link-69' title='1 запись' style='font-size: 8pt;'>Обман в сети</a>
+<a href='http://maxtop.org/tag/obshhie-ponyatiya/' class='tag-link-31' title='9 записей' style='font-size: 16.448275862069pt;'>Общие понятия</a>
+<a href='http://maxtop.org/tag/optimizaciya/' class='tag-link-54' title='13 записей' style='font-size: 18.258620689655pt;'>Оптимизация</a>
+<a href='http://maxtop.org/tag/podpisnaya-baza/' class='tag-link-52' title='9 записей' style='font-size: 16.448275862069pt;'>Подписная база</a>
+<a href='http://maxtop.org/tag/prazdnik/' class='tag-link-64' title='1 запись' style='font-size: 8pt;'>Праздник</a>
+<a href='http://maxtop.org/tag/reshenie-problem/' class='tag-link-53' title='1 запись' style='font-size: 8pt;'>Решение проблем</a>
+<a href='http://maxtop.org/tag/sankcii/' class='tag-link-71' title='1 запись' style='font-size: 8pt;'>Санкции</a>
+<a href='http://maxtop.org/tag/sbor-deneg/' class='tag-link-65' title='2 записи' style='font-size: 10.172413793103pt;'>Сбор денег</a>
+<a href='http://maxtop.org/tag/sozdaem-sajt/' class='tag-link-35' title='13 записей' style='font-size: 18.258620689655pt;'>Создаем сайт</a>
+<a href='http://maxtop.org/tag/temy-oformleniya/' class='tag-link-67' title='2 записи' style='font-size: 10.172413793103pt;'>Темы оформления</a>
+<a href='http://maxtop.org/tag/tipichnye-oshibki/' class='tag-link-22' title='1 запись' style='font-size: 8pt;'>Типичные ошибки</a>
+<a href='http://maxtop.org/tag/uspeshnyj-chelovek/' class='tag-link-20' title='2 записи' style='font-size: 10.172413793103pt;'>Успешный человек</a>
+<a href='http://maxtop.org/tag/xosting/' class='tag-link-39' title='6 записей' style='font-size: 14.637931034483pt;'>Хостинг</a>
+<a href='http://maxtop.org/tag/cel-i-ee-dostizhenie/' class='tag-link-24' title='2 записи' style='font-size: 10.172413793103pt;'>Цель и ее достижение</a>
+<a href='http://maxtop.org/tag/chto-takoe-uspex/' class='tag-link-21' title='1 запись' style='font-size: 8pt;'>Что такое успех?</a>
+<a href='http://maxtop.org/tag/yuzabiliti/' class='tag-link-48' title='4 записи' style='font-size: 12.827586206897pt;'>Юзабилити</a>
+<a href='http://maxtop.org/tag/yandeks-metrika/' class='tag-link-70' title='1 запись' style='font-size: 8pt;'>Яндекс-метрика</a></div>
+</aside>		</div><!-- #secondary -->
+	<input type="hidden" name="9vckibNslWEm" id="9vckibNslWEm" />
+<script type="text/javascript">
+function fpshONt4TZmnv() {
+	var o=document.getElementById("9vckibNslWEm");
+	o.value="oQ8NHpTbS98I";
+}
+var b5JN7jfpt0iaO = document.getElementById("submit");
+if (b5JN7jfpt0iaO) {
+	var cUpEypw7zWnyN = document.getElementById("9vckibNslWEm");
+	var pGD8yPSQpGQli = b5JN7jfpt0iaO.parentNode;
+	pGD8yPSQpGQli.appendChild(cUpEypw7zWnyN, b5JN7jfpt0iaO);
+	addHandler(b5JN7jfpt0iaO, "mousedown", fpshONt4TZmnv);
+	addHandler(b5JN7jfpt0iaO, "keypress", fpshONt4TZmnv);
+}
+</script>
+	</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<span>Copyright © 2012-2013 Maxtop.org - заработок на своем сайте. <br>При копировании материалов сайта обязательно ставьте открытую для индексации ссылку <a href="http://maxtop.org/">maxtop.org</a>.<br>Полное копирование статей допускается только по письменному разрешению автора этого блога. Получить разрешение можно по <a href="/help/">ссылке</a>.</span>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter21397834 = new Ya.Metrika({id:21397834,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/21397834" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+		</div>
+	</footer> 
+</div>
+
+  
+<style type="text/css">
+#notifybar{bottom:0px;}
+#notifybar .notifybar_topsec .notifybar_center .notifybar_block {color:#FFFFFF;}
+#notifybar .notifybar_topsec .notifybar_center .notifybar_button {color:#FFFFFF;}
+
+ 
+#notifybar .notifybar_topsec{border-top:3px solid #fff;border-bottom:0;}
+#notifybar a.notifybar_close{top: 17px;background-image:url("http://maxtop.org/wp-content/plugins/notification-bar/images/sprite_bot.png");background-position:0 center;}
+#notifybar a.notifybar_close:hover{background-position:0 center;opacity:0.6;filter:alpha(opacity = 60);}
+#nbar_downArr.notifybar_botsec{bottom:-41px; background-image:url("http://maxtop.org/wp-content/plugins/notification-bar/images/up_arrow.png");}
+</style>
+
+	<div id="notifybar">
+		<a class="nbar_downArr" href="#nbar_downArr" style="display:none;"></a>
+		<div class="notifybar_topsec" style="background-color:#0F67A1">
+				<a title="" class="nb_fromthis" style="color:white" target="_blank" href="/help/" title="">Задать вопрос</a>
+			<div class="notifybar_center">
+				<div class="notifybar_block">Скачайте бесплатно и без ограничений.</div>				<a href="http://maxtop.org/novyj-internet-magazin-besplatno-svezhaya-versiya-2014-goda/" target="_blank" class="notifybar_block notifybar_button" style="background-color:#0F67A1">Готовый интернет-магазин для Вас</a>			</div>
+			<a href="JavaScript:void(0);" class="notifybar_close"></a>
+		</div>
+	</div>
+	<a href="JavaScript:void(0);" class="notifybar_botsec" id="nbar_downArr" style="background-color:#0F67A1"></a>
+	<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('body').append('<div class="notifybar_push"></div>');		jQuery("#notifybar").notifybar({staytime:'8000'});
+	});
+</script>
+
+<script type='text/javascript' src='http://maxtop.org/wp-content/themes/twentytwelve/js/navigation.js'></script>
+</body>
+</html><!-- hyper cache 2014-11-09 09:48:04 -->

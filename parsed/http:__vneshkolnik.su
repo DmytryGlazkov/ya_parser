@@ -1,0 +1,362 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>������� ��������</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<link href="/bitrix/js/main/core/css/core.css?1377982084" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/system.pagenavigation/.default/style.css?1377982085" type="text/css" rel="stylesheet" />
+<link href="/bitrix/components/bitrix/news.list/templates/.default/style.css?1377982083" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/vne/styles.css?1388273354" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/vne/template_styles.css?1388273354" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1377982084"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','bitrix_sessid':'37dd912e4358fde5c1033a7f057d890f','JS_CORE_LOADING':'��������...','JS_CORE_WINDOW_CLOSE':'�������','JS_CORE_WINDOW_EXPAND':'����������','JS_CORE_WINDOW_NARROW':'�������� � ����','JS_CORE_WINDOW_SAVE':'���������','JS_CORE_WINDOW_CANCEL':'��������'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1377982084"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1377982084"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '37dd912e4358fde5c1033a7f057d890f', false, 'b9b44da6a772ccfd82331789bdf8e3be');
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+      <script type="text/javascript" src="/bitrix/templates/vne/scripts/jquery.min.js"></script>
+	  <script type="text/javascript" src="/bitrix/templates/vne/scripts/toggleformtext.js"></script>
+	  <script type="text/javascript" src="/bitrix/templates/vne/scripts/jquery.easyAccordion.js"></script>
+      <script type="text/javascript" src="/bitrix/templates/vne/scripts/utility.js"></script>
+	  <script type="text/javascript" src="/bitrix/templates/vne/scripts/jquery.easing.js"></script>
+      <script type="text/javascript" src="/bitrix/templates/vne/scripts/jquery.sweet-menu-1.0.js"></script>
+	  <script language="javascript" type="text/javascript" src="/bitrix/templates/vne/scripts/addfavor.js"></script>
+<script type="text/javascript"> 
+			$(document).ready(function(){ 
+				$('#exampleMenu').sweetMenu({
+					top: 113,
+					padding: 8,
+					iconSize: 48,
+					easing: 'easeOutBounce',
+					duration: 500,
+					icons: [
+						'/bitrix/templates/vne/images/home.png',
+						'/bitrix/templates/vne/images/red_heart.png',
+						'/bitrix/templates/vne/images/comments.png',
+						'/bitrix/templates/vne/images/male_user.png',
+						'/bitrix/templates/vne/images/yellow_mail.png',
+					]
+				});
+			});
+		</script>
+<script type="text/javascript" src="/bitrix/templates/vne/scripts/hltable.js"></script>
+<script type="text/javascript" src="/highslide/highslide-full.js"></script>
+<link rel="stylesheet" type="text/css" href="/highslide/highslide.css" />
+<script type="text/javascript">
+hs.graphicsDir = '/highslide/graphics/';
+hs.outlineType = 'rounded-white';
+hs.wrapperClassName = 'draggable-header';
+hs.align = 'center';
+hs.transitions = ['expand', 'crossfade'];
+hs.fadeInOut = true;
+hs.dimmingOpacity = 0.85;
+// Add the controlbar
+hs.addSlideshow({
+	//slideshowGroup: 'group1',
+	interval: 5000,
+	repeat: false,
+	//useControls: true,
+	//fixedControls: 'fit',
+	overlayOptions: {
+		opacity: 0.75,
+		position: 'bottom center',
+		hideOnMouseOut: true
+	}
+});
+</script>
+<style type="text/css">
+		/* UNLESS YOU KNOW WHAT YOU'RE DOING, DO NOT CHANGE THE FOLLOWING RULES */
+		.easy-accordion{display:block;position:relative;overflow:hidden;padding:0;margin:0;}
+		.easy-accordion dt,.easy-accordion dd{margin:0;padding:0;}
+		.easy-accordion dt,.easy-accordion dd{position:absolute;}
+		.easy-accordion dt{margin-bottom:0;margin-left:0;z-index:5;/* Safari */ -webkit-transform: rotate(-90deg); /* Firefox */ -moz-transform: rotate(-90deg);-moz-transform-origin: 20px 0px;  /* Internet Explorer */ filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);cursor:pointer;}
+		.easy-accordion dd{z-index:1;opacity:0;overflow:hidden;}
+		.easy-accordion dd.active{opacity:1;}
+		.easy-accordion dd.no-more-active{z-index:2;opacity:1;}
+		.easy-accordion dd.active{z-index:3;}
+		.easy-accordion dd.plus{z-index:4;}
+		.easy-accordion .slide-number{position:absolute;bottom:0;left:10px;font-weight:normal;font-size:1.1em;/* Safari */ -webkit-transform: rotate(90deg); /* Firefox */ -moz-transform: rotate(90deg);  /* Internet Explorer */ filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);}
+		/* FEEL FREE TO CUSTOMIZE THE FOLLOWING RULES */
+		#accordion-1{width:900px;height:245px;background:#fff;}
+		#accordion-1 dl{width:900px;height:245px;}	
+		#accordion-1 dt{height:46px;line-height:44px;text-align:right;padding:0 15px 0 0;font-size:18px;font-weight:lighter;font-family: Tahoma, Geneva, sans-serif;text-transform:uppercase;letter-spacing:1px;background:#fff url(/bitrix/templates/vne/images/slide-title-inactive-1.jpg) 0 0 no-repeat;color:#0a6579;}
+		#accordion-1 dt.active{cursor:pointer;color:#fff;background:#fff url(/bitrix/templates/vne/images/slide-title-active-1.jpg) 0 0 no-repeat}
+		#accordion-1 dt.hover{color:#68889b;}
+		#accordion-1 dt.active.hover{color:#fff;}
+		#accordion-1 dd{background:#fff;border-top:1px solid #dbe9ea;border-right:1px solid #dbe9ea;border-bottom: 1px solid #a7d6e7; border-left:0;margin-right:3px;}
+		#accordion-1 .slide-number{color:#68889b;left:10px;font-size:12px;font-weight:bold;}
+		#accordion-1 .active .slide-number{color:#fff;}
+.easy-accordion dt{
+/* Opera */ -o-transform:rotate(-90deg);
+/* changes with the height of the box */ -o-transform-origin: 123px 122px;
+}
+.easy-accordion .slide-number{
+/* Opera */ -o-transform:rotate(90deg);
+}
+</style>   
+</head>
+<body>
+<body><div id="panel"></div>
+<table class="ace" align="center">
+<tr><td class="piso_uno">
+<div id="logo"><a class="logo" href="/"><span>�����������</span></a><a class="basket " href="/basket/"></a><a class="spez " href="/spez/"></a></div>
+
+<div id="soc_find">
+<table class="soc_find_td"><tr><td>
+
+<a class="book yandex" href="http://zakladki.yandex.ru/newlink.xml?url=http://vneshkolnik.su/&name=������� ��������" target="_blank" title="�������� � ������.��������" rel="nofollow"></a>
+<a class="book google" href="https://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http://vneshkolnik.su/&title=������� ��������" target="_blank" title="�������� � Google" rel="nofollow"></a>
+<a class="book vkontakte" href="http://vkontakte.ru/share.php?url=http://vneshkolnik.su/&amp;description=������� ��������" target="_blank" title="�������� � ���������" rel="nofollow"></a>
+<a class="book facebook" href="http://www.facebook.com/sharer.php?u=http://vneshkolnik.su/&amp;t=������� ��������"  target="_blank" title="�������� � Facebook" rel="nofollow"></a>
+<a class="book odnoklassniki" href="http://www.odnoklassniki.ru/dk?st.cmd=addShare&st._surl='http://vneshkolnik.su/'&title='������� ��������'"  target="_blank" title="�������� � �������������" rel="nofollow"></a>
+<a class="book memori" href="http://memori.ru/link/?sm=1&amp;u_data[url]=http://vneshkolnik.su/&amp;u_data[name]=������� ��������" target="_blank" title="�������� � Memori.ru" rel="nofollow"></a>
+
+<a class="book bobr" href="http://bobrdobr.ru/addext.html?url=http://vneshkolnik.su/&amp;title=������� ��������&amp;desc=������� ��������" target="_blank" title="�������� � ��������" rel="nofollow"></a>
+<a class="book mail" href="http://connect.mail.ru/share?share_url=http://vneshkolnik.su/" target="_blank" title="�������� �� ��� ���@MAIL.RU" rel="nofollow"></a>
+<a class="book lj" href="http://www.livejournal.com/update.bml?event=http://vneshkolnik.su/%20-%20������� ��������" target="_blank" title="�������� � ��" rel="nofollow"></a>
+
+</td></tr><tr><td>
+
+<!--SEARCH-->
+<table id="finder"><form name="search" method="GET"  action="/search/"><tr>
+<td id="find_uno"><input type="text" name="q" title="����� �� �����..." id="find"></td>
+<td id="find_dos"><input type="image" border="0" name="imageField" src="/bitrix/templates/vne/images/find.gif" style="vertical-align : middle;"></td></tr></form></table>
+<!--#SEARCH-->
+
+</td></tr></table>
+</div>
+</td></tr>
+<tr><td class="piso_dos">
+		<div id="accordion-1">
+            <dl>
+                <dt>�����������</dt>
+                <dd class="vneshkolnik"><div id="link_more"><a class="mores" href="/publication/vneshkolnik/"><span>�����������</span></a></div></dd>
+                <dt>�����������</dt>
+                <dd class="bibliotechka"><div id="link_more"><a class="mores" href="/publication/bibliotecka/"><span>�����������</span></a></div></dd>
+                <dt>���������</dt>
+                <dd class="bulleten"><div id="link_more"><a class="mores" href="/publication/bulleten/"><span>���������</span></a></dd>
+                <dt>���</dt>
+                <dd class="dop"><div id="link_more"><a class="mores" href="/publication/dop/"><span>�������������� ��������������� ���������</span></a></dd>
+                <dt>��������������</dt>
+                <dd class="sotrud"><div id="link_more"><a class="mores" href="/cooperation/"><span>��������������</span></a></dd>
+				<dt>��������-�������</dt>
+                <dd class="shop"><div id="link_more"><a class="mores" href="/catalog/"><span>��������-�������</span></a></dd>
+			</dl>
+        </div>
+</td></tr>
+<tr><td class="piso_tres">
+
+<!--MENU-->
+
+<table class="tm_tab" align="center"><tr><td class="tm_tab_td">
+<ul id="menu">
+<li><a href="/" class="tm tm_uno actives"><span>�������</span></a></li>
+<li><a href="/about/" class="tm tm_dos "><span>� ���</span>
+<ul>
+<!--SUB_BOX_TOP-->
+<table class="sub_box"><tr><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_1.png" width="10" height="10" alt=""></td><td class="sub_box_td sub_box_color" id="sbc_1"></td><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_2.png"  alt=""></td></tr><tr><td class="sub_box_td sub_box_color" id="sbc_4"></td><td class="sub_box_td">
+<!--#SUB_BOX_TOP-->
+
+<table class="sub_tab"><tr><td class="sub_tab_left">
+<a href="/about/redaction/">��������</a>
+<a href="/about/redsovet/">���������� �����</a>
+<a href="/about/news/">�������</a>
+<a href="/about/contact/">��������</a>
+<a href="/about/links/">�������� ������</a>
+</td></tr></table>
+			
+<!--SUB_BOX_DOWN-->		
+</td><td class="sub_box_td sub_box_color" id="sbc_2"></td></tr><tr><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_4.png" width="10" height="10" alt=""></td><td class="sub_box_td sub_box_color" id="sbc_3"></td><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_3.png" width="10" height="10" alt=""></td></tr></table>
+<!--#SUB_BOX_DOWN-->	
+</ul></a></li>
+		
+<li><a href="/publication/" class="tm tm_tres "><span>���� �������</span>
+<ul>
+<!--SUB_BOX_TOP-->
+<table class="sub_box"><tr><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_1.png" width="10" height="10" alt=""></td><td class="sub_box_td sub_box_color" id="sbc_1"></td><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_2.png"  alt=""></td></tr><tr><td class="sub_box_td sub_box_color" id="sbc_4"></td><td class="sub_box_td">
+<!--#SUB_BOX_TOP-->
+
+<table class="sub_tab"><tr><td class="sub_tab_left">
+<a href="/publication/vneshkolnik/">�����������</a>
+<a href="/publication/bibliotecka/">�����������</a>
+<a href="/publication/bulleten/">���������</a>
+<a href="/publication/dop/">�������������� ��������������� ���������</a>
+<a href="/publication/arhive/">�����</a>
+</td></tr></table>
+			
+<!--SUB_BOX_DOWN-->		
+</td><td class="sub_box_td sub_box_color" id="sbc_2"></td></tr><tr><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_4.png" width="10" height="10" alt=""></td><td class="sub_box_td sub_box_color" id="sbc_3"></td><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_3.png" width="10" height="10" alt=""></td></tr></table>
+<!--#SUB_BOX_DOWN-->	
+</ul></a></li>
+
+<li><a href="/contest/" class="tm tm_cuatro "><span>�����������</span>
+<ul>
+<!--SUB_BOX_TOP-->
+<table class="sub_box"><tr><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_1.png" width="10" height="10" alt=""></td><td class="sub_box_td sub_box_color" id="sbc_1"></td><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_2.png"  alt=""></td></tr><tr><td class="sub_box_td sub_box_color" id="sbc_4"></td><td class="sub_box_td">
+<!--#SUB_BOX_TOP-->
+
+<table class="sub_tab"><tr><td class="sub_tab_left" style="padding-right:5px;">
+<a href="/contest/today/">������� ��������</a>
+<a href="/contest/result/">����������</a>
+<a href="/contest/part/">�������������</a>
+<a href="/contest/arhive/">�����</a>
+</td>
+</tr></table>
+			
+<!--SUB_BOX_DOWN-->		
+</td><td class="sub_box_td sub_box_color" id="sbc_2"></td></tr><tr><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_4.png" width="10" height="10" alt=""></td><td class="sub_box_td sub_box_color" id="sbc_3"></td><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_3.png" width="10" height="10" alt=""></td></tr></table>
+<!--#SUB_BOX_DOWN-->	
+</ul></a></li>
+
+
+
+
+<li><a href="/cooperation/" class="tm tm_cinco "><span>��������������</span>
+<ul>
+<!--SUB_BOX_TOP-->
+<table class="sub_box"><tr><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_1.png" width="10" height="10" alt=""></td><td class="sub_box_td sub_box_color" id="sbc_1"></td><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_2.png"  alt=""></td></tr><tr><td class="sub_box_td sub_box_color" id="sbc_4"></td><td class="sub_box_td">
+<!--#SUB_BOX_TOP-->
+
+<table class="sub_tab"><tr><td class="sub_tab_left" style="padding-right:5px;">
+<a href="/cooperation/author/">��� �������</a>
+<a href="/cooperation/advert/">��� ��������������</a>
+</td>
+</tr></table>
+			
+<!--SUB_BOX_DOWN-->		
+</td><td class="sub_box_td sub_box_color" id="sbc_2"></td></tr><tr><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_4.png" width="10" height="10" alt=""></td><td class="sub_box_td sub_box_color" id="sbc_3"></td><td class="sub_box_td"><img src="/bitrix/templates/vne/images/sub_3.png" width="10" height="10" alt=""></td></tr></table>
+<!--#SUB_BOX_DOWN-->	
+</ul></a></li>
+
+
+
+
+<li><a href="/catalog/" class="tm tm_seis "><span>�������� �������</span></a></li>
+</ul></td></tr></table>
+
+<!--#MENU-->
+
+</td></tr>
+</table> 
+<table class="table_area" align="center"> 
+  <tbody> 
+    <tr> <td class="area_left"> 
+        <div id="area_left"> 
+          <h4>��������� �������</h4>
+         </div>
+       <div class="news-list">
+		<p class="news-item" id="bx_1914200112_169">
+							<span class="news-date-time">27.01.2014</span>
+											<a href="/about/news/detail.php?ELEMENT_ID=169"><b>��������� �������� ��������������� ����������� � ��</b></a><br />
+										� ����������� �� ���������� ������ ��������� ����������������� ������ �� ��������������� ����������� � ���������� �����.									</p>
+		<p class="news-item" id="bx_1914200112_156">
+							<span class="news-date-time">27.12.2013</span>
+											<a href="/about/news/detail.php?ELEMENT_ID=156"><b>���� ������� �����������</b></a><br />
+										&quot;������������&quot; ��������� � 2014 ����									</p>
+		<p class="news-item" id="bx_1914200112_155">
+							<span class="news-date-time">25.12.2013</span>
+											<a href="/about/news/detail.php?ELEMENT_ID=155"><b>����� ������� &quot;�����������&quot;</b></a><br />
+										� 2014 ���� �� ��������� ������� &laquo;�����������&raquo; �������� ����� �������!									</p>
+</div>
+ 
+        <div id="news_all"><a href="/about/news/" >����� �������� &raquo;</a></div>
+       
+        <div class="separator sep1"><img src="/bitrix/templates/vne/images/pix.gif" width="236" height="1"  /></div>
+       </td> <td class="area_zero"> 
+        <h5><img src="/bitrix/templates/vne/images/pix.gif" width="6" height="1"  /></h5>
+       </td> <td class="area_center"> 
+        <div id="area_center"> 
+          <h1 style="text-align: center;"><font size="3" face="Verdana">������ &laquo;����������껠</font></h1>
+         
+          <h3><font size="3" face="Verdana">�������� ������ ���������������� ���������� �������� �� ������ � �������� ������������ (���������������) ����������� �����.�</font></h3>
+         
+          <div style="text-align: center;"><a href="http://vneshkolnik.su/publication/vneshkolnik/.php" >����� �������</a></div>
+         
+          <p><font size="2" style="font-weight: normal;">������ � </font><font size="2"><b>1923</b></font><font size="2" style="font-weight: normal;"> ����. 
+              <br />
+             </font><font size="2"><span style="font-weight: normal;">������� ������� ���������� � </span><b>1996</b><span style="font-weight: normal;"> ����.�</span></font></p>
+         
+          <p><font size="2"><span style="font-weight: normal;">������������� - <i>6 ��� � ���</i>. </span> 
+              <br />
+             
+              <br />
+             ������ ��������������� � ���������� ������� �������� ������������� (����).</font></p>
+         
+          <p><b style="font-size: small;">�������������</b><span style="font-size: small;"> </span><span style="font-size: small;">���������������� �� �������� �� ���� �������� ������, ������� ��� � ������. ����������� ����� �� �������� ������� � �������� � ����� ��������� ����� ������ �������.�</span></p>
+         
+          <p><font size="2"> 
+              <br />
+             <b> ������ �������������</b> <span style="font-weight: normal;">� ��� ����������</span><b> �����������, �������������, ��������������� ��������������� ����������</b> <span style="font-weight: normal;">���������� ���������� ������� � �������������. </span> 
+              <br />
+             
+              <br />
+             <span style="font-weight: normal;"> ���� ������� ��������� ��������� �� ������ ����� ���������, �� ��� ����� ������� ��� �������� �����. ������ ��� �� ������� ������ ����������, �������� ����� ������! 
+                <br />
+               </span> 
+              <br />
+             <b> ������ &quot;�����������&quot;</b><span style="font-weight: normal;">��������� ��� ��������� ������������ ��������� �� ������ � �������� ������������� �� � ����� &quot;����������� �������� �������� �����������&quot; ����������� ��.</span></font></p>
+         </div>
+       
+        <div id="text_index"> .</div>
+       </td> <td class="area_zero"><img src="/bitrix/templates/vne/images/pix.gif" width="6" height="1"  /></td> <td class="area_right"> 
+        <div id="area_right"> 
+          <h4>������ � �����</h4>
+         
+          <div id="banner"><img src="/bitrix/templates/vne/images/banner.jpg" width="196" height="190"  /></div>
+         
+          <h4>�����������</h4>
+         
+          <div id="concurs"><strong><b><a href="http://www.vneshkolnik.su/contest/today/" >������� � �������� �������� ����: ���������� �������������</a></b></strong><a href="#52923289872706" >������������� ������� ����������� ��������� 27 �������. ���������� ������� �������...</a></div>
+         
+          <div id="concurs"> 
+            <br />
+           </div>
+         
+          <div id="concurs"> 
+            <br />
+           </div>
+         
+          <div id="concurs"> 
+            <br />
+           </div>
+         
+          <div id="concurs" style="text-align: center;"><font color="#003370"><b>���� �������� � Facebook</b></font></div>
+        
+          <div id="concurs" style="text-align: center;"><a href="https://www.facebook.com/vneshkolnik?fref=ts" target="_blank" ><img src="data:image/png;base64,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" /></a></div>
+         </div>
+       
+        <div class="separator sep1"><img src="/bitrix/templates/vne/images/pix.gif" width="220" height="1"  /></div>
+       </td> </tr>
+   </tbody>
+ </table>
+ <script type="text/javascript">
+highlightTableRows("myTable","hoverRow","clickedRow");
+highlightTableRows("myTable2","hoverRow","clickedRow");
+highlightTableRows("myTable3","hoverRow","clickedRow");
+highlightTableRows("myTable4","hoverRow","clickedRow");
+highlightTableRows("myTable5","hoverRow","clickedRow");
+highlightTableRows("myTable6","hoverRow","clickedRow");
+</script>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr><td class="dmenu index"><div id="bg_dmenu">
+<a class="dm dm_1" href="/cooperation/author/"><span>��� �������</span></a>
+<a class="dm dm_2" href="/contest/today/"><span>������� ��������</span></a>
+<a class="dm dm_3" href="/cooperation/advert/"><span>������� � ���</span></a>
+<a class="dm dm_4" href="/about/redaction/"><span>���� ��������</span></a>
+<a class="dm dm_5" href="/about/redsovet/"><span>��� ��������</span></a>
+<a class="dm dm_6" href="/about/links/"><span>�������� ������</span></a>
+<a class="dm dm_7" href="/about/contact/"><span>��������</span></a>
+</div></td></tr>
+<tr><td class="down">&nbsp;</td></tr>
+</table>
+ <ul id="exampleMenu">
+            <li><a href="/">�� �������</a></li>
+			<li><a href="javascript:void(0);" onClick="return bookmark(this);">� ��������</a></li>
+            <li><a href="/catalog/">� �������</a></li>
+            <li><a href="/cooperation/author/">�������</a></li>
+            <li><a href="/about/contact/">��������</a></li>
+</ul> 
+</body>
+</html>

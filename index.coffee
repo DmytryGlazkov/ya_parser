@@ -78,6 +78,7 @@ getContacts = (url) ->
 
 Sync => 
   try
+    sites = []
     urls = []
     _.each [config.pages.from..config.pages.to], (pageNum) ->
       _.each config.regions, (region) ->
@@ -89,32 +90,20 @@ Sync =>
           $ = cheerio.load page
           selector = ".serp-item__greenurl .serp-url__link"
           $(selector).not('script').each (index, element) ->
-            url = $(@).text()
+            url = $(@).text().toLowerCase()
             if validator.isURL url
               if checkPage url
-                contacts = getContacts url
-                console.log contacts
-                fs.appendFileSync config.out, url + '\n';
-                if contacts.phones?.length
-                  fs.appendFileSync config.out, contacts.phones.join(',') + '\n'
-                if contacts.emails?.length
-                  fs.appendFileSync config.out, contacts.emails.join(',') + '\n'
+                if urls.indexOf(url) is-1
+                  urls.push url
+                  contacts = getContacts url
+                  console.log contacts
+                  fs.appendFileSync config.out, url + '\n';
+                  if contacts.phones?.length
+                    fs.appendFileSync config.out, contacts.phones.join(',') + '\n'
+                  if contacts.emails?.length
+                    fs.appendFileSync config.out, contacts.emails.join(',') + '\n'
 
-                fs.appendFileSync config.out,'\n\n'
-                urls.push {
-                  url: url.toLowerCase()
-                  phones: contacts.phones?.join(',') or null
-                  emails: contacts.emails?.join(',') or null
-                }
-    urls = _.uniq urls, 'url'
-    if fs.existsSync config.out
-      fs.unlinkSync config.out
-    _.each urls, (site) ->
-      fs.appendFileSync config.out, site.url + '\n';
-      if site.phones?.length
-        fs.appendFileSync config.out, site.phones.join(',') + '\n'
-      if site.emails?.length
-        fs.appendFileSync config.out, site.emails.join(',') + '\n'
+                  fs.appendFileSync config.out,'\n\n'
 
   catch e
     console.error e, e.stack

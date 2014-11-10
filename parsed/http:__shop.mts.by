@@ -1,0 +1,1012 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru" dir="ltr">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex" />
+<link rel="alternate" type="application/rss+xml" title="Интернет-магазин МТС RSS" href="http://shop.mts.by/rss.xml" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/x-icon" />
+
+		<title>Интернет-магазин МТС</title>
+		<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_e8663e6e36caf36b32c060af17a93aea_0.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_624c29f1eb5ad71ec7d4975f49cf7086_0.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_f4353852dd5d279a69902d71c3589e5f_0.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_72736abd70d623e6f9d6eaa5272506a3_2.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/advagg_css/css_6b13fdde97f6a68a141952a29ba821e6_0.css" />
+        <!--noindex--><script type="text/javascript" src="/sites/default/files/advagg_js/js_28354fc3277438bf4b4d3f861061bcef_0.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_062ece5fc47de245482ef41962cc6571_0.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_1abefcd6af88892823f98f55b093beb7_0.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_da158c26ba58a292dbaf32110461e4ba_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","uc_ajax_cart":{"CALLBACK":"\/uc_ajax_cart\/add\/item","SHOW_CALLBACK":"\/uc_ajax_cart\/show","ADD_TITLE":"Please wait","ADD_MESSAGE":"Add product to cart","REMOVE_TITLE":"Please wait","REMOVE_MESSAGE":"Remove product from cart","CART_LINK_CALLBACK":"\/uc_ajax_cart\/addlink","BLOCK_UI":1,"TIMEOUT":2000,"UPDATE_CALLBACK":"\/uc_ajax_cart\/update","UPDATE_MESSAGE":"Update cart","SESSION":"n2sgs33thbhbme49rfrodi2a57","UPDATE":0,"CART_OPERATION":"Cart","CART_VIEW_ON":0,"SHOW_VIEW_CALLBACK":"\/uc_ajax_cart\/show-cart-view","TRACK_CLOSED_STATE":0,"INITIAL_CLOSED_STATE":0,"CART_PANE_EFFECT":0,"CART_PANE_EFFECT_DURATION":200,"HIDE_CART_OPERATIONS":0,"COLLAPSIBLE_CART":0},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"\u0412\u0430\u0448\u0430 \u043e\u0446\u0435\u043d\u043a\u0430 \u0431\u044b\u043b\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"mtsBaseUrl":["http:\/\/shop.mts.by","http:\/\/shop.mts.by"],"modal-popup-small":{"modalSize":{"type":"fixed","width":450,"height":145},"modalOptions":{"opacity":0.55,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsMessage","throbber":"\u003Cimg src=\u0022\/.\/sites\/all\/themes\/base\/ctools\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 width=\u002232\u0022 height=\u002232\u0022 \/\u003E","closeText":""},"modal-popup-medium":{"modalSize":{"type":"fixed","width":550,"height":450},"modalOptions":{"opacity":0.55,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg src=\u0022\/.\/sites\/all\/themes\/base\/ctools\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 width=\u002232\u0022 height=\u002232\u0022 \/\u003E","closeText":"Close"},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg src=\u0022\/sites\/all\/modules\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043e\u043a\u043d\u043e\u0022 title=\u0022\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043e\u043a\u043d\u043e\u0022 width=\u002216\u0022 height=\u002216\u0022 \/\u003E","throbber":"\u003Cimg src=\u0022\/sites\/all\/modules\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 width=\u002232\u0022 height=\u002232\u0022 \/\u003E"},"cron":{"basePath":"\/poormanscron","runNext":1415577791},"shadowbox":{"animate":0,"animateFade":0,"animSequence":"wh","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":1,"counterLimit":"10","counterType":"skip","displayCounter":0,"displayNav":1,"enableKeys":1,"fadeDuration":"0.35","handleOversize":"none","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"ru","modal":false,"overlayColor":"#000","overlayOpacity":"0.85","players":null,"resizeDuration":"0.35","showMovieControls":1,"slideshowDelay":"0","viewportPadding":20,"useSizzle":0},"vfas":{"views-exposed-form-stores-available":{"exceptions":""}},"views":{"ajax_path":["\/views\/ajax","\/views\/ajax","\/views\/ajax","\/views\/ajax","\/views\/ajax","\/views\/ajax","\/views\/ajax","\/views\/ajax","\/views\/ajax","\/views\/ajax","\/views\/ajax"],"ajaxViews":{"views_dom_id:e1d761490d87e40715c5a881f43eb48c":{"view_name":"stores","view_display_id":"available","view_args":"1980","view_path":"node","view_base_path":"stores\/%","view_dom_id":"e1d761490d87e40715c5a881f43eb48c","pager_element":0},"views_dom_id:863958fa60ab51937fde8dc0c8c1a3de":{"view_name":"stores","view_display_id":"available","view_args":"1854","view_path":"node","view_base_path":"stores\/%","view_dom_id":"863958fa60ab51937fde8dc0c8c1a3de","pager_element":0},"views_dom_id:277780791d7d2de0a3c8098daa8b46ff":{"view_name":"stores","view_display_id":"available","view_args":"1667","view_path":"node","view_base_path":"stores\/%","view_dom_id":"277780791d7d2de0a3c8098daa8b46ff","pager_element":0},"views_dom_id:e65870ae4a13714b1edf47027bb254af":{"view_name":"stores","view_display_id":"available","view_args":"1665","view_path":"node","view_base_path":"stores\/%","view_dom_id":"e65870ae4a13714b1edf47027bb254af","pager_element":0},"views_dom_id:c1472d2bd5d69551bf827a642f77e241":{"view_name":"stores","view_display_id":"available","view_args":"1624","view_path":"node","view_base_path":"stores\/%","view_dom_id":"c1472d2bd5d69551bf827a642f77e241","pager_element":0},"views_dom_id:47202e4e5a5c71dada05290507a018f2":{"view_name":"stores","view_display_id":"available","view_args":"1353","view_path":"node","view_base_path":"stores\/%","view_dom_id":"47202e4e5a5c71dada05290507a018f2","pager_element":0},"views_dom_id:5e4ab8cd4dc856f82934d97ccb37e7e8":{"view_name":"stores","view_display_id":"available","view_args":"1323","view_path":"node","view_base_path":"stores\/%","view_dom_id":"5e4ab8cd4dc856f82934d97ccb37e7e8","pager_element":0},"views_dom_id:14918912b6f85fa3d105aedb1ca8195f":{"view_name":"stores","view_display_id":"available","view_args":"1036","view_path":"node","view_base_path":"stores\/%","view_dom_id":"14918912b6f85fa3d105aedb1ca8195f","pager_element":0},"views_dom_id:dcb0660eb632f06e2e35f5dd74a51d9a":{"view_name":"stores","view_display_id":"available","view_args":"799","view_path":"node","view_base_path":"stores\/%","view_dom_id":"dcb0660eb632f06e2e35f5dd74a51d9a","pager_element":0},"views_dom_id:d2aa029cf399f3eb55c23d9336410479":{"view_name":"stores","view_display_id":"available","view_args":"782","view_path":"node","view_base_path":"stores\/%","view_dom_id":"d2aa029cf399f3eb55c23d9336410479","pager_element":0},"views_dom_id:ba0a4f737b47e8e119e6bc840d0be372":{"view_name":"stores","view_display_id":"available","view_args":"641","view_path":"node","view_base_path":"stores\/%","view_dom_id":"ba0a4f737b47e8e119e6bc840d0be372","pager_element":0}}},"viewsSlideshowSingleFrame":{"#views_slideshow_singleframe_main_front_slider-block_1":{"num_divs":6,"id_prefix":"#views_slideshow_singleframe_main_","div_prefix":"#views_slideshow_singleframe_div_","vss_id":"front_slider-block_1","timeout":5000,"sort":1,"effect":"fade","speed":700,"start_paused":0,"delay":0,"fixed_height":1,"random":0,"pause":1,"pause_on_click":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","remember_slide":0,"remember_slide_days":1,"controls":0,"items_per_slide":1,"pager":2,"pager_type":"Numbered","pager_hover":2,"pager_click_to_page":0,"image_count":0,"nowrap":0,"sync":1,"advanced":"","ie":{"cleartype":"true","cleartypenobg":"true"}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function(){$("#edit-panes-address-phone").mask("+375(99) 9999999");$("#edit-panes-delivery-delivery-phone").mask("+375(99) 9999999");$('#edit-profile-phone').mask("+375(99) 9999999");$('#edit-submitted-nomer-telefona').mask("+375(99) 9999999")})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$.get("/compare/count",function(data){$("#block-mts_compare-0 .content").html(data)})})
+//--><!]]>
+</script>
+<!--/noindex-->
+		<!--[if lte IE 8]>
+			<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/base/html/fix-ie.css" />		<![endif]-->
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+        <base href="http://shop.mts.by"/>
+	</head>
+	<body class="front not-logged-in page-node one-sidebar sidebar-left breadcrumb-empty">
+
+		<!-- Layout -->
+		<div id="wrapper">
+
+				<div id="header">
+					<div id="logo-floater">
+						<a href="/" title="Интернет-магазин МТС"><img src="/sites/all/themes/base/logo.png" alt="Интернет-магазин МТС" id="logo" /></a>					</div>
+                                            <div class="search_cont">
+                            
+<div id="block-mts_search-0" class="clear-block block block-mts_search"><div class="block-inner">
+
+  <div class="content"><form action="/"  accept-charset="UTF-8" method="post" id="mts-search-ajax-search-form">
+<div><div class="form-item" id="edit-ajax-text-wrapper">
+ <input type="text" maxlength="128" name="ajax_text" id="edit-ajax-text" size="60" value="" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Найти"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-334e49b0500af42b69872bf3f45489f9" value="form-334e49b0500af42b69872bf3f45489f9"  />
+<input type="hidden" name="form_id" id="edit-mts-search-ajax-search-form" value="mts_search_ajax_search_form"  />
+
+</div></form>
+</div>
+</div></div>
+                        </div>
+               		
+                    <div id="header-menu">
+
+                        
+<div id="block-menu-menu-header-menu" class="clear-block block block-menu"><div class="block-inner">
+
+  <div class="content"><ul class="menu"><li class="leaf first active-trail"><a href="/" title="" class="active">Интернет-магазин МТС</a></li><li class="leaf last"><a href="http://mts.by" title="">Перейти на сайт МТС</a></li></ul></div>
+</div></div>
+
+<div id="block-block-10" class="clear-block block block-block"><div class="block-inner">
+
+  <div class="content"><p><strong>8 (029) 500-30-05, 210 </strong>(в сети МТС)<br />
+	<strong>8 (017) 237-98-97</strong></p>
+</div>
+</div></div>
+                    </div>
+					
+					<div id="main-menu">
+                        
+<div id="block-menu-primary-links" class="clear-block block block-menu"><div class="block-inner">
+
+  <div class="content"><ul class="menu"><li class="leaf first active-trail"><a href="/" title="" class="active">Магазин</a></li><li class="leaf"><a href="/discounts_prom" title="">Скидки и акции</a></li><li class="leaf"><a href="/news" title="">Новости</a></li><li class="leaf"><a href="/reviews" title="">Обзоры</a></li><li class="leaf"><a href="/stores" title="">Салоны</a></li><li class="leaf"><a href="/rassrochka" title="">Рассрочка</a></li><li class="leaf"><a href="/oplata-i-dostavka" title="">Оплата и доставка</a></li><li class="leaf last"><a href="http://shop.mts.by/oplata-svyazi" title="">Платежи</a></li></ul></div>
+</div></div>
+
+                                                    <div class="cart">
+                                
+<div id="block-mts_compare-0" class="clear-block block block-mts_compare"><div class="block-inner">
+
+  <div class="content">&nbsp;</div>
+</div></div>
+
+<div id="block-uc_ajax_cart-0" class="clear-block block block-uc_ajax_cart"><div class="block-inner">
+  <h2><span class="title block-title" id="ajax-cart-headline">Корзина</span></h2>
+
+  <div class="content"><div id="ajaxCartUpdate" class="load-on-view"><p>Загрузка корзины</p></div></div>
+</div></div>
+                            </div>
+                   		                    </div>
+
+          <div id="user-menu" class="not-logged">
+                        <a href="/user">Войти</a> &nbsp; | &nbsp; <a href="/user/register">Зарегистрироваться</a>                      </div>
+
+				</div> <!-- /header -->
+
+          <div id="container-outer">
+              <div id="container-inner">
+                <div id="container" class="clear-block">
+                    <div id="center">
+                        <div id="squeeze">
+                            <div class="right-corner">
+                                <div class="left-corner">
+
+                                    
+                                    
+                                                        
+                                                                                                          
+                                    
+
+                                    
+                                    <div class="clear-block">
+                                                                            </div>
+
+                    
+                                                          <div class="content_bottom">
+                        
+<div id="block-views-front_slider-block_1" class="clear-block block block-views"><div class="block-inner">
+
+  <div class="content"><div class="view view-front-slider view-id-front_slider view-display-id-block_1 view-dom-id-16b772758142be5ef8f80bd8a906a6bb">
+    
+  
+  
+      <div class="view-content">
+      
+
+
+<div id="views_slideshow_singleframe_main_front_slider-block_1" class="views_slideshow_singleframe_main views_slideshow_main"><div id="views_slideshow_singleframe_teaser_section_front_slider-block_1" class="views_slideshow_singleframe_teaser_section"><div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_singleframe_div_front_slider-block_1_0"><div class="views-row views-row-0 views-row-first views-row-odd">
+<div class="mts-noprice">  
+  <div class="views-field-field-slider-image-fid">
+                <span class="field-content"><span class="field-content"><img  class="imagefield imagefield-field_slider_image" width="690" height="318" alt="" src="http://shop.mts.by/sites/default/files/slider/s4.jpg?1365747297" /></span></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><span class="field-content">Galaxy S4<br />Рассрочка 0%</span></span>
+  </div>
+  
+  <div class="views-field-field-slider-features-value">
+                <div class="field-content"><div class="field-content"></div></div>
+  </div>
+  
+  <div class="views-field-field-product-old-price-value">
+                <span class="field-content"><span class="field-content"></span></span>
+  </div>
+  
+  <div class="views-field-path">
+                <span class="field-content"><span class="field-content"><a href="http://shop.mts.by/phones/samsung/samsung-galaxy-s4-16gb-i9500-chernyi">Подробнее</a></span></span>
+  </div>
+  
+  <div class="views-field-sell-price">
+                <span class="field-content"><span class="field-content"><span class="currency-int">6 999 300</span> <span class="currency">руб.</span>
+</span></span>
+  </div>
+</div>
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-2 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_front_slider-block_1_1"><div class="views-row views-row-0 views-row-first views-row-odd">
+<div class="mts-noprice">  
+  <div class="views-field-field-slider-image-fid">
+                <span class="field-content"><span class="field-content"><img  class="imagefield imagefield-field_slider_image" width="690" height="318" alt="" src="http://shop.mts.by/sites/default/files/slider/p0002985_nokia_lumia_925_banner_690x320px_rus_21.jpg?1408028037" /></span></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><span class="field-content">Nokia Lumia 925<br /> За 3 999 000</span></span>
+  </div>
+  
+  <div class="views-field-field-slider-features-value">
+                <div class="field-content"><div class="field-content"></div></div>
+  </div>
+  
+  <div class="views-field-field-product-old-price-value">
+                <span class="field-content"><span class="field-content"><span class="currency-int">&nbsp; 5 489 100</span> <span class="currency">руб.</span>&nbsp;
+</span></span>
+  </div>
+  
+  <div class="views-field-path">
+                <span class="field-content"><span class="field-content"><a href="http://shop.mts.by/phones/nokia/nokia-lumia-925-chernyi">Подробнее</a></span></span>
+  </div>
+  
+  <div class="views-field-sell-price">
+                <span class="field-content"><span class="field-content"><span class="currency-int">5 399 100</span> <span class="currency">руб.</span>
+</span></span>
+  </div>
+</div>
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-3 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_front_slider-block_1_2"><div class="views-row views-row-0 views-row-first views-row-odd">
+<div class="mts-noprice">  
+  <div class="views-field-field-slider-image-fid">
+                <span class="field-content"><span class="field-content"><img  class="imagefield imagefield-field_slider_image" width="690" height="318" alt="" src="http://shop.mts.by/sites/default/files/slider/main3.jpg?1397451777" /></span></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><span class="field-content">Galaxy S III Duos<br />Всего за 2 999 000!</span></span>
+  </div>
+  
+  <div class="views-field-field-slider-features-value">
+                <div class="field-content"><div class="field-content"></div></div>
+  </div>
+  
+  <div class="views-field-field-product-old-price-value">
+                <span class="field-content"><span class="field-content"></span></span>
+  </div>
+  
+  <div class="views-field-path">
+                <span class="field-content"><span class="field-content"><a href="http://shop.mts.by/phones/samsung/samsung-galaxy-s-iii-duos-i9300i-chernyi">Подробнее</a></span></span>
+  </div>
+  
+  <div class="views-field-sell-price">
+                <span class="field-content"><span class="field-content"><span class="currency-int">3 959 100</span> <span class="currency">руб.</span>
+</span></span>
+  </div>
+</div>
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-4 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_front_slider-block_1_3"><div class="views-row views-row-0 views-row-first views-row-odd">
+<div class="mts-noprice">  
+  <div class="views-field-field-slider-image-fid">
+                <span class="field-content"><span class="field-content"><img  class="imagefield imagefield-field_slider_image" width="690" height="318" alt="" src="http://shop.mts.by/sites/default/files/slider/main_6.jpg?1412228420" /></span></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><span class="field-content">Samsung Galaxy Alpha<br />Дизайн и технологии</span></span>
+  </div>
+  
+  <div class="views-field-field-slider-features-value">
+                <div class="field-content"><div class="field-content"></div></div>
+  </div>
+  
+  <div class="views-field-field-product-old-price-value">
+                <span class="field-content"><span class="field-content"></span></span>
+  </div>
+  
+  <div class="views-field-path">
+                <span class="field-content"><span class="field-content"><a href="http://shop.mts.by/phones/samsung/samsung-galaxy-alpha-g850f-belyi">Подробнее</a></span></span>
+  </div>
+  
+  <div class="views-field-sell-price">
+                <span class="field-content"><span class="field-content"><span class="currency-int">7 399 000</span> <span class="currency">руб.</span>
+</span></span>
+  </div>
+</div>
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-5 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_front_slider-block_1_4"><div class="views-row views-row-0 views-row-first views-row-odd">
+<div class="mts-noprice">  
+  <div class="views-field-field-slider-image-fid">
+                <span class="field-content"><span class="field-content"><img  class="imagefield imagefield-field_slider_image" width="690" height="318" alt="" src="http://shop.mts.by/sites/default/files/slider/note_4_main.jpg?1413956302" /></span></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><span class="field-content">Samsung Galaxy Note 4<br />Колоссальная мощь</span></span>
+  </div>
+  
+  <div class="views-field-field-slider-features-value">
+                <div class="field-content"><div class="field-content"></div></div>
+  </div>
+  
+  <div class="views-field-field-product-old-price-value">
+                <span class="field-content"><span class="field-content"></span></span>
+  </div>
+  
+  <div class="views-field-path">
+                <span class="field-content"><span class="field-content"><a href="http://shop.mts.by/phones/samsung/samsung-galaxy-note-4-n910c-belyi">Подробнее</a></span></span>
+  </div>
+  
+  <div class="views-field-sell-price">
+                <span class="field-content"><span class="field-content"><span class="currency-int">10 199 000</span> <span class="currency">руб.</span>
+</span></span>
+  </div>
+</div>
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-6 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_front_slider-block_1_5"><div class="views-row views-row-0 views-row-first views-row-odd">
+<div class="mts-noprice">  
+  <div class="views-field-field-slider-image-fid">
+                <span class="field-content"><span class="field-content"><img  class="imagefield imagefield-field_slider_image" width="690" height="318" alt="" src="http://shop.mts.by/sites/default/files/slider/830_main.jpg?1413451962" /></span></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><span class="field-content">Новый Nokia<br />Lumia 830</span></span>
+  </div>
+  
+  <div class="views-field-field-slider-features-value">
+                <div class="field-content"><div class="field-content"></div></div>
+  </div>
+  
+  <div class="views-field-field-product-old-price-value">
+                <span class="field-content"><span class="field-content"></span></span>
+  </div>
+  
+  <div class="views-field-path">
+                <span class="field-content"><span class="field-content"><a href="http://shop.mts.by/phones/nokia/nokia-lumia-830-zelenyi">Подробнее</a></span></span>
+  </div>
+  
+  <div class="views-field-sell-price">
+                <span class="field-content"><span class="field-content"><span class="currency-int">4 994 100</span> <span class="currency">руб.</span>
+</span></span>
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  <div class="views-slideshow-controls-bottom clear-block">
+        <div class="views_slideshow_singleframe_pager views_slideshow_pagerNumbered" id="views_slideshow_singleframe_pager_front_slider-block_1"></div>      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div></div>
+
+<div id="block-mts-1" class="clear-block block block-mts"><div class="block-inner">
+  <h2>Специальные предложения</h2>
+
+  <div class="content"><div class="catalog-page">
+    <div class="content">
+        <table class="catalog-table">
+            <tr class="product_info">
+                                    <td class="product_info_td td_first">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/samsung/samsung-galaxy-s4-16gb-i9500-belyi" class="mts-label-action">Акция</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/samsung/samsung-galaxy-s4-16gb-i9500-belyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/s4white.png" alt="Samsung GALAXY S4 (16Gb) (I9500) (белый)" title="Samsung GALAXY S4 (16Gb) (I9500) (белый)"  class="imagecache imagecache-product_teaser" width="84" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/samsung/samsung-galaxy-s4-16gb-i9500-belyi">Samsung GALAXY S4 (16Gb) (I9500) (белый)</a></h3>
+         <div class="favorite_link" id="fav_1036">
+           
+        </div>
+                                                                                                                                                                    <div class="item-1 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-2 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-3 item">
+                            <span class="product_label">Камера</span>: 13 Мпикс                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Аудиоплеер</span>                        </div>
+                                                                                
+            </div>
+    <div class="compare_link" id="node_1036">
+        <a href="/compare/nojs/1036/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                                    <td class="product_info_td">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/samsung/samsung-galaxy-s-iii-duos-i9300i-chernyi" class="mts-label-action">Акция</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/samsung/samsung-galaxy-s-iii-duos-i9300i-chernyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/9300id.png" alt="Samsung Galaxy S III Duos (I9300I) черный" title="Samsung Galaxy S III Duos (I9300I) черный"  class="imagecache imagecache-product_teaser" width="86" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/samsung/samsung-galaxy-s-iii-duos-i9300i-chernyi">Samsung Galaxy S III Duos (I9300I) черный</a></h3>
+         <div class="favorite_link" id="fav_1855">
+           
+        </div>
+                                                                                <div class="item-1 item">
+                            <span class="product_label">ПО</span>:  Android 4.3                        </div>
+                                                                                                                                    <div class="item-2 item">
+                            <span class="product_label">Несколько SIM-карт</span>                        </div>
+                                                                                                                                                                <div class="item-3 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-5 item">
+                            <span class="product_label">Камера</span>: 8 Мпикс                        </div>
+                                                                                                                                                
+            </div>
+    <div class="compare_link" id="node_1855">
+        <a href="/compare/nojs/1855/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                                    <td class="product_info_td td_last">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/nokia/nokia-lumia-925-chernyi" class="mts-label-action">Акция</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/nokia/nokia-lumia-925-chernyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/925_bl.jpg" alt="Nokia Lumia 925 черный" title="Nokia Lumia 925 черный"  class="imagecache imagecache-product_teaser" width="90" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/nokia/nokia-lumia-925-chernyi">Nokia Lumia 925 черный</a></h3>
+         <div class="favorite_link" id="fav_1353">
+           
+        </div>
+                                                                                                                                        <div class="item-1 item">
+                            <span class="product_label">Поддержка 4G</span>                        </div>
+                                                                                                                                    <div class="item-2 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-3 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Камера</span>: 8.7 Мпикс                        </div>
+                                                                                                                                    <div class="item-5 item">
+                            <span class="product_label">Аудиоплеер</span>                        </div>
+                                                                                
+            </div>
+    <div class="compare_link" id="node_1353">
+        <a href="/compare/nojs/1353/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                            </tr>
+            <tr class="product_links">
+                                    <td class="product_links_td td_first">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">6 999 300</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-1036" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty" value="1"  />
+<input type="submit" name="op" id="edit-submit-1036" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions" value="0"  />
+<input type="hidden" name="form_build_id" id="form-32f2e850d2296aa941a28a86a4e3cda8" value="form-32f2e850d2296aa941a28a86a4e3cda8"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-1036" value="uc_product_add_to_cart_form_1036"  />
+<input type="hidden" name="product-nid" id="edit-product-nid" value="1036"  />
+
+</div></form>
+</div></div>        </div>
+    
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3.61111</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on" style="width: 61.111%"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+</div>
+</div></div>                                            </td>
+                                    <td class="product_links_td">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">3 959 100</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-1855" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-1" value="1"  />
+<input type="submit" name="op" id="edit-submit-1855" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions-1" value="0"  />
+<input type="hidden" name="form_build_id" id="form-963e3b93837c69cb005d7d7369e3dcc2" value="form-963e3b93837c69cb005d7d7369e3dcc2"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-1855" value="uc_product_add_to_cart_form_1855"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-1" value="1855"  />
+
+</div></form>
+</div></div>        </div>
+    
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3.727275</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on" style="width: 72.7275%"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+</div>
+</div></div>                                            </td>
+                                    <td class="product_links_td td_last">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">5 399 100</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-1353" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-2" value="1"  />
+<input type="submit" name="op" id="edit-submit-1353" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions-2" value="0"  />
+<input type="hidden" name="form_build_id" id="form-e93b13631517f6a218ad07ad2173c025" value="form-e93b13631517f6a218ad07ad2173c025"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-1353" value="uc_product_add_to_cart_form_1353"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-2" value="1353"  />
+
+</div></form>
+</div></div>        </div>
+    
+            <div class="price_old"><span>&nbsp;<span class="currency-int">5 489 100</span> <span class="currency">руб.</span>&nbsp;</span></div>
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3.85</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on" style="width: 85%"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+</div>
+</div></div>                                            </td>
+                            </tr>
+        </table>
+    </div>
+</div>
+</div>
+</div></div>
+
+<div id="block-mts-0" class="clear-block block block-mts"><div class="block-inner">
+  <h2>Новинки</h2>
+
+  <div class="content"><div class="catalog-page">
+    <div class="content">
+        <table class="catalog-table">
+            <tr class="product_info">
+                                    <td class="product_info_td td_first">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/huawei/huawei-ascend-p7-chernyi" class="mts-label-action">Акция</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/huawei/huawei-ascend-p7-chernyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/p7.png" alt="Huawei Ascend P7 черный" title="Huawei Ascend P7 черный"  class="imagecache imagecache-product_teaser" width="82" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/huawei/huawei-ascend-p7-chernyi">Huawei Ascend P7 черный</a></h3>
+         <div class="favorite_link" id="fav_1806">
+           
+        </div>
+                                                                                                                                        <div class="item-1 item">
+                            <span class="product_label">Поддержка 4G</span>                        </div>
+                                                                                                                                    <div class="item-2 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-3 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Камера</span>: 13 Мпикс                        </div>
+                                                                                                                                    <div class="item-5 item">
+                            <span class="product_label">Аудиоплеер</span>                        </div>
+                                                                                
+            </div>
+    <div class="compare_link" id="node_1806">
+        <a href="/compare/nojs/1806/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                                    <td class="product_info_td">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/samsung/samsung-galaxy-note-4-n910c-belyi" class="mts-label-new">Новинка</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/samsung/samsung-galaxy-note-4-n910c-belyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/note_4_white_front.png" alt="Samsung Galaxy Note 4 (N910C) белый" title="Samsung Galaxy Note 4 (N910C) белый"  class="imagecache imagecache-product_teaser" width="85" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/samsung/samsung-galaxy-note-4-n910c-belyi">Samsung Galaxy Note 4 (N910C) белый</a></h3>
+         <div class="favorite_link" id="fav_1980">
+           
+        </div>
+                                                                                <div class="item-1 item">
+                            <span class="product_label">ПО</span>: Android 4.4                        </div>
+                                                                                                                                                                <div class="item-2 item">
+                            <span class="product_label">Поддержка 4G</span>                        </div>
+                                                                                                                                    <div class="item-3 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-5 item">
+                            <span class="product_label">Камера</span>: 16 Мпикс                        </div>
+                                                                                                            
+            </div>
+    <div class="compare_link" id="node_1980">
+        <a href="/compare/nojs/1980/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                                    <td class="product_info_td td_last">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/prestigio/prestigio-grace-psp7557-chernyi" class="mts-label-new">Новинка</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/prestigio/prestigio-grace-psp7557-chernyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/grace_black.png" alt="Prestigio Grace (PSP7557) черный" title="Prestigio Grace (PSP7557) черный"  class="imagecache imagecache-product_teaser" width="82" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/prestigio/prestigio-grace-psp7557-chernyi">Prestigio Grace (PSP7557) черный</a></h3>
+         <div class="favorite_link" id="fav_2000">
+           
+        </div>
+                                                                                <div class="item-1 item">
+                            <span class="product_label">ПО</span>: Android 4.4                        </div>
+                                                                                                                                                                                            <div class="item-2 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-3 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Камера</span>: 13 Мпикс                        </div>
+                                                                                                                                    <div class="item-5 item">
+                            <span class="product_label">Аудиоплеер</span>                        </div>
+                                                                                
+            </div>
+    <div class="compare_link" id="node_2000">
+        <a href="/compare/nojs/2000/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                            </tr>
+            <tr class="product_links">
+                                    <td class="product_links_td td_first">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">4 769 100</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-1806" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-3" value="1"  />
+<input type="submit" name="op" id="edit-submit-1806" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions-3" value="0"  />
+<input type="hidden" name="form_build_id" id="form-f58f025c16293c5e44e8d8195b380fdf" value="form-f58f025c16293c5e44e8d8195b380fdf"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-1806" value="uc_product_add_to_cart_form_1806"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-3" value="1806"  />
+
+</div></form>
+</div></div>        </div>
+    
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4.3</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on" style="width: 30%"></span></div></div>
+</div>
+</div></div>                                            </td>
+                                    <td class="product_links_td">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">10 199 000</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-1980" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-4" value="1"  />
+<input type="submit" name="op" id="edit-submit-1980" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions-4" value="0"  />
+<input type="hidden" name="form_build_id" id="form-8f3e5ef370d492fc7fc3d16af7ca943b" value="form-8f3e5ef370d492fc7fc3d16af7ca943b"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-1980" value="uc_product_add_to_cart_form_1980"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-4" value="1980"  />
+
+</div></form>
+</div></div>        </div>
+    
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+</div>
+</div></div>                                            </td>
+                                    <td class="product_links_td td_last">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">4 292 100</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-2000" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-5" value="1"  />
+<input type="submit" name="op" id="edit-submit-2000" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions-5" value="0"  />
+<input type="hidden" name="form_build_id" id="form-cc618cae1c19b9c2dea885edcf4ee665" value="form-cc618cae1c19b9c2dea885edcf4ee665"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-2000" value="uc_product_add_to_cart_form_2000"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-5" value="2000"  />
+
+</div></form>
+</div></div>        </div>
+    
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="off">0</span></div><div class="star star-2 star-even"><span class="off"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+</div>
+</div></div>                                            </td>
+                            </tr>
+        </table>
+    </div>
+</div>
+</div>
+</div></div>
+
+<div id="block-mts-2" class="clear-block block block-mts"><div class="block-inner">
+  <h2>Хиты продаж</h2>
+
+  <div class="content"><div class="catalog-page">
+    <div class="content">
+        <table class="catalog-table">
+            <tr class="product_info">
+                                    <td class="product_info_td td_first">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/huawei/huawei-ascend-p6-chernyi" class="mts-label-action">Акция</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/huawei/huawei-ascend-p6-chernyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/huawei-ascend-p6-front.png" alt="Huawei Ascend P6 черный " title="Huawei Ascend P6 черный "  class="imagecache imagecache-product_teaser" width="82" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/huawei/huawei-ascend-p6-chernyi">Huawei Ascend P6 черный </a></h3>
+         <div class="favorite_link" id="fav_1238">
+           
+        </div>
+                                                                                                                                                                    <div class="item-1 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-2 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-3 item">
+                            <span class="product_label">Камера</span>: 8 Мпикс                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Аудиоплеер</span>                        </div>
+                                                                                
+            </div>
+    <div class="compare_link" id="node_1238">
+        <a href="/compare/nojs/1238/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                                    <td class="product_info_td">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/huawei/huawei-ascend-g730-chernyi" class="mts-label-action">Акция</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/huawei/huawei-ascend-g730-chernyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/g730.png" alt="Huawei Ascend G730 черный" title="Huawei Ascend G730 черный"  class="imagecache imagecache-product_teaser" width="82" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/huawei/huawei-ascend-g730-chernyi">Huawei Ascend G730 черный</a></h3>
+         <div class="favorite_link" id="fav_1864">
+           
+        </div>
+                                                                                <div class="item-1 item">
+                            <span class="product_label">ПО</span>: Android 4.2                        </div>
+                                                                                                                                    <div class="item-2 item">
+                            <span class="product_label">Несколько SIM-карт</span>                        </div>
+                                                                                                                                                                <div class="item-3 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-5 item">
+                            <span class="product_label">Камера</span>: 5 Мпикс                        </div>
+                                                                                                                                                
+            </div>
+    <div class="compare_link" id="node_1864">
+        <a href="/compare/nojs/1864/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                                    <td class="product_info_td td_last">
+                                                    <div class="product_teaser pic_default">
+            
+        <a href="/phones/samsung/samsung-galaxy-grand-2-g7102-belyi" class="mts-label-action">Акция</a>    
+    <div class="product_teaser_pic">
+        <a href="/phones/samsung/samsung-galaxy-grand-2-g7102-belyi"><img src="http://shop.mts.by/sites/default/files/imagecache/product_teaser/product_pics/ru_sm-g7102zkaser_000219941_standard.jpg" alt="Samsung Galaxy Grand 2 (G7102) белый" title="Samsung Galaxy Grand 2 (G7102) белый"  class="imagecache imagecache-product_teaser" width="85" height="164" /></a>    </div>
+
+    <div class="product_teaser_info">
+        <h3><a href="/phones/samsung/samsung-galaxy-grand-2-g7102-belyi">Samsung Galaxy Grand 2 (G7102) белый</a></h3>
+         <div class="favorite_link" id="fav_1624">
+           
+        </div>
+                                                                                <div class="item-1 item">
+                            <span class="product_label">ПО</span>:  Android 4.3                        </div>
+                                                                                                                                    <div class="item-2 item">
+                            <span class="product_label">Несколько SIM-карт</span>                        </div>
+                                                                                                                                                                <div class="item-3 item">
+                            <span class="product_label">Поддержка 3G</span>                        </div>
+                                                                                                                                    <div class="item-4 item">
+                            <span class="product_label">Сенсорный экран</span>                        </div>
+                                                                                                                                    <div class="item-5 item">
+                            <span class="product_label">Камера</span>: 8 Мпикс                        </div>
+                                                                                                                                                
+            </div>
+    <div class="compare_link" id="node_1624">
+        <a href="/compare/nojs/1624/add" class="ctools-use-modal ctools-modal-modal-popup-small" title="Сравнить товар">Добавить к сравнению</a>    </div>
+</div>                                            </td>
+                            </tr>
+            <tr class="product_links">
+                                    <td class="product_links_td td_first">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">3 834 000</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-1238" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-6" value="1"  />
+<input type="submit" name="op" id="edit-submit-1238" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions-6" value="0"  />
+<input type="hidden" name="form_build_id" id="form-230c3fac95b20ab8ffab63996940e17a" value="form-230c3fac95b20ab8ffab63996940e17a"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-1238" value="uc_product_add_to_cart_form_1238"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-6" value="1238"  />
+
+</div></form>
+</div></div>        </div>
+    
+            <div class="price_old"><span>&nbsp;<span class="currency-int">4 499 100</span> <span class="currency">руб.</span>&nbsp;</span></div>
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3.941175</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on" style="width: 94.1175%"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+</div>
+</div></div>                                            </td>
+                                    <td class="product_links_td">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">2 519 100</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-1864" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-7" value="1"  />
+<input type="submit" name="op" id="edit-submit-1864" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions-7" value="0"  />
+<input type="hidden" name="form_build_id" id="form-9fc2245a2c8a6df66edf4b01c17b4a8c" value="form-9fc2245a2c8a6df66edf4b01c17b4a8c"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-1864" value="uc_product_add_to_cart_form_1864"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-7" value="1864"  />
+
+</div></form>
+</div></div>        </div>
+    
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3.034485</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on" style="width: 3.4485%"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+</div>
+</div></div>                                            </td>
+                                    <td class="product_links_td td_last">
+                                                    <div class="product_teaser_controls">
+    <div class="price">
+        <span class="currency-int">4 049 100</span> <span class="currency">руб.</span>    </div>
+
+             <div class="cart">
+            <div class="cart"><div class="add-to-cart"><form action="/"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-1624" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-8" value="1"  />
+<input type="submit" name="op" id="edit-submit-1624" value="В корзину"  class="form-submit node-add-to-cart ajax-cart-submit-form-button" />
+<input type="hidden" name="additions" id="edit-additions-8" value="0"  />
+<input type="hidden" name="form_build_id" id="form-42e26345528bef1dcccb430072532426" value="form-42e26345528bef1dcccb430072532426"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-1624" value="uc_product_add_to_cart_form_1624"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-8" value="1624"  />
+
+</div></form>
+</div></div>        </div>
+    
+    
+    <div class="fivestar-static-form-item"><div class="form-item">
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3.90909</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on" style="width: 90.909%"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div>
+</div>
+</div></div>                                            </td>
+                            </tr>
+        </table>
+    </div>
+</div>
+</div>
+</div></div>
+
+<div id="block-ad-566" class="clear-block block block-ad"><div class="block-inner">
+
+  <div class="content">
+<div class="advertisement group-tids-566" id="group-id-tids-566"><script type='text/javascript' src='http://shop.mts.by/sites/all/modules/ad/serve.php?q=1&amp;t=566&amp;u=node&amp;l=node'></script></div>
+</div>
+</div></div>
+                      </div>
+                                    
+                                                                    </div> <!-- /.left-corner -->
+                            </div> <!-- /.right-corner -->
+                        </div> <!-- /#squeeze -->
+                    </div> <!-- /#center -->
+
+                                            <div id="sidebar-left" class="sidebar">
+                            
+<div id="block-menu-secondary-links" class="clear-block block block-menu"><div class="block-inner">
+  <h2>Каталог</h2>
+
+  <div class="content"><ul class="menu"><li class="collapsed first"><a href="/phones">Мобильные телефоны</a></li><li class="collapsed"><a href="/tabletpc">Планшеты</a></li><li class="leaf"><a href="/modems" title="">Модемы</a></li><li class="leaf"><a href="/routers">Роутеры</a></li><li class="collapsed"><a href="/accessories" title="">Аксессуары</a></li><li class="leaf"><a href="/camera">Фотоаппараты</a></li><li class="leaf"><a href="/lens">Камеры</a></li><li class="collapsed"><a href="/laptops">Ноутбуки</a></li><li class="leaf last"><a href="/tvs">Телевизоры</a></li></ul></div>
+</div></div>
+
+<div id="block-views-news_block-block_1" class="clear-block block block-views"><div class="block-inner">
+  <h2>Новости</h2>
+
+  <div class="content"><div class="view view-news-block view-id-news_block view-display-id-block_1 view-dom-id-fcca5a6fdb40c3fc33e1c3af86e105cb">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-created">        <span class="field-content">05.11.2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/noyabr-%E2%80%93-mesyats-vygodnykh-pokupok-v-mts">Ноябрь – месяц выгодных покупок в МТС!</a></span>  </div>  
+  <div class="views-field views-field-teaser">        <div class="field-content"><p>Оператор связи МТС рад предложить всем новым и действующим абонентам выгодные условия покупки смартфонов и планшетов! Примите участие в осенних акциях <a href="http://shop.mts.by/podari-smartfon">&laquo;Подари смартфон&raquo;</a>, <a href="http://shop.mts.by/vyberi-svoi-smartfon">&laquo;Выбери свой смартфон&raquo;</a>, <a href="http://shop.mts.by/planshety-ishchut-druzei">&laquo;Планшеты ищут друзей&raquo;</a> и <a href="http://shop.mts.by/vygodno-s-samsung">&laquo;Выгодно с Samsung&raquo;</a>!</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-created">        <span class="field-content">28.10.2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/top-5-populyarnykh-devaisov-v-internet-magazine-mts">ТОП-5 популярных девайсов в Интернет-магазине МТС</a></span>  </div>  
+  <div class="views-field views-field-teaser">        <div class="field-content"><p>Уважаемые пользователи Интернет-магазина МТС! Мы подобрали для вас самые интересные предложения и хотим представить вашему вниманию ТОП-5 популярных девайсов, которые можно приобрести на выгодных условиях с возможностью оформления рассрочки и с доставкой в любой населенный пункт Беларуси!</p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="/news">Все новости</a></p>
+    </div>
+  
+  
+</div></div>
+</div></div>
+
+<div id="block-ad-565" class="clear-block block block-ad"><div class="block-inner">
+
+  <div class="content">
+<div class="advertisement group-tids-565" id="group-id-tids-565"><script type='text/javascript' src='http://shop.mts.by/sites/all/modules/ad/serve.php?q=1&amp;t=565&amp;u=node&amp;l=node'></script></div>
+</div>
+</div></div>
+                        </div>
+                    
+                    
+                </div> <!-- /container -->
+              </div>
+          </div>
+			
+			<div id="footer">
+				<div class="footer_block footer_block_1">
+          <div class="block">
+            <h2>8 (029) 545-00-00</h2>
+            <div class="content">
+              <p>(бесплатно для абонентов МТС)</p>
+			  <p class="rfb"> Ежедневно, круглосуточно</p>
+            </div>
+          </div>
+
+          
+<div id="block-menu-menu-footer-1" class="clear-block block block-menu"><div class="block-inner">
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/feedback" title="">Обратная связь</a></li><li class="leaf"><a href="http://mts.by" title="">Перейти на сайт МТС</a></li><li class="leaf last"><a href="/map" title="">Карта сайта</a></li></ul></div>
+</div></div>
+
+          <div class="share">
+              <!--noindex--><a href="http://vkontakte.ru/club17701463" rel="nofollow" class="vk"></a><!--/noindex-->
+              <!--noindex--><a href="http://twitter.com/by_mts" rel="nofollow" class="tw"></a><!--/noindex-->
+              <!--noindex--><a href="http://www.facebook.com/mtsbelarus" rel="nofollow" class="fb"></a><!--/noindex-->
+              <!--noindex--><a href="http://odnoklassniki.ru/mtsbelarus" rel="nofollow" class="od"></a><!--/noindex-->
+              <!--noindex--><a href="https://www.google.com/+mtsbelarus" rel="nofollow" class="go"></a><!--/noindex-->
+              <!--noindex--><a href="http://www.youtube.com/user/mtsbyadv" rel="nofollow" class="yt"></a><!--/noindex-->
+              <!--noindex--><a href="https://ru.foursquare.com/by_mts" rel="nofollow" class="fq"></a><!--/noindex-->
+              <!--noindex--><a href="http://instagram.com/by_mts" rel="nofollow" class="in"></a><!--/noindex-->
+          </div>
+        </div>
+
+        <div class="footer_block footer_block_2">
+<div id="block-menu-menu-footer-2" class="clear-block block block-menu"><div class="block-inner">
+  <h2>Информация</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/about" title="">О магазине</a></li><li class="leaf"><a href="/discounts_prom" title="">Скидки и акции</a></li><li class="leaf last"><a href="/news" title="">Новости</a></li></ul></div>
+</div></div>
+</div>
+
+        <div class="footer_block footer_block_3">
+<div id="block-menu-menu-footer-3" class="clear-block block block-menu"><div class="block-inner">
+  <h2>Условия</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/oplata-i-dostavka" title="">Оплата и доставка</a></li><li class="leaf"><a href="/rassrochka" title="">Рассрочка</a></li><li class="leaf"><a href="/garantii-i-servis" title="">Гарантии и сервис</a></li><li class="leaf"><a href="/vozvrat-tovara" title="">Возврат товара</a></li><li class="leaf last"><a href="/stores">Салоны МТС</a></li></ul></div>
+</div></div>
+</div>
+
+        <div class="footer_block footer_block_last footer_block_4">
+          <p class="indent">&copy; 2002—2014<br />
+          <b>СООО «Мобильные ТелеСистемы»</b></p>
+		  <p>220043, г. Минск пр. Независимости, 95 </p>
+          <p>Лицензия МСиИ РБ №926 от 30.04.2004, действительна до 30.04.2022</p>
+          <p><a href="/about">В торговом реестре с 15 мая 2012 г.</a></p>
+            <p><!--noindex--><a href="http://www.bs-solutions.by/" rel="nofollow">Разработка<br /> и поддержка сайта</a><!--/noindex--> — <img src="/sites/all/themes/base/i/logo_mt.png" alt=""/></p>
+
+                  </div>
+		<div class="footer-pic">
+                     <div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic8.png" alt="pay-pic"/><!--/noindex--></div>
+                     <div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic14.png" alt="pay-pic"/><!--/noindex--></div>
+                     <div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic11.png" alt="pay-pic"/><!--/noindex--></div>
+			<div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic7.png" alt="pay-pic"/><!--/noindex--></div>
+			<div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic6.png" alt="pay-pic"/><!--/noindex--></div>
+			<div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic5.png" alt="pay-pic"/><!--/noindex--></div>
+			<div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic4.png" alt="pay-pic"/><!--/noindex--></div>
+			<div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic3.png" alt="pay-pic"/><!--/noindex--></div>
+			<div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic2.png" alt="pay-pic"/><!--/noindex--></div>
+			<div class="pic"><!--noindex--><img src="/sites/all/themes/base/images/pic1.png" alt="pay-pic"/><!--/noindex--></div>
+		</div>
+			</div>	
+			
+		</div>	 <!-- /wrapper -->
+
+        <!--noindex--><div style="clear:both;"><!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter18907459 = new Ya.Metrika({id:18907459,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+ 
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+ 
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/18907459" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "CToolsAJAX": { "scripts": { "/sites/all/modules/jquery_update/replace/jquery/1.3/jquery.js": true, "/misc/drupal.js": true, "/sites/default/files/languages/ru_5bf371955edbb6e36ea9e4a241882cb1.js": true, "/misc/jquery.form.js": true, "/sites/all/modules/uc_ajax_cart/js/jquery.blockUI.js": true, "/sites/all/modules/uc_ajax_cart/js/uc_ajax_cart.js": true, "/sites/all/modules/uc_ajax_cart/js/jquery.cookie.js": true, "/sites/all/modules/ad_flash/scripts/swfobject.js": true, "/sites/all/modules/fivestar/js/fivestar.js": true, "/sites/all/modules/google_analytics/googleanalytics.js": true, "/sites/all/modules/masked_input/jquery.maskedinput-1.2.2.js": true, "/sites/all/modules/mts/js/mts_catalog.js": true, "/sites/all/modules/mts/js/mts_admin.js": true, "/sites/all/modules/ctools/js/ajax-responder.js": true, "/sites/all/modules/ctools/js/modal.js": true, "/sites/all/themes/base/ctools/modal.js": true, "/sites/all/modules/poormanscron/poormanscron.js": true, "/sites/all/libraries/shadowbox/shadowbox.js": true, "/sites/all/modules/shadowbox/shadowbox_auto.js": true, "/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js": true, "/sites/all/modules/views/js/base.js": true, "/sites/all/modules/views/js/dependent.js": true, "/sites/all/modules/views_hacks/views_filters_autosubmit/views_filters_autosubmit.js": true, "/sites/all/modules/views/js/ajax_view.js": true }, "css": { "/sites/all/modules/uc_ajax_cart/css/uc_ajax_cart.css": true, "/modules/node/node.css": true, "/modules/system/defaults.css": true, "/modules/system/system.css": true, "/modules/system/system-menus.css": true, "/modules/user/user.css": true, "/sites/all/modules/cck/theme/content-module.css": true, "/sites/all/modules/ckeditor/ckeditor.css": true, "/sites/all/modules/ctools/css/ctools.css": true, "/sites/all/modules/date/date.css": true, "/sites/all/modules/date/date_popup/themes/datepicker.css": true, "/sites/all/modules/date/date_popup/themes/jquery.timeentry.css": true, "/sites/all/modules/filefield/filefield.css": true, "/sites/all/modules/fivestar/css/fivestar.css": true, "/sites/default/files/fivestar/basic/basic.css": true, "/sites/all/modules/logintoboggan/logintoboggan.css": true, "/sites/all/modules/mts/css/mts.css": true, "/sites/all/modules/mts/css/mts_admin.css": true, "/sites/all/modules/ctools/css/modal.css": true, "/sites/all/themes/base/ctools/modal.css": true, "/sites/all/modules/price_printer/css/price_printer.css": true, "/sites/all/libraries/shadowbox/shadowbox.css": true, "/sites/all/modules/shadowbox/shadowbox.css": true, "/sites/all/modules/simplenews/simplenews.css": true, "/sites/all/modules/ubercart/shipping/uc_quote/uc_quote.css": true, "/sites/all/modules/ubercart/uc_order/uc_order.css": true, "/sites/all/modules/ubercart/uc_product/uc_product.css": true, "/sites/all/modules/ubercart/uc_store/uc_store.css": true, "/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css": true, "/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css": true, "/sites/all/modules/views/css/views.css": true, "/sites/all/themes/base/style.css": true, "/sites/all/themes/base/html/layout.css": true, "/sites/all/themes/base/print.css": true } } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/jquery_update\/replace\/jquery\/1.3\/jquery.js":true,"\/misc\/drupal.js":true,"\/sites\/default\/files\/languages\/ru_5bf371955edbb6e36ea9e4a241882cb1.js":true,"\/misc\/jquery.form.js":true,"\/sites\/all\/modules\/uc_ajax_cart\/js\/jquery.blockUI.js":true,"\/sites\/all\/modules\/uc_ajax_cart\/js\/uc_ajax_cart.js":true,"\/sites\/all\/modules\/uc_ajax_cart\/js\/jquery.cookie.js":true,"\/sites\/all\/modules\/ad_flash\/scripts\/swfobject.js":true,"\/sites\/all\/modules\/fivestar\/js\/fivestar.js":true,"\/sites\/all\/modules\/google_analytics\/googleanalytics.js":true,"\/sites\/all\/modules\/masked_input\/jquery.maskedinput-1.2.2.js":true,"\/sites\/all\/modules\/mts\/js\/mts_catalog.js":true,"\/sites\/all\/modules\/mts\/js\/mts_admin.js":true,"\/sites\/all\/modules\/ctools\/js\/ajax-responder.js":true,"\/sites\/all\/modules\/ctools\/js\/modal.js":true,"\/sites\/all\/themes\/base\/ctools\/modal.js":true,"\/sites\/all\/modules\/poormanscron\/poormanscron.js":true,"\/sites\/all\/libraries\/shadowbox\/shadowbox.js":true,"\/sites\/all\/modules\/shadowbox\/shadowbox_auto.js":true,"\/sites\/all\/modules\/views_slideshow\/js\/jquery.cycle.all.min.js":true,"\/sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_singleframe\/views_slideshow.js":true,"\/sites\/all\/modules\/views\/js\/base.js":true,"\/sites\/all\/modules\/views\/js\/dependent.js":true,"\/sites\/all\/modules\/views_hacks\/views_filters_autosubmit\/views_filters_autosubmit.js":true,"\/sites\/all\/modules\/views\/js\/ajax_view.js":true}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Shadowbox.path="/sites/all/libraries/shadowbox/";Shadowbox.init(Drupal.settings.shadowbox)
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-35879768-1"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s)})()
+//--><!]]>
+</script>
+<!--/noindex-->
+
+       <!-- Поместите этот вызов функции отображения в соответствующее место. -->
+        <!--noindex--><script type="text/javascript">
+         window.___gcfg = {lang: 'ru'};
+
+         (function() {
+           var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+           po.src = 'https://apis.google.com/js/plusone.js';
+           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+         })();
+       </script><!--/noindex-->
+	</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name=“robots” content=“index,follow”>
+    <meta name="keywords" content="Обувь, Туфли, Балетки, Сапожки, Галерея обуви, купить обувь, лакшери обувь, вся обувь" />
+    <meta name="description" content="Интернет магазин Галерея Обуви. Это уникальная торговая галерея онлайн-шопинга, где представлены новые коллекции всех мировых брендов. Лучший сервис и экспресс-доставка обуви по России" />
+
+    <title>Gallery.Shoes — интернет магазин обуви</title>
+    
+<!-- <link rel="stylesheet" type="text/css" href="./css/style.css" />-->
+    <link rel="stylesheet" type="text/css" href="./css/main.css" />
+    <link rel="stylesheet" type="text/css" href="./css/menu.css" />
+    <link rel="stylesheet" type="text/css" href="./css/topsale.css" />
+    <link rel="stylesheet" type="text/css" href="./css/breadcrumbs.css" />
+    <link rel="stylesheet" type="text/css" href="./css/catalog.css" />
+    <link rel="stylesheet" type="text/css" href="./css/detail.css" />
+    <link rel="stylesheet" type="text/css" href="./css/message.css" />
+    <link rel="stylesheet" type="text/css" href="./css/basket.css" />    
+      <!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter25227341 = new Ya.Metrika({id:25227341, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true, trackHash:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/25227341" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+  </head>
+  <body>
+    <!--
+      Мы настоятельно просим вас не редактировать HTML код внутри тега noindex,
+      также не удалять сам тег noindex. Наш робот будет переодически обращаться
+      к Вашей странице и проверять валидность данного кода. В случае если робот
+      не сможет распознать данный код, Ваша страница будет заблокирована!
+      
+      Команда Sapato Partners
+    -->
+    <noindex>
+      <!-- noindex -->
+        
+      <!-- Проверка на IE10 -->
+      <!--[if lt IE 10]>
+        <style type="text/css">
+          html,body                         { overflow: hidden; width: 100%; height: 100%; }
+          #bad_browser                      { width: 100%; height: 100%; }
+          #bad_browser div                  { margin: 200px auto; width: 500px; }
+          #bad_browser div.title            { font-size: 24px; font-weight: bold; color: #808080; text-align: center; }
+          #bad_browser div.title span       { color: #ff0000; }
+          #bad_browser div.message          { font-size: 14px; text-align: center; }
+          #bad_browser div.message a        { color: #0000ff; }
+          #bad_browser div.message a:hover  { color: #ff0000; }
+        </style>
+        <div id="bad_browser">
+          <div class="title">Не возможно открыть страницу <span>:(</span></div>
+          <div class="message">
+            Приносим свои извенения, но данное приложение поддерживает Internet Explorer версии 10 и выше,
+            или любой другой браузер :)<br/><br/>
+            <a href="http://www.google.com/chrome">Google Chrome</a> |
+            <a href="http://www.firefox.com/">Firefox</a> |
+            <a href="http://www.apple.com/safari">Safari</a><br/><br/>
+            Или передите на сайт <a href="http://www.sapato.ru">Sapato.ru</a>
+          </div>
+        </div>
+      <![endif]-->
+      <!-- /Проверка на IE10 -->
+      
+      <!-- Рабочая зона -->
+      <div id="container"></div>
+      <div id="copyright"></div>
+      <!-- /Рабочая зона -->
+      <!-- Системные скрипты -->
+        <script type="text/javascript">
+            var dataUrl = "http://www.sapato.ru/rest/rest_api.php";
+            var pLogin = "3gcujqiTegw3TqqxfDG9lhdxMAC/ECN+";
+            var pPassHash = "52ceb851af0f4c29457dc8d3ba898848d0589bf671c3bb601c1720c6e6b79e1aa0f8220ac7016659b2238b2ef79b680ff17d12125be1a695a249d94baf1eff3c";
+        </script>
+        <script type="text/javascript" src="http://cssjs.sapato.ru/js/shop.js"></script>
+      <!-- /Системные скрипты -->
+        
+      <!-- /noindex -->
+    </noindex>
+  </body>
+</html>
